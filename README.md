@@ -1,6 +1,6 @@
 # Estudos de Supravizio
 
-Atualização em 07/10/2026. Este repositório reúne relatórios de aprendizado e progresso, preparados sem XMLs, scripts internos, dados pessoais, transcrições empresariais ou credenciais. Os materiais completos permanecem no computador.
+Atualização em 08/10/2026. Este repositório reúne relatórios de aprendizado e progresso, preparados sem XMLs, scripts internos, dados pessoais, transcrições empresariais ou credenciais. Os materiais completos permanecem no computador.
 
 ## Manual
 
@@ -15,6 +15,13 @@ Estudo estrutural de 104 XMLs: 98 exportações distintas e 113 subprocessos. Fo
 - [Revisão interpretativa e cenários de teste](estudo-xml/REVISAO-INTERPRETATIVA-SCRIPTS.md).
 - [Progresso agregado](estudo-xml/PROGRESSO-REVISAO-INTERPRETATIVA.json).
 
-Nenhum script foi executado no Supravizio. O usuário ainda não disponibilizou acesso ao software. O áudio de seis aulas foi transcrito localmente (aproximadamente 23h31min); imagens foram revistas por amostragem.
+Nenhum script da empresa foi executado no Supravizio. Houve teste de inicialização do cliente pelo Wine, com erro de referência nula; acesso funcional ao ambiente não foi confirmado. O áudio de seis aulas foi transcrito localmente (aproximadamente 23h31min); imagens foram revistas por amostragem.
 
 [Manual oficial](https://help.supravizio.com/Supravizio.htm).
+
+## Toolbox, CHM e exemplos de scripts
+
+- [Estudo do Toolbox, aprovação e scripts](estudo-chm/TOOLBOX-APROVACAO-SCRIPTS.md).
+- [Progresso do CHM](estudo-chm/PROGRESSO.json): 12 tópicos lidos integralmente e uma consulta pontual em 3.295 páginas extraídas.
+
+Inclui a fórmula de aprovação para o gateway, o comando de avanço automático da tarefa e a distinção entre aprovação pendente e reprovação.

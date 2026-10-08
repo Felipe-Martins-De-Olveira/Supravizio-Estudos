@@ -1,0 +1,428 @@
+{
+  "data": "2026-10-08",
+  "metodo": "leitura por blocos e revisão visual amostrada",
+  "aula_1": {
+    "blocos_transcricao_lidos_segundos": [
+      [
+        0,
+        1200
+      ],
+      [
+        1200,
+        2400
+      ],
+      [
+        2400,
+        3600
+      ],
+      [
+        3600,
+        4800
+      ],
+      [
+        4800,
+        6000
+      ],
+      [
+        6000,
+        7200
+      ],
+      [
+        7200,
+        8400
+      ],
+      [
+        8400,
+        9600
+      ],
+      [
+        9600,
+        10800
+      ],
+      [
+        10800,
+        12000
+      ],
+      [
+        12000,
+        13030
+      ]
+    ],
+    "trechos_autenticacao_omitidos": true,
+    "quadros_examinados_segundos": [
+      275,
+      485,
+      955,
+      1185,
+      1720,
+      2430,
+      3155,
+      4280,
+      4630,
+      6195,
+      6845,
+      8675,
+      8890,
+      10790,
+      11045,
+      11790,
+      12300,
+      12405,
+      12765,
+      13080,
+      13800
+    ],
+    "proximo_bloco_segundos": null,
+    "revisao_integral_video": false,
+    "intervalo_sem_falas_aproximado_segundos": [
+      4876,
+      5954
+    ],
+    "estado": "conteúdo transcrito revisado até encerramento; visual amostrado",
+    "ultima_fala_segundos": 13029,
+    "duracao_catalogada_segundos": 14400.06,
+    "silencio_final_detectado_segundos": [
+      13033.766437,
+      14400.064
+    ]
+  },
+  "validacao_software_empresa": false,
+  "proximo": null,
+  "aula_2": {
+    "estado": "conteúdo transcrito revisado até encerramento; visual amostrado",
+    "blocos_transcricao_lidos_segundos": [
+      [
+        0,
+        2400
+      ],
+      [
+        2400,
+        4800
+      ],
+      [
+        4800,
+        7200
+      ],
+      [
+        7200,
+        9600
+      ],
+      [
+        9600,
+        12000
+      ],
+      [
+        12000,
+        13907.39
+      ]
+    ],
+    "ultima_fala_segundos": 13882,
+    "duracao_catalogada_segundos": 13907.39,
+    "linhas_transcricao": 355,
+    "hash_sha256_transcricao": "d4ebbbc762f3cf6285d5342ff662acdb48a4a06e404faaae45a09a68af7b91b2",
+    "trechos_autenticacao_omitidos": true,
+    "quadros_examinados_segundos": [
+      380,
+      580,
+      1110,
+      1360,
+      3245,
+      3320,
+      4620,
+      4880,
+      7530,
+      9435,
+      12020,
+      13355,
+      13430,
+      13480,
+      13535,
+      13610,
+      13635,
+      13715,
+      13760,
+      13775
+    ],
+    "revisao_integral_video": false,
+    "intervalo_sem_falas_aproximado_segundos": [
+      5637,
+      6883
+    ],
+    "validacao_software_empresa": false
+  },
+  "aula_3": {
+    "estado": "conteúdo transcrito revisado até encerramento; visual amostrado",
+    "blocos_transcricao_lidos_segundos": [
+      [
+        0,
+        2400
+      ],
+      [
+        2400,
+        4800
+      ],
+      [
+        4800,
+        8400
+      ],
+      [
+        8400,
+        11400
+      ],
+      [
+        11400,
+        13706.24
+      ]
+    ],
+    "ultima_fala_segundos": 13673,
+    "duracao_catalogada_segundos": 13706.24,
+    "linhas_transcricao": 292,
+    "hash_sha256_transcricao": "a8c41d489f1a208f8cc2525982ff277d7ca6f84a0c2176ddbb68347fc5a2adac",
+    "trechos_autenticacao_omitidos": true,
+    "quadros_examinados_segundos": [
+      605,
+      1110,
+      1220,
+      1280,
+      1835,
+      2480,
+      4850,
+      5160,
+      5220,
+      7350,
+      9690,
+      12090,
+      12690,
+      12920,
+      13310,
+      13615
+    ],
+    "revisao_integral_video": false,
+    "validacao_software_empresa": false,
+    "relatorio": "REVISAO-AULA-3.md"
+  },
+  "aula_4": {
+    "estado": "conteúdo transcrito revisado até encerramento; visual amostrado",
+    "blocos_transcricao_lidos_segundos": [
+      [
+        0,
+        3600
+      ],
+      [
+        3600,
+        6000
+      ],
+      [
+        6000,
+        9600
+      ],
+      [
+        9600,
+        12000
+      ],
+      [
+        12000,
+        14400.06
+      ]
+    ],
+    "ultima_fala_segundos": 14076,
+    "duracao_catalogada_segundos": 14400.06,
+    "linhas_transcricao": 319,
+    "hash_sha256_transcricao": "7f81f75a3e5b998aef1eb6fa4373f9c2652eb44bf4934bb1236bce66f23d39a4",
+    "trechos_autenticacao_omitidos": true,
+    "quadros_examinados_segundos": [
+      420,
+      470,
+      560,
+      620,
+      850,
+      1140,
+      1660,
+      2410,
+      2470,
+      3940,
+      5020,
+      6890,
+      7040,
+      7110,
+      7800,
+      9440,
+      11520,
+      12150,
+      13190,
+      13270,
+      13560,
+      13710,
+      13970,
+      14110,
+      14370
+    ],
+    "revisao_integral_video": false,
+    "validacao_software_empresa": false,
+    "silencio_final_detectado_segundos": [
+      14082.481438,
+      14400.064
+    ],
+    "relatorio": "REVISAO-AULA-4.md",
+    "divergencias_documentacao": [
+      "timer retroativo após ativação",
+      "geração sem responsável"
+    ],
+    "exemplo_grid_final": "incompleto e não validado"
+  },
+  "aula_5": {
+    "estado": "conteúdo transcrito revisado até encerramento; visual amostrado",
+    "blocos_transcricao_lidos_segundos": [
+      [
+        0,
+        2400
+      ],
+      [
+        2400,
+        4800
+      ],
+      [
+        4800,
+        7200
+      ],
+      [
+        7200,
+        9600
+      ],
+      [
+        9600,
+        13888.7
+      ]
+    ],
+    "ultima_fala_segundos": 13870,
+    "duracao_catalogada_segundos": 13888.7,
+    "linhas_transcricao": 317,
+    "hash_sha256_transcricao": "cc811c158c25f63725dd79dd018aaa9969247ccc82dd99e21826be7501b30792",
+    "trechos_autenticacao_omitidos": true,
+    "quadros_examinados_segundos": [
+      335,
+      610,
+      1690,
+      1870,
+      2360,
+      2900,
+      2930,
+      3550,
+      3670,
+      3930,
+      3990,
+      4620,
+      4690,
+      5000,
+      5370,
+      7090,
+      7520,
+      8620,
+      9690,
+      11580,
+      12160,
+      12210,
+      12580,
+      12865,
+      13180,
+      13520,
+      13870
+    ],
+    "revisao_integral_video": false,
+    "validacao_software_empresa": false,
+    "relatorio": "REVISAO-AULA-5.md",
+    "pendencias_demonstracao": [
+      "execução do script de atores",
+      "gatilhos temporais de ações ANO",
+      "encerramento após limite de pausa manual",
+      "configuração final da pausa do exercício",
+      "correções adiadas para Aula 6"
+    ]
+  },
+  "aula_6": {
+    "estado": "conteúdo transcrito revisado até encerramento; visual amostrado",
+    "blocos_transcricao_lidos_linhas": [
+      [
+        1,
+        32
+      ],
+      [
+        33,
+        65
+      ],
+      [
+        66,
+        100
+      ],
+      [
+        101,
+        135
+      ],
+      [
+        136,
+        170
+      ],
+      [
+        171,
+        205
+      ],
+      [
+        206,
+        240
+      ],
+      [
+        241,
+        275
+      ],
+      [
+        276,
+        309
+      ]
+    ],
+    "ultima_fala_segundos": 14280,
+    "duracao_catalogada_segundos": 14388.54,
+    "linhas_transcricao": 309,
+    "hash_sha256_transcricao": "de321af51b8261536aaa07e86ef92342c5d229088957483bc7b8bb2a1a651b33",
+    "quadros_examinados_segundos": [
+      310,
+      650,
+      980,
+      1580,
+      2500,
+      2600,
+      3070,
+      3240,
+      3800,
+      4270,
+      4670,
+      4730,
+      5000,
+      7030,
+      7060,
+      7120,
+      7200,
+      7650,
+      8270,
+      8710,
+      9560,
+      13220,
+      13370,
+      13480,
+      13550,
+      13730,
+      13980,
+      14270,
+      14295
+    ],
+    "revisao_integral_video": false,
+    "validacao_software_empresa": false,
+    "relatorio": "REVISAO-AULA-6.md",
+    "divergencias_corrigidas": [
+      "Percentual envio versus quantidade",
+      "Chamada assíncrona True versus espera da filha",
+      "views não são automaticamente somente leitura",
+      "nova instância versus reexecução na mesma OS"
+    ]
+  },
+  "estado_rodada": "seis transcrições revisadas até encerramento; conferência visual amostrada; runtime não validado"
+}

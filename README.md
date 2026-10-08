@@ -29,3 +29,10 @@ Inclui a fórmula de aprovação para o gateway, o comando de avanço automátic
 ## Transcrições das seis aulas
 
 [Consultar as aulas em TXT e SRT](estudo-materiais/transcricoes/README.md). As cópias publicadas mantêm os tempos, substituem nomes de participantes e sinalizam trechos omitidos sobre autenticação, identificadores e referências de acesso. Transcrições automáticas podem conter erros; os originais completos permanecem locais.
+
+## Revisões detalhadas e orientação para outra IA
+
+- [Revisões das seis aulas](estudo-aulas/revisao-2026-10-08/README.md): conteúdo transcrito revisado até encerramento, com 138 quadros conferidos por amostragem.
+- [Prompt completo para ensinar outra IA a auxiliar no aplicativo](PROMPT-PARA-IA-SUPRAVIZIO.md): ordem de estudo, desenho nativo, formulários, scripts, validação e operação autorizada.
+
+Os exemplos de código acrescentados são didáticos. As notas publicadas generalizam nomes e referências específicas; nenhuma execução no software empresarial foi validada nesta rodada.

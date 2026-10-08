@@ -1,0 +1,1167 @@
+1
+00:00:10,640 --> 00:00:46,210
+Vou compartilhar minha tela então aqui. Ontem a gente viu bem rapidamente a configuração aqui de uma aprovação no Supravizio. Hoje a gente vai, todo mundo exercitar, tentar realizar essa configuração. E aí para ver qual será a dificuldade, se está tranquilo. Eu vou fazer aqui novamente o procedimento. Eu fiz ontem só para, se caso alguém conseguisse essa gravação depois e quisesse já fazer alguma coisa, essa foi a ideia.
+
+2
+00:00:46,210 --> 00:01:23,810
+Mas aqui eu vou fazer novamente, só para a gente fazer todo mundo junto. E aí vai ser aquele mesmo esquema, né? A gente vai tentar fazer, aí quem não conseguir, compartilha a tela e aí a gente vai ajudando, tá bom? Eu vou então aqui gerar uma nova versão. Vou salvar aqui, beleza. Para a gente fazer todo mundo junto aí essa parte. Eu vou apagar aqui, beleza. Então inicialmente nosso processo estava bem simples assim, né?
+
+3
+00:01:23,810 --> 00:02:03,260
+Só tinha lá um evento final e tudo mais, beleza? Eu vou salvar aqui, eu vou fazer tudo do zero aqui, a gente faz junto, tá bom? Então, ó, o primeiro passo aí de vocês é você gerar uma nova versão, tá? No processo lá que eu tô falando é o adquirir suprimentos, tá? Então, todo mundo gerando uma nova versão, por favor. Deixa eu só apagar aqui, beleza. Todo mundo já conseguiu gerar a versão, tá tranquilo? Como é que faz aqui o [participante] pra gerar? Quem perguntou foi o [participante].
+
+4
+00:02:03,260 --> 00:02:33,650
+Ô, [participante], verdade, né, [participante]? Você não estava com a gente no início, né? Mas é assim, ó, vou fazer aqui de novo, tá? É, se você fazer, eu vou acompanhando aqui no meu. Beleza. Eu vou só, então, remover essa versão que eu gerei aqui. Como que eu faço, tá? Eu clico aqui na, por exemplo, acho que você não vai ter o processo de adquirir suprimentos, né? Eu tenho o processo de atividade 01 aqui, que é esse, acho que é aquele que a gente estava fazendo ontem, no final do dia. Isso, mas esse daí é da atividade, né? O que a gente tem aqui agora é o adquirir suprimentos, é um que a gente...
+
+5
+00:02:33,650 --> 00:02:58,690
+Iniciou lá no comecinho do curso, né? Foi o seguinte. Você exporta e me passa aqui. Isso, escreva e fala. Boa. Eu não sei se eu consigo enviar para você o arquivo, tá? Eu acho que, enquanto convidado, eu não sei se eu consigo, mas eu lembro que ontem você conseguiu mandar para o pessoal, né? Então, eu vou fazer o seguinte, ó. Senhores, quem puder aí nos ajudar em relação a isso, por favor... Eu vou exportar e mandar aqui. Perfeito. Pode mandar, então, para o [participante] lá.
+
+6
+00:02:58,690 --> 00:03:29,870
+E aí quando o [participante] tiver essa informação, [participante], mas é basicamente o seguinte, ó, pra gerar uma nova versão, só o caminhão do carro passar aqui, ó, eu clico aqui versão corrente, tá? Que é a versão ativa, tá vendo? Ele tem aqui uma setinha verde, botão direito, nova versão. Aí ele vai gerar aqui uma versão em edição, eu expando ela aqui e dou um duplo clique pra acessar o processo que eu quero editar. É assim que eu gero uma nova versão, tá? Quando, quem vai enviar pra você o processo, quem falou foi o...
+
+7
+00:03:31,890 --> 00:04:01,310
+[participante]. Ô, [participante], quando o [participante] mandar o processo para você, [participante], eu faço o seguinte, compartilha a sua tela com a gente, que a gente vê todo mundo aí, essa parte aí, para, não a questão da importação, mas como criar o processo lá, adicionar lá o administrativo, talvez você já até saiba fazer isso, mas a gente vai revisar de qualquer forma, ou não, né, porque como você não estava no início da aula, o exercício, o exercício, atividade 01, você já fez isso, mas a gente pode revisar de qualquer forma, tá, agora me veio à mente isso aí, memória, na verdade.
+
+8
+00:04:01,310 --> 00:04:34,640
+E aí, por favor, compartilha sua tela com a gente, aí todo mundo já fica no mesmo barco. Beleza. Ele tá gerando aqui ainda, peraí. Já vou mandar. É o adquirir suprimentos, né, [participante]? Isso. Beleza. Vou compartilhar aqui a versão 3. Quando é assim, ele puxa só a última versão ou ele manda o histórico junto? Ele manda só a última versão. Beleza.
+
+9
+00:04:53,170 --> 00:05:24,400
+Uma pergunta para vocês, o que vocês acham que vai acontecer lá no ambiente do [participante] quando a gente importar o processo? Ele vai lá aparecer versão 3 ou vai criar a versão 1 quando ele importar? Alguém tem alguma sugestão? Acho que é a versão 1, né? Beleza, exatamente. Apesar da versão 1 ser 3 que o [participante] está exportando, ou 2, enfim, quando ele importar lá é uma nova versão, né? Então, [participante], pode falar.
+
+10
+00:05:24,400 --> 00:06:32,240
+Não, não falei nada não. Não, eu falei que mandei já o arquivo no chat. Vamos ver lá. Aí, [participante], se você quiser compartilhar a sua tela com a gente, tá? Só pra gente ver como você vai proceder em relação a isso. Beleza. Vamos ver na tela. Agora sim. Beleza. Aí é o seguinte, [participante], ó. Tá vendo que você tá no macro processo ali chamado macro? Você vai ter que, na verdade, mudar ali pro macro processo chamado tecnologia da informação. Beleza.
+
+11
+00:06:32,560 --> 00:07:04,850
+E aí, ó, você vai precisar criar um processo. Primeiro o processo, depois você importa. Tá, tá no novo aqui, né? Bom, aí eu não vou falar mais, agora é com a equipe aqui avançada aí no Supravizio, tá? Senhores, como ele criou o novo processo? É, não. Clica embaixo onde tem os processos, teve com direito, aí não. Aí, isso. Novo. Show. O nome do processo é administrativo, tá? [participante].
+
+12
+00:07:09,260 --> 00:07:41,070
+Pode ser, desde que ela não exista aí, né, pra nenhum processo. Ele vai dar algum erro, se já tiver? Sim, sim, pode ser que eu dão confirmar. Beleza, agora dá um salvar lá, só pra dar um susto no supra-visão, pra não acontecer o que aconteceu com o [participante] ontem, né, o [participante] teve um problema desses aí, a gente precisou importar, exportar o processo e tal, então teve um probleminha, mas na verdade não foi erro dele, foi erro da ferramenta mesmo, então...
+
+13
+00:07:41,070 --> 00:08:29,040
+Só pra dar um susto ali. Beleza, agora você tem o administrativo, tá vendo a edição ali? Clica em cima dele, botão direito, tem a opção ali de importar, tá vendo? Vai ser aquela, o de cima, isso, importar. Aí é só esperar um pouquinho, pode dar um ok ali, ali um confirmar importação, né? Aí ele coloca ali o que ele vai importar, descrição, responsável, solucionador responsável. Eu tenho que salvar?
+
+14
+00:08:29,040 --> 00:09:13,570
+Só clicar ali, confirmar importação, lá embaixo, no verdinho. Onde? Ali, lá no canto esquerdo. Ah, tá, tá. Confirmar importação. Pronto, e agora? Acho que tá travada a tela, né? Pra mim, agora atualizou. Agora atualizou também pra mim, beleza. Agora dá um duplo clique ali no processo de criar suprimentos, ó. Beleza, ele tá simples aí, né? Tenta validar e ativar ele, tá?
+
+15
+00:09:13,570 --> 00:09:38,940
+Sempre é bom salvar ou não? Nesse caso aí, como você vai validar o processo e ativar, é tranquilo. Ele já conseguiu persistir as informações no banco, então não teria problema não. Vamos validar o processo para ver se tem alguma pendência, e aí se tiver a gente já ajusta. Você vai ativar e a gente vai gerar uma versão 2D, tá? Beleza. E aí, como é que faz? Quem fala?
+
+16
+00:09:38,940 --> 00:10:05,980
+[participante], só uma dúvida. Aquele comprador de nível que a gente salvou aquele dia, se o [participante] não tivesse salvo na máquina dele, nesse ambiente dele, o que aconteceria? Comprador de nível não tivesse salvo na máquina dele. Você fala o papel, certo? É o papel. Vamos ver o que aconteceu. Então, a dúvida do [participante] é a seguinte. Fala, pô, mas o que aconteceu? Será que ele importou o [participante]? Na verdade é o seguinte, [participante], ele não tem o seu usuário na máquina dele.
+
+17
+00:10:05,980 --> 00:10:35,700
+O usuário [participante], né? Cada um aí criou um usuário, uma pessoa com cadastro de, ó lá, ó. Com cadastro que tem colado ao seu usuário. Nesse caso aí, ele não achou o seu usuário chamado [participante], ó. Então, ele não importa a pessoa, né, nesse contexto. Olha só o que ele falou. Comprador, tal, tal, tal, indica uma pessoa, grupo de trabalho, alguma coisa do tipo. Então, vamos fazer o seguinte, pode fechar aí. Agora a gente vai revisar esse papel aí, comprador de nível, tá? Agora, senhoras, é com vocês aí. O que ele precisa fazer aí?
+
+18
+00:10:38,190 --> 00:11:21,170
+Precisa clicar ali onde está adquirir suprimentos do lado direito, com direito, validar, e depois você faz a mesma coisa para ativar. Aí o papel deu erro. Certo. E agora, o que precisa fazer para ajustar isso daí? Vai nas propriedades. Clica no quadradinho branco, realizar compra, e aí vai nas propriedades dele. Você pode clicar em propriedades ali embaixo, à direita.
+
+19
+00:11:21,170 --> 00:11:58,560
+Tem ali propriedades e process explorer. [participante], só minimiza aí o nome, onde está o pessoal do Teams, a telinha, que você vai conseguir visualizar. Isso. Ah, tá, beleza. Tem propriedades e... Pronto, vai propriedades. Aí está vendo ali, ó, responsável, comprador de nível. Clica nesse comprador de nível aí e aí vai aparecer aquelas três... Isso, essa setinha no canto aí. Mas a gente precisa configurar. Calma aí.
+
+20
+00:11:58,560 --> 00:12:33,760
+Quase. Tem que ir pra pé, gente. Papéis. Tem que ir pra pé. Na barra de ferramentas, do lado de campo, você ajuda? Isso. Na barra de ferramentas, aonde? Pra direita. Mais um. Show de bola. Aí eu tenho que procurar aqui o... Comprador de nível. Comprador de nível. Tá pra cima aqui. Aí clica com o botão direito nele.
+
+21
+00:12:33,760 --> 00:13:11,970
+Ali na lateral já tem relação de pessoas, coleção. Adicionar? Novo? Não, aí você vai clicar nas bolinhas e isso, adicionar. Aqui está com um lagzinho. Aí ali pessoa, fila, você vai clicar nesse pessoa, fila aí. Aí vai aparecer de novo as bolinhas. Pode pegar o meu usuário ou qualquer um? Isso, é o seu. Coloca o seu. Na verdade, acho que podia ser qualquer um, mas aí...
+
+22
+00:13:11,970 --> 00:13:54,060
+É, porque eu acho que aquele lá não tinha, era na minha aqui. É, aí seleciona o seu aí e dá ok. Ou seja, papel que criou, não tinha ninguém, não é isso? A mensagem era essa? Isso, isso, isso. Vamos tentar validar de novo aqui. Aí salva, clica em salvar ali, lá naquele cantinho ali, à esquerda ali em cima, salva ali antes. Isso, aí tenta validar de novo. Aí, show de bola. Agora é só ativar o processo.
+
+23
+00:13:54,060 --> 00:14:22,690
+Aí, galera, aí, ó, zero de interferência da minha parte, hein, gostei de ver aí. A galera orientou certinho aí a... É isso que vai acontecendo no dia a dia de vocês, tá, senhores? É por isso que eu sempre estou exercitando essa parte aí de deixar com vocês pra justamente ver quais são as dificuldades. Um consegue, por exemplo, um sabe um pouquinho, o outro, por exemplo, o primeiro foi na questão da atividade, aí falou, opa, é aquele papel que está com problema. Aí o outro lembrou, ah, tem que acessar papéis. Então, tipo, um vai construindo aí.
+
+24
+00:14:22,690 --> 00:14:52,850
+E aí, essa é a ideia, tá? Bacana aí. Então, agora é o seguinte, [participante]. Gera uma nova versão, e aí agora a gente vai fazer lá a questão da aprovação, tá? Somente pra você ter duas versões aí, certinho aí, igual a todo mundo. Não, é só gerar uma nova versão agora desse carinha aí, tá? E aí você clica ali, ó, tá vendo? Ou em cima dele, ou naquela versão corrente ali, isso. Clica aí na versão, pode ser também aí. Perdão, em cima da corrente ali. Falei bobagem.
+
+25
+00:14:52,850 --> 00:15:00,000
+E aí, ó, nova versão. Beleza. Agora é o seguinte, ó, aquela versão...
+
+26
+00:15:00,000 --> 00:15:29,420
+A versão que você está acessando no design é a versão 1, tá vendo? Adquirir suprimentos, versão 1. Aí você vai acessar a versão 2. Você pode até fechar essas abas aí para não te atrapalhar, tá? Pode fechar. Até para não te atrapalhar. Pode fechar essa daí também. Agora sim, agora acessa a versão 2 lá do adquirir suprimentos. Perfeito. Dá um double clique aí. Bacana. Agora está todo mundo aí na mesma página. Agora eu vou compartilhar a minha tela aqui e a gente vai fazer a aprovação, tá?
+
+27
+00:15:29,420 --> 00:16:00,660
+Tá, beleza, vou terminar mesmo. Beleza, muito obrigado. Eu vou só desfazer aqui novamente essa parte, né, coisa rápida. Vou salvar aqui, beleza. A minha tá na versão 5 porque eu gerei algumas versões aqui, tá? Ontem eu já me adiantei em algumas coisas aí, por isso que a minha tá na versão um pouco mais avançada. Mas o desenho é o mesmo aqui, tá? Então agora a gente vai fazer, vai configurar aprovações no Supravizio, tá? Então eu vou colocar aqui uma tarefa, tá? Essa tarefa vai ser uma tarefa realizar aprovação.
+
+28
+00:16:09,100 --> 00:16:35,500
+Eu vou ter lá um gate e tal. O gate aqui vai ser o gate exclusivo, tá? Ele fica embaixo da atividade chamada aqui, essa atividade amarelinha. Clico aqui e jogo pra cá. Beleza? Por default ele vem com essa opção aqui, ó, dados ou fórmula, tá? Mas a gente vai ver como que é utilizando essa opção. Agora eu venho aqui, ó, aprovação na folhinha verde, clico nela e clico na atividade realizar aprovação, tá? Próximo passo aqui, ó.
+
+29
+00:16:35,500 --> 00:17:05,980
+É colocar uma atividade, um código para essa atividade aqui, tá? Eu vou colocar aqui, por exemplo, aprovação. Pode ser qualquer nome aqui, tá? Desde que ele seja único aqui por processo, tá? Pô, mas se eu tiver um processo lá, processo, sei lá, compras, eu poderia ter esse mesmo código para uma atividade de aprovação? Sim. Esse código aqui, ele só fica no contexto do processo, tá? Não de toda a base, que é o caso dos processos. Então, por exemplo, quando você cria lá um processo, adquire os princípios, você dá uma cega para ele,
+
+30
+00:17:05,980 --> 00:17:34,670
+Toda a base enxerga aquele processo. Enquanto que esse código aqui é por processo, tá? Então você pode ter, por exemplo, adquirir suprimentos e uma atividade de aprovação com código de aprovação. E também pode ter um processo chamado compras com uma atividade de aprovação com o mesmo código, tá? Eles não enxergam um ou outro nesse contexto, tá? Então, beleza, né? Agora eu só vou aqui continuar com a configuração. Eu vou colocar aqui um elemento final e um cancelamento.
+
+31
+00:17:35,280 --> 00:18:02,930
+Agora eu vou conectar por meio do fluxo aqui no processo. Isso não tem uma ordem, tá? Eu estou fazendo essa ordem aqui porque... Oi, quem fala? [participante]. Oi, [participante]. O meu de ontem, alguma coisa aconteceu que ele veio meio desconfigurado. Os fluxos não estavam mais, aí eu refiz. Só que o do preenchimento de campos ali, que eu clico e clico em cima, ele está solto sem aquela setinha clarinha ali.
+
+32
+00:18:03,280 --> 00:18:36,430
+Pra eu não precisar refazer tudo de novo, tem algum jeito de eu... Você pode compartilhar sua tela com a gente, por favor, [participante]? Sim. Só pra dar uma olhada? Eu já tinha feito ontem. Alguma coisa aconteceu que sumiu, sumiu os setinhos, aí eu refiz. Só que esse aqui ficou solto, ele não tá mais ligado a esse aqui. Eu tentei puxar assim pra ver se ia, mas não. Entra, clica na... Sabe aquele...
+
+33
+00:18:36,910 --> 00:19:11,150
+Não entendi. Seleciona ali o... Eu tentei, ele ficou como se fosse um fluxo. Eu tentei. Pra ver se ele ficava clarinho, mas ele não ficou clarinho não. Não, ele até entrou, mas ele entrou com um fluxo. E saindo do formulário, chegando na...
+
+34
+00:19:11,980 --> 00:19:44,750
+Tipo assim, ó, saindo dentro do celular e chegando no elemento. Agora, antes de... Tenta só mudar a ordem aí, por favor. Ó, tá vendo? Ele ficou pretinho. Deixa eu aumentar o zoom aqui. Tenta fazer... Entendi. Deixa eu ver, eu vou apontar já. Ao contrário, ele nem puxa. Mas isso não tem problema não, tá, [participante]? Você acha que ele tá ligado? Se você conseguir ligar o fluxo aí, não tem problema não. Ah, é assim? Vai dar certo? É, mas tenta validar o processo agora, por favor.
+
+35
+00:19:44,820 --> 00:20:12,030
+Na verdade ele não deveria estar assim, realmente ele deveria dar um... ele vai entender que talvez deu um erro mesmo. Eita, deu milhões. Ah, é porque eu não fiz as configurações ali. É, evento inicial e tal, mas vamos fazer o seguinte, ó. Vou ter que fazer tudo do zero nessa parte aqui, né? Deixa eu ver se eu consigo só tentar fazer uma situação aqui. Ó, tem um paliativo, que é o seguinte, ó. Deixa eu só dar um ctrl z no meu aqui.
+
+36
+00:20:12,030 --> 00:20:43,150
+Faz o seguinte, seleciona esse formulário e dá um ctrl-c nele. Esse cara aqui? É, dá um ctrl-c aí. Aí clica em cima do cara colar. Ah, legal. Vamos ver se vai dar certo. Deu, é. Show. Aí você pode apagar o outro lá. Isso daí realmente, bom, veio de agora também, tá? Porque realmente eu não tinha ainda presenciado algo desse sentido aí. É novo também esse programa que você teve aí. Mas, enfim, deu certo aí. Menos mal, tá? Então, show de bola.
+
+37
+00:20:43,150 --> 00:21:15,150
+Aí é só dar um salvar ali, tá? De repente para não salvar mais coisas. Vou apertar para não perder. Eu vou então voltar aqui com o compartilhamento da minha tela, tá bom? Tá. Beleza. Então aqui, coloquei a atividade, dei um código para ela, coloquei a folha verde. Vou agora continuar com a configuração, tá? Esse cara aqui, ele tem uma opção aqui, ele aparece dados no Fórmula. Eu tenho aqui a opção de aprovação e realizar aprovação.
+
+38
+00:21:15,150 --> 00:21:44,180
+Esse realizar aprovação é essa atividade aqui, realizar aprovação. Se eu tivesse qualquer outro nome aqui, sei lá, aprovações, pendência de aprovações, iria aparecer aqui também o nome, tá? Então ele pega o descritivo da atividade aqui. Eu vou clicar aqui nesse cara e agora os fluxos vão ser o seguinte, ó. Um fluxo vai pra cá e o outro pra cá. Aí eu vou selecionar o fluxo aqui e vou só selecionar, esse cara aqui vai ser quando for aprovado, tá? Esse caminho.
+
+39
+00:21:44,180 --> 00:22:13,790
+E esse aqui vai ser o caminho do reprovado. Vou salvar aqui, né? Eu tenho essa mania, tá? Faço um pouquinho aqui e já salvo aqui porque não quero ver no erro de alguma coisa. Então, se vocês querem adotar essa prática aí também, vai poupar muito tempo de vocês aí em relação a algumas que possam ver acontecer, tá? Bom, continuando aqui, é o seguinte, ó. Eu preciso passar alguma coisa para provar, tá? Só simplesmente para abrir aqui a atividade de aprovação, mas eu preciso então indicar...
+
+40
+00:22:13,790 --> 00:22:42,670
+O que que eu vou aprovar, tá? No caso aqui eu vou aprovar esse formulário aqui. Então, pra ganhar tempo, ó, botão direito, mais ações, complementar a partir de... Aí eu seleciono lá, ó, os campos que ele traz lá, assuntos, destino detalhado. Clico aqui, beleza? Aí eu vim aqui agora, vou indicar agora quem vai realizar essa aprovação, tá? Percebam aí, ó, não indiquei aqui pra essa atividade um aprovador, um responsável, tá? Por quê? Porque ele vai pegar justamente aqui o cara que vai aprovar, então não preciso indicar aqui.
+
+41
+00:22:42,670 --> 00:23:11,570
+Mas aí eu vou mostrar. Meu aqui ficou louco, cara. Meu aqui ficou doidão, acho que vou ter que fechar e abrir o programa. Apareceu um monte de coisa aqui, eu tô tentando dar um voltar, ele num Ctrl Z, alguma coisa, ele não tá respondendo. Você quer compartilhar com a gente, só pra gente dar uma olhada? É, só pra ver se eu não tô maluco ou se... Olha só. Às vezes o Supravizio dá um susto na gente. É isso que aconteceu. Ah, muito provavelmente...
+
+42
+00:23:11,570 --> 00:23:43,730
+Muito provavelmente ele deva ter pegado, quando você não encontrou, sei lá, acho que talvez tenha selecionado alguns elementos aí. Mas, quer ver, pode apagar esses caras aí. É como se ele tivesse... É, realmente ficou... O [participante] tá hackeando o Supravizio aí, pessoal. Queria dizer nada pra vocês não, mas... É, outra dúvida aqui. Agora eu volto onde tava. Quando eu coloquei esse cara aqui, esse aprovador aqui...
+
+43
+00:23:43,730 --> 00:24:12,830
+Você mexeu primeiro numa regra aqui, e pra mim não apareceu a regra, não sei se foi porque eu já tinha colocado as setinhas. Você colocou um código na aprovação? Eu coloquei esse cara aqui, depois eu coloquei as setinhas, aí apareceu essas duas coisas aqui, aprovador, apareceu dois campinhos, eu coloquei, escrevi aprovado e reprovado, que eu lembro da aula passada. Beleza, seleciona sua atividade. É assim mesmo? Só um detalhe, seleciona sua atividade de realizar a aprovação ali, por favor.
+
+44
+00:24:12,830 --> 00:24:40,930
+Ela precisa ter um código ali, beleza. Agora selecionar o gateway lá, né? Ali embaixo, tenta mudar o regra de desvio ali, ó. Vê se ele aparece outras opções pra você. Clica aí. Agora apareceu a regra. Ah, isso, cara aí. Isso. Aí no fluxo lá você, um vai ser aprovado, outro reprovado. Beleza. Aí tenta só dar um validar aí, [participante], por favor, porque esse fluxo seu aí tá bem polêmico ali na questão. Vamos ver se ele não dá mais trabalho pra você, né? Deixa eu ver agora.
+
+45
+00:24:40,930 --> 00:25:07,780
+Adquiri não foi o que definiu. Ah, tá. Mas aí é questão de aprovação e tudo mais, o fluxo. É só continuar aí com a configuração, tá bom? Beleza. Show de bola. Deixa eu voltar aqui com a minha tela. Então, configurei lá, essa saída aqui vai ser aprovada, essa daqui vai ser reprovada. Vou configurar agora quem já passei aqui os campos que eu vou realizar a aprovação. Agora eu vou selecionar aqui um campo, um papel, para realizar a aprovação.
+
+46
+00:25:07,780 --> 00:25:37,550
+Antes eu só vou dar uma olhada aqui quem que tá, tem um tal de gestor aqui, deixa eu ver o que esse papel faz, tá? Vamos ver como que ele tá aqui, gestor, limpinho gestor. Eu vou colocar o cliente então, depois a gente fala de papéis, tá? Nesse momento aqui eu só quero mesmo, ele vai pegar o cliente, então beleza. Vou jogar aqui o cliente pra não perder tempo, depois a gente brinca um pouquinho com papéis ali. E aí o cliente, ok? Vou dar um salvar aqui, agora vou validar meu processo.
+
+47
+00:25:39,060 --> 00:26:16,210
+100%, vou ativar. Beleza, com isso eu já consigo criar as instâncias lá e realizar a aprovação, né? Foi algo que eu fiz ontem lá, só vou refazer aqui hoje, aí quando eu fizer aqui, a gente verifica quem não conseguiu, tá? Aqueles que conseguiram lá, a gente pede ajuda pra fazer a configuração. Então, beleza, vou ligar o serviço aqui, são dois, no caso. Ah, talvez o seu, [participante], não tem o serviço, tá? Aí a gente aproveita também aí o auxílio do pessoal já pra refazer essa parte também.
+
+48
+00:26:16,210 --> 00:26:46,540
+De como você está o serviço no processo. A gente viu isso ontem, né? Talvez o pessoal não lembre de alguns detalhes, mas aí eu faço algumas partes aí. Então, ó, aprovador [participante], só vem aqui em aprovações. Eu vou aprovar. Aprovei. Agora ele avança para a próxima atividade, ó. Ele estava aqui. Finalizou, né? Então foi pelo caminho do bem, né? Foi aprovado. Então, ó, finalizado. Senhores, todo mundo conseguiu fazer esse passo. Quem está com dúvida aí, precisa que a gente acesse para dar um auxílio. Só falar, tá?
+
+49
+00:26:49,260 --> 00:27:20,820
+Eu não consegui, não. Beleza? O meu aqui deu um monte de erro aqui. Ah, isso que é legal. Quando dá erro, é a melhor chance que a gente tem de aprender. Então, vamos fazer o seguinte, quem quer compartilhar a tela aí agora, então, pra gente já tentar dar uma olhada? Eu posso compartilhar. Beleza. Quem tá falando é o... O [participante]. O [participante], vamos lá. Perdão, cara, por voz eu sou terrível de lembrar. Mas eu prometo que até o final da semana eu decoro aí.
+
+50
+00:27:20,820 --> 00:27:51,660
+Então, beleza. É, tem um... Ali tem um cara a mais ali, né? Aquele finalizador ali. Pode tirar ele ali já pra dar um alívio aí na situação. É que eu fui validar aqui, ó. É, adquiri isso primeiro. Não foi um aprovador. Beleza, falta o aprovador. Pode fechar aí. Vamos fazer por partes ali. Não foi uma... Beleza, pode fechar aí. Agora é o seguinte, ó. Clica na atividade ali, realizar aprovação.
+
+51
+00:27:56,430 --> 00:28:35,010
+Ela tem um código ali, beleza. Agora clica na folhinha verde ali, a gente vai configurar um aprovador, tá? Aí lá em coleção, lá, aprovadores, na parte de coleção, você vai indicar aí um cliente. Aí o aprovador ali, ó, você vai selecionar um papel, o aprovador, tá lá do lado direito ali em cima. Aí seleciona aí cliente. Pode dar um ok aí. Um ok de novo. Valida pra ver se deu certo.
+
+52
+00:28:35,010 --> 00:29:11,570
+É, você pode validar, mas acho que talvez faltem alguns detalhes. Vamos ver, vamos ver como que ele tá agora. Talvez ali o do gate ainda falta, tá? Mas vamos validar. Aí você vai fazendo, e ele vai diminuindo ali, ó. Beleza, diminuiu. Agora é a saída dos fluxos ali, ó. Pode fechar isso daí. Seleciona a saída lá que vai pro sucesso, né? Então clica no fluxo ali de sucesso. É a setinha, tá? Que eu quero dizer, perdão. Beleza, aí seleciona ali, ó, valor comparação. Não aparece, não, não aparece, né? Então faz o seguinte, ó. Clica lá no gate lá.
+
+53
+00:29:11,820 --> 00:29:46,900
+A gente vai modificar o gateway lá, tá? Talvez ele não tenha reconhecido ainda. Tá vendo ali? Aí não aparece pra você lá o dados. Clica lá embaixo, lá, tipo de desvio, tá vendo? Dados ou fórmula. Seleciona essa opção aí, vê se tem... Se bem que é dados ou fórmula mesmo. Seleciona ela aí. Tem aqui pergunta e resposta também. Beleza. Seleciona o de cima agora, ó. Regra de desvio. Tá aqui, fórmula, aprovação e realizar aprovação. Esse primeiro aí. Esse primeiro aí.
+
+54
+00:29:47,440 --> 00:29:58,830
+Beleza, agora seleciona lá seu fluxo lá, que vai para sucesso, a setinha que vai para o sucesso, agora muda ali para, ele não aparece a opção para você selecionar o...
+
+55
+00:30:01,580 --> 00:30:32,060
+Aí, ó, isso aí, aprovado. Tá invertido aí pra você, né? Aí aqui, reprovado. Beleza, agora dá um salvar. Vamos ver o que falta de pendência agora. Agora vamos validar de novo. Já diminuiu muito. Agora só falta passar ali o formulário, né? Pode fechar. São os campos para aprovação, tá? Tem duas formas de fazer isso, tá, [participante]? A primeira forma mais fácil é você clicar com o botão direito ali, ó.
+
+56
+00:30:32,060 --> 00:31:04,260
+Em cima da folhinha verde, aí mais ações, complementar a partir de, aí ele vai te ver se você selecionar o formulário aí, pode selecionar ele, mostra os campos, né? A outra forma é o seguinte, clica em cima do formulário da folhinha verde de novo, propriedades, campos para aprovação, você vai ter uma opção aí chamado campos para aprovação, tá vendo a coleção lá? Clica aí nesse caso, aí você pode passar campo a campo, nesse caso aí só tem um campo, né, que ele já passou.
+
+57
+00:31:04,260 --> 00:31:34,910
+Por aquele complementar elementos. Se eu tivesse, por exemplo, ah, não quero passar todos os campos, quero passar só alguns, aí você utilizaria essa opção aí, tá? Mas como a gente tá passando todos os campos, nesse caso só tem a descrição detalhada, tá tudo certo. Pode dar um ok ali. Eu não entendi não o motivo. Perdão? Foi o [participante] que falou, né, [participante]? O meu, a minha última pendência era essa. Aí eu consegui, mas eu não entendi o motivo. Tem dois casos, né, você falou, que eu fiz esse de clicar com direito. Mas se eu fosse colocar um a um, qual o motivo? Por que eu falhei isso?
+
+58
+00:31:34,910 --> 00:32:03,010
+Imagina que você, ao invés de mandar todos os campos, fosse mandar apenas alguns campos. Então, por exemplo, o seu formulário tem 20 campos, só que daqueles 20, apenas 5 serão submetidos para aprovação. Por exemplo, seriam campos referentes a valores, alguma coisa do tipo, tá? Ou, por exemplo, itens de arquivos, alguma coisa do tipo. Isso vai aparecer na tela do aprovador? Exatamente. Isso vai aparecer na tela dele? Perfeito, exatamente. E aí, qual o outro caminho que eu faço para chegar lá?
+
+59
+00:32:03,010 --> 00:32:30,850
+É, mais ações, complementar a partir de. Não, o outro. Ah, o outro, fica em propriedades ali, né? Então, [participante], por favor, seleciona propriedades ali novamente. Aí vai ter a opção ali, ó, campos para aprovação, tá vendo? Coleção. Aí, nesse caso aí, seria só o realizar compra, né? Porque é o único campo de tarefa que tem. Exatamente. Aí seria o campo ali, no caso dele, ó, descendo detalhado. Mas se ele tivesse 10 campos e ele quisesse passar apenas 5, aí ele utilizaria essa opção aí.
+
+60
+00:32:30,850 --> 00:33:01,460
+Ou ele poderia usar aquela opção anterior e de repente é só remover aquilo que ele não vai passar. O que eu faria? Eu passaria tudo, depois faria removendo, que é mais rápido. Mas aí fica a critério de vocês, tá bom? Então, beleza, [participante], agora já está 100% ali, já dá para ativar o processo, eu acho, ele já não apresentou mais pendência. Beleza, agora é o seguinte, tem duas formas de realizar aprovação, uma pelo cliente,
+
+61
+00:33:01,460 --> 00:33:28,160
+Ou pelo Workspace, perdão, Workspace. Só para deixar algumas mensagens, né? Às vezes eu falo client, às vezes eu falo web, mas é o seguinte, o client é esse editor de processo aí, tá? O termo correto seria Workspace. Workspace você pode usar tanto no client quanto no web, tá? A parte de Workspace seria a área de trabalho. E aí o portal somente lá na parte web, né? No site, tá bom?
+
+62
+00:33:28,160 --> 00:34:02,190
+Então, a gente tem algumas formas de fazer isso. Ou realiza a aprovação pelo Workspace, e aí pode ser via client ou via web, ou realiza a aprovação pelo portal, tá? A gente vai trabalhar com as duas visões aí, tá? Então, por exemplo, acessa lá o seu web, por favor, [participante], só para você, que até agora a gente, pelo menos com o seu usuário, a gente não interagiu ainda na parte web. Você vai editar o mesmo endereço aí do seu treinamento, tá? Acho que o seu fica lá no client e mostra qual que é o endereço. Ah, beleza, já está no esquema aí, melhor ainda. Aí acessa com o seu usuário.
+
+63
+00:34:11,890 --> 00:34:48,500
+Beleza. Aí você já tá no Workspace, tá vendo ali em cima, ó, o Workspace escrito bem grandão lá em cima? Lá, ó. Beleza. Aí você vai gerar uma demanda aí então do adquirir suprimentos, pode clicar em Nova lá. Não tá aparecendo aí. Clica no atualizar opções ali só pra ver se ele consegue listar, senão tem um outro probleminha aí, mas eu tenho certeza que a galera já sabe resolver. Agora clica em Nova lá. Senhores, e aí? Não tá aparecendo aqui pra gente adquirir suprimentos. Alguém pode nos ajudar? O que precisa ser feito?
+
+64
+00:34:48,500 --> 00:35:24,820
+É, a gente tá fazendo isso, mas não tá aparecendo, tá vendo? Ele tá clicando no atualizar, opção disponível, só que ainda não apareceu o processo adquirir suprimentos. O que que tá acontecendo aí? Alguém sabe? Falta o grupo de trabalho dele. Configurar o grupo de trabalho dele nesse processo. Ali em cima, tecnologia da informação, aquele botãozinho de editar. Coloca aí grupo corporativo, novo.
+
+65
+00:35:25,580 --> 00:35:54,000
+[participante], sabe por que você está colocando um grupo corporativo aí? Alguém sabe... Isso, mas alguém sabe por que é o grupo corporativo que ele está usando? Porque é o dele, é o que ele está acessando. Exatamente. [participante], você sabe como fazer para acessar o seu grupo de trabalho, para saber de qual grupo de trabalho você é? Além da questão visual ali, é claro. Mas, por exemplo, você saberia acessar onde eu acesso a informação? No meu usuário? Exatamente.
+
+66
+00:35:54,220 --> 00:36:54,270
+Então aí, você pode confirmar, tá ali agora, confirmar e fechar, né? Beleza. Agora vamos lá no Web Live e ver se ele já consegue trazer ali pra gente a informação. Aí você vai ter que atualizar o menu, beleza. Agora sim, adquirir os documentos. Aí você pode preencher ali o solicitante, né? Pode ser eu mesmo? Pode ser, pode ser. Aí um assunto ali qualquer, beleza. Agora dá um salvar ali.
+
+67
+00:36:54,270 --> 00:37:30,320
+E avançar no processo. O salvar é ali naquele botãozinho do processo ali, ó. Isso. Mas também serve. Agora é só clicar no iniciar ali, ó. Só lá do direito. Lá no fluxo agora. Isso. Aí preenche ali a decisão detalhada, né? Que é um campo obrigatório. Beleza. Pode dar o início aí. Pode avançar. Ele tá no realizar a compra, né? Pode avançar na atividade. Agora a gente vai cair lá na aprovação. Quem que é o aprovador é você, tá? [participante], então é o seguinte, ó. Você tem duas formas de realizar essa aprovação.
+
+68
+00:37:30,320 --> 00:38:00,460
+A primeira forma é clicando ali na aba de aprovações, tá vendo uma abinha ali em cima, aprovações? A primeira forma é essa daí, tá? Aí você pode, só que aí, olha os campos ali embaixo, tá vendo o campo ele descendo detalhado? Ele tá aparecendo alguma coisa pra você aí? Tá aparecendo o que você escreveu lá, teste, né? Beleza, a outra forma seria via portal, tá? Via portal é pra quem não tem acesso ao solucionador, tá? Eu prefiro solucionador ou worklist, é o cara que vai só acessar o portal.
+
+69
+00:38:00,460 --> 00:38:40,080
+Para ser o portal, volta lá, sobe aí na página, por favor. Está vendo o globinho lá do lado da maletinha, lá do botão sair? Lá perto do botão... Espera, por favor, [participante]. Tranquilo. Lá perto do botão sair tem um globo ali, ó. Você vai clicar nele e você vai ser levado para o portal. Pode dar um sim aí. Está vendo? 96, assunto teste, tal. Aí você vai tentar, aí você vai clicar em aprovação. Só que assim, essa daí é a parte de consulta. Está vendo aquela aba aprovação?
+
+70
+00:38:40,430 --> 00:39:09,230
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+71
+00:39:09,230 --> 00:39:33,170
+Na verdade, é o solicitante, é o cara que você preenche lá na, quando você está criando lá a instância, né, do processo, o número da ordem de serviço, você preencheu lá com o seu usuário, certo? E esse cara solicitante é o cara que você preencheu lá. Se você tivesse colocado o [participante] [participante], o solicitante aí seria o [participante] [participante]. Tá, mas é isso, por exemplo, se eu estou aprovando aqui, imagina que caiu na minha fila aqui para eu aprovar, e eu quero saber quem abriu.
+
+72
+00:39:33,200 --> 00:40:01,440
+Aí, por exemplo, se no caso ali você tivesse indicado o cliente [participante] [participante], ali quem abriu seria o [participante] [participante]. Estaria indicando ali, não quem abriu, mas na verdade, por exemplo, é você que está abrindo com o seu usuário, né, [participante] [participante], só que você está indicando que você está prestando um serviço para o [participante] [participante]. Por exemplo, o cliente dessa demanda não sou eu, é o [participante] [participante]. Aí o solicitante ali seria [participante] [participante]. Mas aí eu como aprovador, eu quero saber quem foi que abriu, porque eu falei com o [participante] [participante], o [participante] [participante] falou que nunca pediu nada.
+
+73
+00:40:01,440 --> 00:40:40,270
+Aí eu quero saber quem é que foi que abriu esse chamado. Ah, entendi, entendi. Então, nas opções do processo, quer ver? Volta ali no desenho, só bem um pouquinho aí nessa parte. Clica lá em abertura, perdão, inicial. Clica nesse 96 aí. Tem ali, ó, diagrama do processo. Ah, tá. É, ele tem duas formas. Tem o responsável, mas ele também traz ali, ó, o cara aqui, o responsável por iniciar a instância aí.
+
+74
+00:40:40,270 --> 00:41:11,760
+Foi o [participante] ali, o usuário [participante] via Workspace, tá vendo? Ele marca essa opção aí. Por exemplo, o [participante] [participante] tá vendido, né? O [participante] [participante] nem trabalha mais na empresa, mas tem uma aprovação ali pendente pra ele. Então aí você tem como rastrear também quem foi o cara responsável. Outra forma, tá, [participante]? Seria também lá no Workspace. Então, por exemplo, volta lá no Workspace, clica na maletinha lá, por favor. Aí a gente vai acessar essa 96 aí, por favor.
+
+75
+00:41:15,700 --> 00:41:43,940
+Dados, ali tem, ó, dados de execução, uma aba chamada dados de execução, fica ali perto de comunicados, isso, esse cara aí. Aí, ó, todo tipo de interação que foi realizado, ó, lá, por exemplo, ó, data, hora, encaminhamento, responsável, [participante], abertura por [participante], tal, tal, utilizando a transação do Workspace, tá vendo? Então, aí, ó, ele traz mais informações ainda do processo, então, não tem como aí a galera se perder em relações, pô, mas quem que abriu o processo? Ó lá, tá vendo, ó, abertura.
+
+76
+00:41:43,940 --> 00:42:12,400
+Abertura tipo [participante], o cara é responsável. Início, tal. Então ele traz toda uma série de informações aí que você precisa, caso você precise para rastrear as informações aí, tá bom? Beleza. Uma boa pergunta aí até para a gente revisar, para conseguir verificar algumas situações que podem acontecer no dia a dia de vocês. Então, muito obrigado, [participante]. É isso aí, estou dizendo 100% agora o processo. Vou fazer uma pequena, só uma pequena verificação para o pessoal.
+
+77
+00:42:12,400 --> 00:42:38,560
+[participante], como fomos aí? Tudo certo? Tranquilo. Beleza. [participante], 100%. Não é, [participante]. O [participante] queria avisar que ele não vai conseguir entrar hoje, viu? Ele tem um monte de demanda para fazer. Tá certo, tá certo. O meu aqui eu consegui aprovar, mas depois que aprovou, o fluxo não ficou azulzinho até o fim. Ele... Algumas vezes ele...
+
+78
+00:42:38,560 --> 00:43:05,790
+Algumas vezes ele se perde em relação a isso, tá, [participante]? Mas a gente pode dar uma olhada também no seu desenho. Às vezes o desenho não fica azulzinho, ele não sei porquê, não sei se é cache, enfim. Ele ficou com a setinha de avançar ainda. Aí quando tenta avançar, já está em realizada aprovação, aprovado, mas aí fica com a setinha. Se eu aperto a setinha, ele dá um erro. A forma do desvio não retorna um valor encontrado. Beleza, então pode ser uma configuração do processo. A gente pode dar uma olhada então, não é questão de...
+
+79
+00:43:05,790 --> 00:43:36,930
+Mas ele chegou a aprovar. O verdinho tá aparecendo lá. Aprovado, pô, tá aparecendo direitinho. Tá, mas a gente pode dar uma olhada aí. É um bom caso aí pra gente analisar, tá? [participante] [participante], como foi tudo certo por aí? Alguma dificuldade? Conseguiu fazer? Então, eu não sei, eu não consegui finalizar, porque como ontem eu fiquei sem internet, eu tentei pegar hoje um pouco na hora do almoço só. Aí esse aqui que a gente tá fazendo agora, eu acho que eu não consegui finalizar, na verdade. Aí eu não sei.
+
+80
+00:43:36,930 --> 00:44:11,570
+Tranquilo, a gente vai usar a equipe aqui para nos ajudar, tá? Tá, beleza. Tranquilo, a gente faz o acesso aí e dá uma olhada. [participante], como estamos aí? Aqui. E acompanhando as explicações aqui. Estou evoluindo, tá? Qualquer coisa, eu chamo vocês aí. Tá bom, sem problemas. E aí, [participante], finalizando. [participante], como estamos aí? Fiquei com os dois itens aqui que eu não consegui configurar. Eu ia pedir ajuda aí, mas acho que vai dar uma repassada aí, né?
+
+81
+00:44:11,570 --> 00:44:40,430
+Na verdade, a gente vai repassar agora, então, vou acessar a máquina do [participante] só para ver qual foi o problema, né? O [participante] [participante] falta, meu Deus, ó, memória curta, acabei de falar com os caras, já não lembro. Posso cancelar o compartilhamento da tela, então? Pode, pode, pode cancelar. Então, [participante], vamos acessar o seu primeiro, tá? E na sequência eu faço novamente a análise com o pessoal, tá? Memória de R$2,00 a minha agora. Vamos ver qual foi o problema lá no seu processo, beleza?
+
+82
+00:44:40,430 --> 00:45:00,000
+Só que ele aprovou, mas não avançou automaticamente ali, né? Clica no avançar ali. Beleza, pode fechar. Pode dar um ok aí, né? Vamos fechar ali em cima, fechar a janela. Qual que é a versão que você está trabalhando ali? Era a versão 4 mesmo?
+
+83
+00:45:00,000 --> 00:45:35,700
+Control Backspace, acessa a última ordem de serviço que você acessou, tá? Pelo Workspace. Então, dá um Control Backspace aí, por favor. Só pra gente ver a versão do processo, pra ver se tá tudo certinho, porque às vezes pode ser isso também. A gente configura uma versão e a outra. É só dar uma esticadinha ali, né? Do lado esquerdo ali, pra gente ver mais detalhes do processo ali. Tá adquirido. Tá vendo essa tela aí, você tem como dar uma... Isso. Ah, versão 4. Beleza, pode fechar aí. Clica no fluxo de saída de...
+
+84
+00:45:36,820 --> 00:46:17,330
+Clica no primeiro fluxo ali, do aprovado. Beleza, propriedades aí. Aprovado, agora o segundo. Reprovado. A princípio tudo certinho. Clica no... Será que ele está com alguma... Tem nada escondido ali, não é? Realmente está... Campos para aprovação está certo. Fazer o seguinte... Ele está conectado ali, a setinha? Parece que ela está flutuando, a setinha ali do...
+
+85
+00:46:17,490 --> 00:47:00,620
+Realizar a aprovação para formar. O que está chegando no... a setinha que chega no Gator, né? Quer ver, seleciona aquela seta que chega no Gator, por favor. Não, está certinha também. Vamos fazer o seguinte, acessa lá aquela última demanda de novo, por favor. [participante], pelo web mesmo. Aí mesmo, não. Contra o Backspace. Ou aquela 102, né? Clica em voltar aí, por favor. Agora avança de novo. Até agora seis catas responderam na pesquisa.
+
+86
+00:47:01,710 --> 00:47:37,440
+Agora avançar de novo. É estranho, porque está tudo certo. Vamos tentar reclassificar essa demanda. Aliás, vamos fazer o seguinte. Clica lá em classificar, lá em cima, lá perto do botão encaminhar. Você vai selecionar um processo administrativo, beleza. Beleza, está tudo certinho. Vamos dar um ok agora.
+
+87
+00:47:37,440 --> 00:48:12,820
+Ela não tem internet, ela não tem computador, alguma coisa assim. Porque lá o pessoal tá colocando, é grupo de risco, por isso e por isso. Aí eu vou conversar com ela, esperando a volta do almoço. Pode dar um ok aí. Ô, [participante], seu ódio tá aberto, [participante]. Pode dar um ok ali agora. Nada, né? Vamos gerar uma nova aprovação. Clica em aprovações, naquela aba aprovações ali, por favor. Cancelar essa aprovação. Tá vendo a opção cancelar ali, ó.
+
+88
+00:48:14,640 --> 00:48:52,130
+Não, não, aí não, perdão. Pode dar um cancelar aí também. É cancelar do lado de aprovação barra e aprovar. Isso. Aprovar barra e aprovar, perdão. Agora, tá vendo uma nova versão ali, ó? Isso. Beleza. Talvez, tá, [participante], a gente tenha que gerar uma nova versão do seu processo. Pode dar um ok. É, tá com alguns... Dá um iniciar ali em cima, ali, ó. Tá vendo do lado, lá em cima, lá? Tem um iniciar. Dá um ok. É.
+
+89
+00:48:52,130 --> 00:49:54,220
+Faz o seguinte, tenta deslogar e logar novamente, por favor. Acho que tem alguma coisa aí, tem alguma coisa instável nessa parte aí. Agora acessa o seu processo lá, vamos dar uma... É, pode ser aí também. Só queria dar uma depois. Se não der certo, a gente gera uma nova versão dele, tá? E a gente reclassifica novamente. É, tem alguma coisa... Acho que deu alguma coisa errada aí com essa versão mesmo, viu, de erro. Tá dando um erro de fluxo ali. Olha lá, totalmente quebrado, ó. A versão informada vai do...
+
+90
+00:49:54,290 --> 00:50:36,910
+Vamos fazer o seguinte, pode fechar essa demanda aí, a gente vai gerar uma nova versão do processo lá, tá? Lembra aquele problema que você mostrou pra mim lá de um monte de imagem ali, duplicado? Talvez tenha sido isso aí que deu uma quebrada nele. Aí vamos gerar uma nova versão. Beleza. Valida ele aí, por favor. Ah, tá, nenhum item de configuração. Assim, eu não sei por que ele validou, tá? Mas tem algumas pendências aí mesmo no processo, tá vendo?
+
+91
+00:50:36,910 --> 00:51:04,690
+Como ele conseguiu... Sabe o que pode ter sido, [participante]? Acho que eu já sei o que aconteceu. Você fez alteração numa versão ativa. Por isso que quando você clicou lá ele validou, tá? Então, por exemplo, digamos que você não tenha gerado uma versão nova em edição e fez alteração na versão que já estava corrente ali. E aí realmente ele vai deixar você passar ali, tá? Talvez tenha sido isso, tudo bem? O código aí, esse código que você está colocando na atividade, né? Ou é no Gator? No Gator não precisa não, tá?
+
+92
+00:51:04,980 --> 00:51:42,610
+É na atividade que você vai utilizar o código. Beleza, já está aprovação, certinho. Agora clica ali no gateway ali, por favor. Agora ali já está, beleza. Agora seleciona o fluxo ali. Beleza, selecionei a opção ali, né? Resultado da aprovação ali, ó, esse cara aí. Aí vai ser aprovado. Debaixo, reprovado. Beleza, agora dá um salvar e vamos validar para ver se tem mais coisas restantes, mais pendências, tá?
+
+93
+00:51:44,270 --> 00:52:19,600
+Beleza, agora só falta passar ali o campo ali, tá? Pode dar um fechar aí. E aí mais ações. Isso aí. Acho que agora tá 100%. Beleza, agora vamos ativar. E a gente vai reclassificar aquela demanda lá pra versão 5, tá? Pra gente não perder ela. Se não der certo, a gente cria uma nova mesmo, tá? Mas a ideia é conseguir ajudar o usuário ali, tá? Essa é um 02, né? Aí digamos que a gente tenha corrigido o problema ali, pode dar um OK.
+
+94
+00:52:19,700 --> 00:53:37,230
+Ele não deixa mais abrir? Ah, beleza. Agora a gente vai classificar pra versão 5, tá? Pode dar um OK ali agora. Assim. Dá um OK aí. Dá um atualizar aí pra ver se ele deixou. Se a gente não conseguir ir pelo client, a gente tenta pelo web, tá? Vamos tentar fazer essa classificação pela parte web lá. Vamos ver se lá a gente consegue fazer. Não tá indo? Quando você clica no botão acessar o meu ambiente. Não tá indo, não. Dá um enter ali na...
+
+95
+00:53:37,420 --> 00:54:19,760
+Ali no navegador, lá em cima, lá no URL. Dá um enter aí. Tenta agora novamente. [participante], eu quebrou o Supravizio. É o 002, né? Deixa eu ver se eu consigo acessar daqui, tá? Treinamento. Tentar com o [participante] [participante] pra ver se vai. Ah, aqui eu acessei com o administrador. Eu acho que alguma coisa desse Chrome aí que você tá acessando, tá? Tenta acessar uma... Ou fechar ele ou acessar uma nova aba ali.
+
+96
+00:54:19,760 --> 00:55:05,230
+Ou com Firefox, isso. É só o endereço que eu não tenho. Tá. Vou tentar aqui rapidinho que eu já estou aqui. Não vai. Ontem entrou normal. Pior que daqui eu estou conseguindo, cara. Tenta colocar o administrador. Usuário administrador sem AX. ADM, isso. Só ADM? É admin, perdão. IN agora. Isso. Não.
+
+97
+00:55:05,230 --> 00:55:37,940
+Estranho, cara. Daqui da minha máquina eu consigo acessar o ambiente. Acabei de acessar. Será que alguma coisa é da rede? Vou reiniciar a minha máquina para ver. É, daqui eu consigo acessar com o usuário administrador o seu ambiente 002. Ontem estava na moto. Eu vou tentar reclassificar daqui, enquanto você tenta atualizar a máquina aí. Quer ver? Cadê o 002? Treinamento. Deixa eu só.
+
+98
+00:55:37,940 --> 00:56:30,080
+Acho que eu deixei na outra aba. Ó, tô com o usuário administrador aqui, né, acessando aqui com o seu ambiente 002. Vou só sair aqui, vou tentar acessar com o [participante] [participante], então. Acessou. É a 102 lá, né? Vamos ver se eu consigo reclassificar ela. Ok. Ó, aqui ele reclassificou, tá? Eu vou só tentar avançar lá pra ver se agora ele consegue... Tá contigo aí a aprovação. Tá, tô reiniciando a máquina aqui. Tá bom.
+
+99
+00:56:30,080 --> 00:57:35,300
+Vou deixar você reiniciar a máquina para a gente fazer esse passo. É melhor tentar ajudar o outro enquanto é isso, porque está rodando aqui. Ah, é isso que eu ia falar. Eu falei, pô, como é que ele vai conseguir ficar online aqui se a máquina está iniciando lá, né? Não, eu passei no celular. Beleza, então. Vamos fazer o seguinte agora, então. Na sequência aqui... Oi, [participante], só, perdão, eu sei que já te perguntei, mas como é que está aí? Só para a gente tentar fechar essa foto. Olhando você ajudar o [participante] aí, eu...
+
+100
+00:57:35,300 --> 00:58:15,660
+Estou conseguindo avançar aqui, está tudo tranquilo. Beleza. [participante], como é que estamos aí? Estou já validando aqui. Beleza, qualquer coisa a gente acessa. O [participante], você quer compartilhar a sua tela com a gente? Eu não sei se conseguiu fechar essa parte agora, mas se você quiser compartilhar, a gente te ajuda aí. Vou sim, vou colocar aí. Beleza. Mas isso aqui, essa parte aqui, está me vindo...
+
+101
+00:58:15,660 --> 00:58:50,900
+Adquirir os suprimentos, que não foi definida a fórmula. Ele está falando que não foi definido aprovador, é isso? Espera só um minuto. É a fórmula para decisão de aprovado. Ah, beleza. Pode fechar aí. Agora é o seguinte, senhores, quem pode nos ajudar em relação a isso? Acho que o detalhe aí do [participante] é só a questão do Gator ali, tá? Agora. E aí, se vocês não conseguirem aí, eu tento auxiliar.
+
+102
+00:58:50,900 --> 00:59:42,260
+Mas vamos ver quem consegue nos ajudar em relação a isso aí. Qual que é o detalhe aí? Quem puder nos ajudar, por favor. É ali no Gateway, regra do desvio. É isso? Tem fórmula ali. Embaixo. É o de baixo, né? Onde está a fórmula? Aprovação. Volto aqui. Salva. Acho que ainda não foi, não, [participante]. Vê se nas linhas do fluxo, se está apontado para aprovação e reprovação.
+
+103
+00:59:42,260 --> 01:00:00,000
+Essa não, as outras duas. Esse não, né? Não sei não. Que problema. Clica no Gator ali novamente, por favor, de novo, [participante].
+
+104
+01:00:00,370 --> 01:00:46,050
+Ali tá fórmula, né? Clica nela aí. É fórmula mesmo, né? Aí de cima ali, ó. A gente tinha selecionado, será que não pegou? Não, então, volta no de baixo ali. É, no de baixo você clica, que coisa tinha feito. Aí seleciona a primeira opção. É, aprovação. Você clicou, é. Dá um salzado. Beleza. Acho que ainda continua ruim esse problema, né? Clica, clica. Ele não tá ficando, né?
+
+105
+01:00:46,050 --> 01:01:16,820
+Estou selecionando. Essa é a versão 2, né? É a versão 2. Quantas versões você tem dessa... São duas versões mesmo, né, que você tem desse cara aí, né? São. Mas o erro lá, não estava falando era do aprovado? Ele estava achando fórmula para o aprovado. Está bem pequenininho aqui para a gente, ó. Adquiri isso mesmo, então foi definido uma forma para decisão para aprovado. Acho que essa forma...
+
+106
+01:01:16,820 --> 01:01:48,880
+De decisão é do Gator ali, ó. Mas eu acho que ele não tá conseguindo salvar mesmo, tá vendo? Não tá em edição lá, não tá em edição e já tá provado. Exatamente. Ele já tá fazendo, eu acho que foi o mesmo problema que aconteceu lá no anterior também, que já tava sendo feita a operação numa versão ativa, né? Faz o seguinte, gera uma nova versão ali pra gente, por favor, [participante]. Pode fechar essa... Isso, clica lá no Process Explorer lá, né? Isso, clica aí em cima aí, botão direito, nova versão.
+
+107
+01:01:51,920 --> 01:02:34,130
+Agora, beleza, expande aí, né? Certo. Volta aqui pro Gator daí? Isso, clica no Gator ali só pra gente ver como é que tá. Ele muda aí pra... Beleza. Salvar. Dá um salvar. Salvar e atualizar ali, só pra ele tomar um susto. Agora vamos ver se ele manteve. Se ele não manteve, aí vamos ter que logar e deslogar novamente, tá? Clica ali no Gator ali. Parece que agora deu certo. Não existem pendências.
+
+108
+01:02:34,610 --> 01:03:04,300
+Opa, show, agora conseguiu manter. Pode ser da minha máquina aqui ou você vai fazer uma coisa errada aí? Não, na verdade, você estava editando uma versão que já estava ativa, né? Tudo bem, teoricamente, não deveria dar problema, tá? Mas, assim, o ideal é que você sempre faça essas alterações em uma edição, em um processo em edição, que é o caso aí, tá? Então, vamos tentar agora... Já tinha falado isso, já. Na verdade, você já tinha falado isso.
+
+109
+01:03:04,300 --> 01:03:51,740
+No começo, acho que foi. Acho que foi no começo. Não, não, mas tranquilo, isso aí pode acontecer mesmo, mas até pegar o jeitão da ferramenta vai acontecer muito isso daí, tá? Fica tranquilo. Vamos ativar lá agora então para ver se... Agora falta ativar só, eu acho, né? Beleza, show de bola. Aí depois se você quiser executar uma instância aí só para ver como ficou, tá? [participante], conseguiu renunciar a sua máquina? Obrigado a você. Conseguiu renunciar, mas não é.
+
+110
+01:03:51,740 --> 01:04:29,200
+Não abre o navegador, fica, não sai do... Fica travado ainda? Tá, fica. Vou tentar aquele botão que você falou, que era Flush, Flush, né, pra poder ver se eu limpo alguma coisa aqui. Flush. Vamos ver se agora, com Flush vai. Com Flush foi. Pode ser. Eu dei aquele Flush, ele limpou. Tava algum problema de cache mesmo. Beleza, você quer compartilhar essa tela com a gente? Só pra ver como é que ficou aquela... Eu já classifiquei pra versão 5 aqui, tá?
+
+111
+01:04:29,940 --> 01:05:13,360
+Só pra gente ver se... Deixa eu... Agora vou ter que entrar no Teams aqui pelo computador. Ah, sim. [participante], [participante] e [participante], se vocês quiserem compartilhar a tela de vocês, tá bom? Pra pedir algum auxílio aí, tranquilo, tá? Se tiver no comecinho também, não tem problema não, tá bom? Eu consegui aqui, tá? Bacana. Finalizei, já realizou a compra, tá? Fechadinho. Beleza, show de bola. Aqui ele veio, mas veio meio bugado. Não tá aparecendo nada.
+
+112
+01:05:20,300 --> 01:06:25,230
+Vou dar uma olhada como é que está o portal aqui da minha máquina, não sei se o seu ambiente está.
+
+113
+01:06:28,080 --> 01:07:34,000
+É, aqui o portal tá normal. A parte de aprovação. O meu que eu tô acessando com o [participante] [participante], né? Tá acessando com o seu usuário. Deixa eu acessar com o seu usuário. Pode ser que seja isso também. É xix. É, aqui pelo menos acessei com o seu usuário. Aqui tá normal aqui pra mim. Pode ser alguma coisa de cache local mesmo, tá? Beleza, tá na versão 5 ali, né? Foi que eu classifiquei. Agora eu tento aprovar ali, por favor, [participante]. Agora foi. Agora foi. Beleza. Show de bola. Beleza. Em relação ao... Tô até aqui, quer ver? Vou...
+
+114
+01:07:34,830 --> 01:08:03,380
+Vou compartilhar a tela aqui. Estava sendo que esse é o ambiente, 002, né? Esse é o portal. Acho que deve ser alguma coisa local aí, tá, [participante]? Agora, realmente, dizer o que é. Eu vou limpar o cache aqui pelas configurações do Chrome. Tá bom. Eu vou só tentar também aqui, para ver se eu consigo, a partir da minha máquina aqui, fazer essa adequação aqui para você também. Se bem que é local, então...
+
+115
+01:08:07,020 --> 01:08:45,520
+Beleza, aqui ele conseguiu executar, mas enfim, vamos ver se localmente ele consegue resolver essa questão aí pra você, tá? Vou só então desconectar aqui, seu usuário. Então, todo mundo aí 100% nessa parte, né? Vi aí que a galera conseguiu desmanchar sem maiores problemas a questão da aprovação. Deixa eu só dar uma olhada aqui nessa parte de tutorial pra ver pra onde que ele vai nos mandar agora na sequência, vamos ver se a gente já consegue iniciar. Cria aprovação, interface entre processos. O [participante]. Quem fala? [participante].
+
+116
+01:08:45,520 --> 01:09:13,420
+Ô [participante], uma pergunta aqui avançada. Estou pensando lá na frente já. Por exemplo, a gente já tem os processos da WBTS já rodando, né? E eu quero fazer uma melhoria. Como é que a gente vai conseguir, por exemplo, elaborar, criar e depois integrar junto com o que já está em, na verdade, uma nova versão, né?
+
+117
+01:09:13,650 --> 01:09:42,260
+Isso. Eu sei que exportar é a maneira, né? Mas o administrador vai passar o script pra gente? A gente vai fazer essas melhorias? Como é que é? Não sei se você vai explicar mais pra frente, mas é só bater essa curiosidade aqui. Bom, por exemplo, digamos que você esteja modelando aí um processo, esse mesmo processo que a gente fez aqui, adquirir suprimentos. Aí a gente colocou lá aprovação, tal, tal, tal, as atividades, né?
+
+118
+01:09:42,260 --> 01:10:12,210
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+119
+01:10:12,210 --> 01:10:36,800
+Para utilizar em produção, é o mesmo procedimento, você exporta de um ambiente e importa em outro, tá? Então, esse é o procedimento. Agora, por exemplo, pô, mas script, trabalhar com a questão de visualização de campo, tudo isso mais. Essa parte do treinamento, ela não cobre essa parte de scripts, tá? Isso aí seria um treinamento avançado. Esse treinamento que foi contratado, um treinamento aí bem simples não, né? Mostra as principais funcionalidades.
+
+120
+01:10:36,800 --> 01:11:07,310
+Claro, sobrando um tempinho aí, a gente pode tentar ver alguma coisa, tá? Algumas coisas, por exemplo, de script de papel, em campo, alguma coisa do tipo. Mas a documentação, ela é bem rica em relação a isso. Então, por exemplo, digamos que você queira trabalhar aí com script em campo, tá? Tem essa parte aqui, ó. Então, por exemplo, ó. Ele vai estar aqui, ó. Guia para administradores. Aí você vai ter lá a parte de recursos avançados. Deixa eu ver se é aqui. Não, não é aqui, ó. Dentro do tour, se não me engano, cadê? Deixa eu ver se está aqui, ó.
+
+121
+01:11:07,310 --> 01:11:37,970
+Configuração de Processos, hoje está aqui, Configuração de Processos. E aí, Tópicos Avançados. Deixa eu só tirar ali para não confundir vocês essa parte aí. Então, ele está aqui, voltando aqui de novo, configurando processos, expandir, tá? E embaixo de tutoriais aqui tem Tópicos Avançados. Tópicos Avançados, ele vai ensinar um pouquinho aqui de script em relação a campos, tá? Então, por exemplo, ele vai trabalhar aqui, por exemplo, como você dá um select e busca uma informação na base de dados,
+
+122
+01:11:37,970 --> 01:12:06,000
+Tá? Alimentando aqui um campo. Ele, por exemplo, tem um campo aqui chamado seleção de empresa, seleção de órgão, seleção de pessoas, tá? Empresa e órgão e pessoas são aqueles cadastros lá que a gente tem aqui no Supravizio, ó. Então, ele tá dando select nesse cara, um select nesse cara e nesse cara aqui. E aí ele mostra lá no exemplo como ele faz isso, ó. Ele vai, tipo, ele vai montando aqui, ó, durante criação, nananã, tal. Aí você vai acessar as propriedades do campo.
+
+123
+01:12:06,000 --> 01:12:33,840
+Aí lá ele te mostra como fazer isso. Aí ele coloca aqui, ó, um item, né? Últimos executivos de data tempo. Aí dá um select lá no cadastro de empresa. Aí ele vai mostrando aqui, por exemplo, entre outras coisas, ó, escrito para recuperação de opções, escrito para recuperação em campo de seleção de pessoa. Basicamente, aí ele joga aqui uns exemplos, tá? Você pode copiar lá e utilizar no seu campo, tá bom? Essa parte aqui do treinamento, ela não cobre essa parte. Essa parte aqui do treinamento, ela vai até o tutorial 6 ali.
+
+124
+01:12:33,840 --> 01:13:05,650
+Mas aí, sobrando um tempinho, a gente consegue ver algumas coisas aí mais avançadas também, tá? Acho que a da outra turma a gente conseguiu bem por cima, tá? Alguma coisa de script também. Mas realmente que essa parte aí do treinamento, ela não cobre esse detalhe de script, tá bom? Mas é o que eu falei, sobrando um tempinho aí a gente pode ver alguma coisa aí, tá bom? Tranquilo, valeu. Beleza. Então, todo mundo aí conseguiu fechar essa parte, né? Sem problemas. Beleza. Eu vou...
+
+125
+01:13:05,870 --> 01:13:36,050
+A gente tem agora a parte de interface entre processos, tá? Agora é 2h22. A gente vai, então, iniciar aqui a interface entre processos, tá bom? É bem tranquilo também essa parte, tá? Não requer muitas configurações aí, mas é bem legal de utilizar. É a integração entre processos. Aqui eu tenho um processo chamado adquirir suprimentos. E a gente vai criar um outro processo chamado fornecedor, tá? Um processinho aqui fornecedor. Acho que tá... Deixa eu só acessar aqui a nossa documentação. Configuração de processos.
+
+126
+01:13:36,620 --> 01:14:17,870
+Minimizar aqui. Tutoriais. Cadastrar fornecedor. Esse vai ser o nosso processo que a gente vai criar, tá? Então é o seguinte, ó. Só fechar essa galera aqui. Dentro do administrativo, eu vou gerar uma nova versão aqui, tá? Ó, tô na versão 5, né? Vou gerar uma nova versão, clico aqui em nova versão, gerei nova versão. Aí na edição aqui eu vou adicionar um novo processo, tá? Essa parte aqui é legal que a gente faça junto aqui pra não se perder muito, tá? Então, ó.
+
+127
+01:14:17,870 --> 01:14:50,260
+Em edição aqui eu vou clicar no botão direito, adicionar novo subprocesso. Aqui eu vou editar lá o cadastrar fornecedor, tá? Falando do nosso processinho. Cade for, sei lá, alguma coisa do tipo. Só fornecedor. Vou dar um ok. Ó, já tenho aqui o cadastrar fornecedor, tá? Pra fazer a conexão entre processos, ó, vou acertar aqui, né, no meu processo de adquirir suprimentos, tá?
+
+128
+01:14:50,350 --> 01:15:00,000
+Para fazer a conexão de processo, eu preciso de um link inicial, que é esse cara aqui, esse envelopinho, evento inicial por mensagem. Clico nele e trago para cá para o meu processo.
+
+129
+01:15:00,240 --> 01:15:37,580
+E aí eu vou só modelando o meu processo normalmente. Então, por exemplo, ali, o que ele sugere no cadastro da fornecedor? Cadastro de certidões, alguma atividade bem básica, certidões, e ali cadastrar fornecedor. Colocando algo bem abreviado aqui também para a gente, tá? Então ali, cadastrar fornecedor. E aí um finalizador.
+
+130
+01:15:43,660 --> 01:16:11,780
+Bom, nesse momento aqui eu vou dar uma pausa, eu vou esperar vocês também chegarem nessa parte aqui, tá? Pra gente, todo mundo aí, ficar alinhado, tá bom? Não vou correr nessa parte não. Então, ó, o que vocês vão fazer ali? Estamos lá no Process Explorer, clicou lá, nova versão, na versão edição, botão direito, adicionar, adicionar, novo subprocesso, tá? E aí, vocês vão dar o nome e tal, cadastrar fornecedor. E aí vocês vão...
+
+131
+01:16:11,780 --> 01:16:41,620
+Criar, por enquanto, esse desenho aqui, tá? Quando todo mundo estiver nessa parte aqui, eu continuo, tá bom? E aí, ó, conforme vocês foram terminando, aí vocês vão falando, ó, mas eu terminei, tal, então eu vou questionando aí pra saber também, tá? Claro, você já conseguiu terminar ou você tá fazendo ainda? Só pra eu saber, tá? Talvez você não tenha feito ainda. Terminei. Beleza. É o [participante], conseguiu terminar, tá fazendo? Não comecei ainda não, que eu tô com dificuldade aqui.
+
+132
+01:16:41,620 --> 01:17:17,840
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+133
+01:17:17,840 --> 01:17:53,250
+[participante]? Fazendo, nós. Fazendo aqui. Beleza. A gente vai fazendo aqui, tá? E aí, conforme for existindo alguma dificuldade, a gente faz aquela jogadinha, acessa, verifica o que falta, tá? Aqui eu vou fazer o seguinte, eu vou fazer uma alteração no processo de adquirir suprimentos, tá? O que eu vou fazer aqui, ó? Eu vou permanecer com essa aprovação aqui normalmente, eu vou só fazer algumas alterações, tá? Então, por exemplo, aqui eu vou colocar uma tarefa, tá? Então, foi aprovado, ao invés de...
+
+134
+01:17:53,250 --> 01:18:31,500
+Finalizar, eu vou mandar para essa tarefa aqui, ó. Eu só vou finalizar esse cara aqui para não perder a configuração. Qual é o nome do novo subprocesso? É cadastrar fornecedor. Aí ele tem esse layout aqui, ó. O iniciador com um envelopinho, cadastro certidões e cadastrar fornecedor. Duas atividades apenas, tá? Tá. Então, se ele for aprovado, eu vou fazer o seguinte, ó. Não vou nem fazer isso. Eu vou fazer o seguinte, eu vou mudar aqui.
+
+135
+01:18:31,500 --> 01:19:02,830
+Eu vou colocar uma atividade chamada aqui, ó. Vou mudar. Aí eu vou selecionar o fluxo aqui, vou tirar a setinha daqui e vou trazer para cá. Não vou colocar tarefa não, vou colocar direto aqui um subprocesso, tá? E aqui eu vou deixar ele cancelar mesmo se ele não for atendido ali. E ali eu só vou colocar um finalizador para finalizar meu processo. Beleza. Salvar aqui. Show. Agora sim eu vou fazer a conexão entre os processos, tá? Como que eu faço isso, ó?
+
+136
+01:19:02,830 --> 01:19:36,050
+Qual que é essa caixinha que você usou? Atividade de chamada, o nome dela, está aqui, essa amarelinha. Vou dar um salvar aqui. Agora eu vou conectar os processos. Como que eu faço isso? Propriedades aqui, tá? Tem uma opção aqui chamada associação. Aí eu venho aqui na associação, clicar em novo. Nova, no caso, né? Ele vai abrir uma telinha aqui, vou dar um nome para essa associação aqui, tá? Vou chamar aqui, por exemplo, cadastro...
+
+137
+01:19:37,740 --> 01:20:06,670
+Ou então é, o nome que vocês quiserem utilizar aí, tá? Isso aqui é só para identificar essa associação. Aqui o processo chamador, no caso, ó, de aqueles suprimentos é o processo que vai chamar. E aí a gente vai chamar quem? O cadastro de fornecedor. Tá aqui, ó, cadastro de fornecedor, tá? Aqui eu vou colocar uma associação, tá? Então, por exemplo, eu vou escrever aqui alvo, sei lá, dois pontos. O alvo aqui é o cadastrar.
+
+138
+01:20:06,670 --> 01:20:38,290
+É o processo, aqui é o alvo, tá? Fornecedor. Aqui, fornecedor. A fonte é quem está chamando, então aqui a fonte, eu vou falar que é o adquirir suprimentos. Beleza? Aqui eu vou deixar a cardinalidade um para um, depois eu explico o que é isso. Aqui eu vou colocar um pontinho aqui, um ponto. Só para ele separar ali, vocês vão ver o que vai acontecer quando eu fizer isso. Vou dar um confirmar aqui. Beleza? Cadastro a fornecedora já reconheceu ali.
+
+139
+01:20:38,290 --> 01:21:09,710
+Para acessar o cadastrar fornecedor, por exemplo, eu posso clicar nesse maizinho aqui, ele já me leva lá para o fluxo do cadastrar fornecedor. Aqui a ideia é o seguinte, eu preciso agora só selecionar o processo que chama ele, tá? Então, seleciono essa opção, acima aqui, associações, clico nesse botão e adiciono. Aqui ele já vai selecionar para mim aquela associação lá, aquele nome que eu dei lá, fonte, adquirir suprimentos.
+
+140
+01:21:10,160 --> 01:21:43,090
+Vou dar um salvar aqui, um ok e salvar. Agora eu vou validar o meu processo, saber se está tudo certo, tá? Opa, beleza, está tudo certo. Eu já posso, por exemplo, ativar. Agora eu só vou validar o outro processo, que é o cadastrar fornecedor, tá? Pô, mas eu preciso estar um a um e fazer isso? Não, você pode vir aqui direto em edição, que ele vai validar os dois de uma vez, tá? Preciso fazer um a um. Aí agora sim eu vou lá e ativo o meu processo. Ok.
+
+141
+01:21:43,090 --> 01:22:28,030
+Beleza, agora eu já tenho aí a conexão entre dois processos, tá? Como que ele vai funcionar? Eu vou executar aqui uma instância, fazendo essa parte aqui do site. Isso a gente vai revisar com vocês, tá? Tranquilo aí, se não conseguir de cara aí fazer a configuração. Vou acessar aqui a nova Adquirir Suprimentos, preencher o usuário conectado, selecionar o serviço aqui, teste, salvar. Qual é o nome, a frase?
+
+142
+01:22:28,030 --> 01:23:08,960
+De associação inversa? O nome da associação? É assim, deixa eu só acessar aqui de novo para você, só para a gente revisar. Vou copiar aqui essa frase e vou lá em processo, processo, associações. Deixa eu só fazer isso na parte web para não perder. Isso aqui é 103. Fica aqui. Eu utilizei lá a frase, a frase de associação, eu chamei de alvo, dois pontos, cadastrar fornecedor.
+
+143
+01:23:08,960 --> 01:23:40,620
+Esse nome, ele tem que ser único, esse nome? Cadastro, for? Esse sim, esse aqui tem. Ele tem que ser único por associação, ele não pode ter a mesma associação com o mesmo nome, tá? Tá, e a frase? Eu tenho que escrever alvo? Não, não necessariamente. Não precisa, aqui é só mesmo uma forma de você utilizar, aqui pode ser qualquer descritivo. Isso aqui é só pra você rastrear lá o processo depois. Por exemplo, ó.
+
+144
+01:23:40,620 --> 01:24:09,570
+Alvo, cadastro fornecedor e ponte adquirir, ela aparece aqui, ó. Então, olha só. Aqui eu tô no processo ponte, né? Quando eu seleciono ele aqui, eu vejo quem que ele tá chamando. Por isso que eu coloco alvo, cadastro fornecedor, pra saber quem eu chamo. Mas eu poderia só colocar aqui, por exemplo, cadastro fornecedor. Pronto. Não precisa eu colocar alvo, dois pontos, tá? E aí, lá no filho, a mesma coisa, ó. Eu falo, quem tá chamando esse cara aqui? Aí eu vejo lá, opa, adquiri isso por mês. Tudo bem, ó, que ele já põe aqui em cima o processo que...
+
+145
+01:24:09,570 --> 01:24:36,980
+Que está sendo o processo pai, né? Chamamos de pai e filho, tá? Nesse cenário aqui. Ele já indica aqui pra mim de quem que ele está sendo chamado. A mesma coisa aqui, ó. Tá? Mas aqui, de qualquer forma, eu posso ter mais de uma associação. Por isso que eu faço isso. Mas vocês podem utilizar aí uma frase aqui, por exemplo, no tutorial, ó. Depois que eu crio isso, eu tenho que fazer mais alguma coisa? Porque ele está dando um erro aqui na hora de validar.
+
+146
+01:24:37,260 --> 01:25:16,340
+Administrativo. Não foi possível encontrar esse processo ativo ou em edição, um tipo de... Ah, legal. Falta você vir aqui no... Só no outro, né? Pra finalizar. Aí você clica lá na associação, ó. Associações, você indica aqui, tá? Talvez tenha sido isso aí. Vou voltar aqui, então, no meu processo, né? Que é só pra gente executar. Acho que era 103. Deixa eu só ver aqui esse cara aqui.
+
+147
+01:25:16,340 --> 01:25:52,500
+Vai ter a nossa atividade de aprovação lá na frente. Eu vou aprovar aqui. Vou fazer aqui mesmo pelo Workspace. Deu certo aqui. Show. Olha só, ele já iniciou lá, já chamou o processo filho, né, que eu aprovei. No caso aqui, o processo cadastro fornecedor, a versão 6. Eu já estou, inclusive, navegando nele, tá? Fala, pô, mas como que eu acesso, então, o processo chamador, né, o processo fonte lá? Ele fica aqui, ó.
+
+148
+01:25:52,750 --> 01:26:21,040
+Por meio de associadas. É por meio de associadas que eu acesso, por exemplo, o processo que chamou o pai. E a mesma coisa contrai. Então, por exemplo, vou acessar aqui o processo... Olha lá, está vendo que legal? Ele está parado aqui porque ele só vai avançar quando eu finalizar o filho. O filho está parado ainda lá, certo? Que é esse cara aqui. Tem duas formas de acessar o filho aqui, nós chamamos de filho. Está vendo a numeração dele? 103.1. Quando eu utilizei aquele recurso lá, aquele pontinho que eu falei na associação, é para isso.
+
+149
+01:26:21,040 --> 01:26:50,460
+Para poder separar aqui a numeração, tá? Se eu não fizesse isso, ele ia gerar aqui 104, ao invés de gerar 103.1, tá bom? E aí, ó, eu vou acessar lá novamente a filha, né? Ó, ele veio para... na pai, aqui é a filha. Vou finalizar ela. Com isso, eu vou só atualizar, ó lá, ele já atualizou a pai também, então ele já avançou automaticamente, tá? Nós chamamos isso de assincronidade, tá? Então, o que quer dizer isso? Eu vou explicar com mais detalhes aí quando tiver...
+
+150
+01:26:50,460 --> 01:27:19,390
+Fazendo um exercício, alguma coisa do tipo, tá? Mas aqui no processo, ó, eu posso dizer o seguinte. Chamada síncrona, tá vendo que tá falso aqui? Quando está falso, significa o quê? Que ele só vai avançar no processo, pra próxima etapa, quando eu finalizar o processo que foi chamado. No caso aqui, o cadastro fornecedor. Enquanto não finalizar esse cara aqui, com essa configuração aqui falsa, ele não avança, ele fica parado aqui, tá? Se eu colocar aqui verdadeiro, aí ele avança, independente de se esse cara aqui foi finalizado ou não, tá?
+
+151
+01:27:19,390 --> 01:27:48,480
+O cadastrar fornecedor. Beleza? Esse é o detalhe. A gente pode ficar brincando depois com essas configurações aqui para entender como ele funciona, tá? Bom, senhores, é o seguinte. Está dando uma hora do intervalo, né? Para a gente tomar um café, tomar uma água, uns três minutinhos aí. Na volta, a gente retoma, verifica o que vocês fizeram, se teve alguma dificuldade. E aí eu vou passar um exercício tranquilo também, só para a gente exercitar essa parte de aprovação, tá? Ainda não cai essa parte aqui de...
+
+152
+01:27:48,480 --> 01:28:18,910
+Então ele faz o processo, talvez eu até coloque alguma coisinha, se eu perceber que o sistema foi tranquilo, talvez comece hoje alguma coisa, mas aí é isso, tá? A gente volta, a gente acessa a máquina de vocês aí pra saber como é que foi a criação do processo, tranquilo? Essa parte é um pouquinho mais, ela não é difícil, né? Mas tem alguns passo a passo ali que é bem fácil de se perder pela primeira vez, tá? Então fiquem tranquilos aí, tá bom? Pequeno café agora, a gente já retoma aí as três horas, tá bom?
+
+153
+01:28:18,910 --> 01:28:20,530
+Valeu.
+
+154
+01:50:34,160 --> 01:51:25,360
+Opa, senhores, podemos retomar então? Opa, vamos lá. Bora. Bom, como foi essa parte aí? Vocês conseguiram fazer? Tiveram alguma dificuldade? Eu sei que foram alguns passos ali, né? Alguns ficaram, são um pouco ocultos, algumas vezes fica um pouco complicado de fazer, mas vamos lá então, vou fazer o seguinte. Como é que foi a configuração aí, [participante]? Tudo bem? Conseguiu fazer? Preciso de ajuda? Perdão, [participante], eu não entendi.
+
+155
+01:51:29,230 --> 01:52:12,300
+Oi, tá ouvindo? Agora sim. Então, eu fiquei meio perdido naquela parte ali das frases. Beleza. Então, você quer compartilhar a sua tela com a gente, por favor? A gente faz o seu, aí a gente já resolve os demais também, caso tenha alguma dúvida. Beleza. Então, a associação...
+
+156
+01:52:12,300 --> 01:53:15,180
+A gente não tá picotando, [participante]. Tá falhando? Agora melhorou. Tá dando uma segurada, tá? Tá dando uma segurada, [participante], na conexão. Acho que a conexão ainda tá um pouco... Mas vamos fazer o seguinte. A [participante] tá falando que não conseguiu fazer, tá um pouco perdido ali na configuração, né? Você conseguiu me ouvir? Você pode mandar uma mensagem aqui, qualquer coisa, tá? Se sim ou não.
+
+157
+01:53:27,920 --> 01:53:58,220
+Estão ouvindo agora? Agora sim. Iniciei a internet e caiu. Beleza. Então, o que eu tinha nessa parte aqui de associação, não é que a gente edita o que a gente colocou. Certo, você quer editar, né? Você quer editar, mas você precisa editar, porque você se perdeu, é isso? É, eu me perdi, eu não sei se eu coloquei a frase certa, se eu fiz a associação certa.
+
+158
+01:53:59,700 --> 01:54:33,220
+Você pode copiar, então, esse conteúdo aí, pode copiar esse cadastrar fornecedor que está ali nesse combo, pode dar um ctrl c, aí acessa lá, por favor, processo, processos novamente, e aí, perfeito. Aí você pode inserir aí nessa caixinha aí, né, dar um enter, direitão duplo clique aí, vamos ver lá como é que você criou. Ah, tá, você está chamando o mesmo processo, ali você tem que chamar o cadastrar fornecedor agora, tá vendo? O processo focado.
+
+159
+01:54:33,220 --> 01:55:04,370
+Não, é o chamador. O chamador tá certo, né? Tá certo. Só o cham... Isso, invocado ali. Essas frases aqui eu botei cadastro e a inversa eu botei descadastrar. A ideia é essa mesmo? Na verdade, essa frase aí depende, tá? Essa frase é só mesmo pra gente conseguir depois aí se encontrar. Mas você pode fazer o seguinte, ó. Você pode colocar na frase de sucessão ali. Pode colocar lá, por exemplo, alvo. Pode até deixar cadastro do vencedor mesmo, se você quiser, tá? Mas você pode colocar alvo, dois pontos.
+
+160
+01:55:04,780 --> 01:55:38,320
+Cadastro de fornecedor, sei lá. E ali a fonte, você coloca ali seu processo, adquirir suprimentos. Então, fonte, dois pontos, adquirir suprimentos. Fonte, onde? Aí mesmo, onde você selecionou agora, tá vendo? O descadastrar. Ah, tá. Fonte, né? Fonte, dois pontos, aí você coloca o nome do seu processo chamado, no caso, adquirir suprimentos. Essa frase vai servir basicamente pra gente se localizar lá nas associações, tá bom?
+
+161
+01:55:38,480 --> 01:56:16,620
+Vai ver, por exemplo. Ah, beleza. Aqui eu boto pontinho. Isso. Aí dá um salvar ali. Maravilha. Beleza, agora vamos lá para o processo. Agora vamos ver só isso. Seleciona lá para... Dá um atualizar aí, só para ele tentar atualizar aquele combo box ali. Vê se ele já consegue. Beleza. Agora o Alvo. O Alvo já está chamando ali o cadastro fornecedor. Agora clica naquele maisinho aí, no meio dessa caixinha amarela aí.
+
+162
+01:56:16,880 --> 01:56:50,020
+Isso, agora clica lá nesse verdinho ali, naquele envelope verdinho. Agora, associações ali, ó. Associações. Aí eu [participante] o mesmo, né? Isso, aí você dá um adicionário aí. É a fonte de adquirir o suprimento. Beleza? Pode ser. Exato. Essa frase aí de associação inversa, ó, por exemplo, se você coloca uma frase ali muito genérica, quando você for associar, você pode, por exemplo, aproveitar esse cadastro de fornecedor e utilizar com vários processos, tá?
+
+163
+01:56:50,020 --> 01:57:20,210
+Vamos imaginar que esse processo aí seria um processinho de pagamentos, onde, por exemplo, aí adquirir suprimentos iria chamar ele, compras iria chamar ele, financeira iria chamar ele. Então, aquela frase lá de associação, quanto mais específica você deixar, mais fácil vai ser pra você lembrar de associar, tá? É por isso que eu deixei lá o fonte, adquirir suprimentos, já pra eu, quando for associar aqui, ficar mais fácil, tá? Então, beleza, pode dar um salvar aí.
+
+164
+01:57:20,210 --> 01:57:54,670
+Ficou bacana. Maravilha. Valeu. Beleza, agora é só ativar e depois testar lá. Bom, agora, como é que estamos aí, [participante]? Conseguiu ver a questão do client? Estava com problema no client, né? É, o meu client continua com problema, mas eu vou usar o Tolosoft mesmo. Eu até consigo entrar no client, mas aparece o menu, mas não aparece os itens do...
+
+165
+01:57:55,570 --> 01:58:32,400
+Já fiz tudo, mas não. Você pode só dar uma olhada, coisa rápida? Se eu ver qualquer menu aqui, fica tudo branco. Isso, e pelo web lá, como é que está o web? Esse é o web. Oh, perdão, o cliente. O cliente está normal. Ah, o cliente, você já conseguiu validar o processo, ativar, né? Já, só não fiz um chamado, mas ele está... Ah, beleza, não, isso daí é o mais importante, mas aí você pode dizer que está pelo cliente se quiser também, tá?
+
+166
+01:58:32,400 --> 01:59:04,620
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+167
+01:59:04,620 --> 01:59:58,480
+Pensou certo aí, mas é possível configurar esses três tipos de chamada aí. Beleza. [participante], como estamos? [participante], o pessoal está controlando o áudio. [participante]? Oi. Consigo fazer o processo? Não, não, não, não. Você quer que eu perguntei aqui que minha tela quase deu tela azul. Você quer que a gente tenha acesso para dar um auxílio nessa parte?
+
+168
+01:59:58,510 --> 02:00:00,000
+Deixa eu só restaurar a versão.
+
+169
+02:00:00,000 --> 02:00:37,070
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+170
+02:00:37,070 --> 02:01:07,070
+Mas se você quiser ajuda, é tranquilo, tá? Essa parte aí é, basicamente, é selecionar algumas opções aí, se precisar, é só chamar, tá bom? Tá, eu vou revendo aqui. Obrigado. Tá, eu vou fazer o seguinte agora, tá? Desculpa, [participante], pela música de fundo aí, se eu desvizinho aqui na frente, é terrível. Eu vou passar um pequeno exercício agora pra vocês fazerem, é de aprovação, tá? Algo simples, ainda não envolve integração entre o processo. E aí, eu vou deixar vocês fazendo, eu vou ficar aqui, obviamente, se precisar de alguma ajuda,
+
+171
+02:01:07,070 --> 02:01:39,100
+É só chamar, tá? Essa parte de interface de processo aí, a gente pode fazer, vai ter exercício dela também, então a gente vai revisar bastante. Eu vou passar só de aprovação aqui pra ver como vocês vão se virar em relação a isso, tá bom? É um processinho bem simples. Ele vai ficar lá na... Oi, [participante]. Oi, pode falar, [participante]. É o [participante], desculpa. A hora que você me chamou, minha internet caiu. Eu tô com o mesmo problema que o [participante], eu tô reiniciando aqui o programa, tá bom? Mas eu consegui, consegui sim, ó.
+
+172
+02:01:39,100 --> 02:02:17,920
+Eu acho. Não, tranquilo, tranquilo. Eu vou, então, só passar aqui o exercício agora, tá? E aí, se você tiver alguma dificuldade, eu tô por aqui, tô aqui no áudio aqui, só vou deixar no mudo aí, pra vocês não ouvirem essa música aí de fundo aí, tá bom? Eu vou compartilhar a minha tela aqui com o exercício. Ele vai ficar lá no processo lá de macro-processo, tá bom? Naquele, onde a gente criou lá, lembra? Macro-processo, acho que era meus processos, lista de atividades, ele tem lá uma atividade 01.
+
+173
+02:02:17,920 --> 02:02:30,190
+Aí ele vai ficar agora com uma atividade 02, tá? Atividade 02. E aí se você criar errado, alguma coisa do tipo, não tem problema não. A gente acessa e corrige aí qualquer coisa, tá bom? Eu vou deixar aqui na tela então.
+
+174
+02:23:41,870 --> 02:23:46,320
+Se eu estiver precisando de ajuda, é só chamar, tá bom? Tô por aqui.
+
+175
+02:32:36,180 --> 02:33:15,120
+[participante]? Oi? Eu dei uma travada aqui. Opa! Vamos lá. Você quiser compartilhar sua tela com a gente? Deixa eu compartilhar. Entrou feio aqui. Surra pra grande. Aqui, ó, desenho o processinho. Mas aí, aqui na... Eu não sei se eu fiz a aprovação certinha, que ele tá reclamando aqui. Eu não consigo identificar aqui, não. Um monte de coisa, né?
+
+176
+02:33:15,540 --> 02:33:45,440
+Deixa eu ver, falta a questão do item de configuração, aí a questão do gateway, mais ou menos tudo envolvido entre o gateway e a configuração ali, tá? Pode fechar. Ali, quem tá falando é o, perdão? O [participante]. O [participante], o detalhe ali é, cadê a atividade 01 ali, perdão? A 01 era de ontem, né? Ah, tá, você pode criar ali, dentro de lista de atividades, tá? Ah, é? É, esse atividade 02 aí.
+
+177
+02:33:45,440 --> 02:34:12,500
+Aí, para corrigir isso daí, você pode, ou você pode simplesmente exportar esse cara aí, mas a gente pode fazer depois, tá? Você pode exportar ele, aí depois criar uma nova versão no lista de atividades, importar, né? Aí você pode apagar esse atividade 0205, mas tranquilo, esse aí é o de menos, tá? Então, ó, vamos lá. Clica na realizar aprovação aí, por favor. Tá nele. Propriedades, beleza, já tem o código. Agora clica aí no gateway.
+
+178
+02:34:14,160 --> 02:34:45,440
+Beleza, ali embaixo vai ser regra de desvio, vai ser o outro, vai ser outra opção, vai ser aprovação, beleza. Agora clica ali nos fluxos ali, aprovado e reprovado, lá no desenho do processo. Clica aí na setinha, agora vai ser resultado ali, está vendo? Coloca ali resultado, você vai selecionar lá aprovado. Lá do seu lado direito. Aqui está invertido. Ah, beleza. É lá mesmo, não precisa clicar nessa caixinha aí não, essa caixinha é só para você traduzir.
+
+179
+02:34:45,440 --> 02:35:23,150
+Quer ver? Clica lá na setinha de novo. Agora, isso, seleciona aí reprovado, né? O texto ali você pode apagar ali mesmo, tá? Não precisa clicar nos três pontinhos não. Isso, pode apagar aí. Pode escrever reprovado, né? E aprovado, beleza. Aí no resultado ali, ó, você vai selecionar aprovado, tá vendo? Quer ver? Volta lá de novo. Isso, aí você vai escrever, aí clica na setinha lá, né? Do reprovado lá, por exemplo. Lá na setinha lá, clica lá na setinha. Também. Beleza. Do aprovado. Pode ser, pode ser.
+
+180
+02:35:23,150 --> 02:35:58,480
+Aí tá vendo aquele esquema lá, ó, resultado da aprovação? Isso, aí você vai selecionar um dos dois aí. Esse aqui que tava faltando. Ah, beleza. Aí eu acho que talvez falte ali só passar os campos pra aprovação agora. Passar os campos, esses aqui, né? É, aí você clica o botão direito aí, mais ações, complementar a partir de. Ah, esse aqui é aquela parte que ele passa todos os campos. Isso, exatamente.
+
+181
+02:36:03,950 --> 02:36:33,550
+Beleza, talvez agora só o serviço, né? Talvez falte ou não, não sei se você já criou. O serviço eu já fiz. Ah, beleza. Mas qual era o outro caminho caso eu não queira usar todos os... Se eu quiser a aprovação só com base na justificativa. Aí você tem ali, ó, campos para aprovação, lá do lado direito. Tá vendo ali, ó, campos para aprovação. Isso, isso aí. Eu posso adicionar um só, né? Pode.
+
+182
+02:36:34,770 --> 02:37:06,300
+Aí é o customizado, tá? Esses são campos que você vai criar. Os nativos são esses aí. Depois a gente vai aplicar um pouco esses customizados aí pra saber o que são. Maravilha. Não, beleza. Agora deve deixar que se quiser validar. Agora validou. Maravilha. Show de bola. Valeu, obrigado. E como é que estamos aí, pessoal? Os demais precisam de ajuda, tá? A ideia é que a gente consiga fechar esse exercício aí, tá? E aí, ó, o [participante] que fechou o dele, o [participante] aí vai nos ajudar. Talvez ali também os demais também quiserem.
+
+183
+02:37:06,300 --> 02:37:31,540
+Deixa eu ver como é que tá a nossa lista aqui. E aí, [participante]? Eu consegui terminar, só que ele deu o mesmo bug do outro. Quando eu fiz o teste pro [participante] aprovar, [participante] aprovou e ele não seguiu o fluxo, ficou preso no [participante]. Aí eu vou fazer a mesma coisa aqui, eu vou tentar fazer aqui, nova versão, pra revalidar e reaprovar, pra ver se...
+
+184
+02:37:31,540 --> 02:38:00,720
+Você resolve como foi feito da outra vez. Beleza, aí se não resolver, a gente acessa aí pra dar uma olhada, tá bom? Tá. [participante] [participante], você conseguiu fazer? Como é que estamos aí? [participante], o seu exercício eu ainda nem comecei ainda. Beleza. Tô na fase anterior, que eu tive que trocar de máquina. Tá bom, sem problema. Mas tá gravado, tá? Qualquer coisa aí dá pra gravar depois, né? É, eu vou assistir depois. Beleza. Obrigado. De nada. [participante], como é que estamos?
+
+185
+02:38:02,130 --> 02:38:24,690
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+186
+02:38:24,690 --> 02:40:02,880
+É, pela metade, assim, faltando configurar, né? Não, sem problema, mas aí quando você finalizar aí a gente acessa aí, tá bom? Eu vou dar um tempinho aí pra vocês finalizarem, tá? E aí, [participante], quando você quiser, se você não conseguir aí, você pode chamar que eu acesso contigo aí, tá bom? Fico aguardando aqui. Peraí, deu no mesmo? Mas acho que é porque você só conseguiu quando você fez o classificar pela web. Entendi, talvez você não esteja conseguindo reclassificar, né?
+
+187
+02:40:02,880 --> 02:40:35,020
+Eu vou acessar daqui. Eu reclassifiquei, só que deu na mesma, né? Aí você fez pela web e deu certo. Ah, entendi. Você quer compartilhar a sua tela com a gente? Só pra eu ver como é que tá. Aqui eu já tô com o [participante] e aí eu tive que buscar aqui pelo número e apareceu aqui, ó, que tá como o [participante] [participante]. Aham. Mas aí se você vem no fluxo, o [participante] [participante] já aprovou, ó.
+
+188
+02:40:35,310 --> 02:41:29,420
+Eu já estava no 2, né? Eu fiz o 3, aí reclassifiquei, deu o 3 aqui direitinho. Mas aí, vamos ver se ele vai passar agora. Beleza, acessa lá seu processo lá, versão 3, né? No editor de processo, por favor. Tenta validar o processo aí. Deixa eu ver se eu estou no certo. Acho que não. Beleza, versão 3, atividade 0.2, versão 3. Clica ali no gateway ali, por favor, [participante].
+
+189
+02:41:30,960 --> 02:41:59,860
+Aí é só essa propriedade, botão direito de propriedade, beleza. Clica na seta aí do aprovado ali, por favor. Ele tá, só tá ao contrário, né, mas também não, esse selecionou o reprovado. Não, não existe. Não, mas isso não deveria dar erro não, tá? Ele teve, tipo, e o outro tá reprovado, os dois, ah tá, os dois estão no mesmo caminho, por isso talvez ele não tenha se encontrado ali, tá? Talvez tenha sido isso. Dá um salvar aí, por favor, e atualizar, só pra dar um susto ali.
+
+190
+02:41:59,860 --> 02:42:53,630
+Que como ele viu que os dois tem o mesmo caminho, acho que ele se perdeu ali na hora de... Eu pensei que você tinha só invertido, tá? Que aí, por exemplo, em vez de colocar reprovado e aprovado... Ele ia ter cancelado. Quando aprovasse, ia cancelar o chamado. Sim, sim. Aí como ele viu que os dois são iguais, eu acho que ele se perdeu lá na... E agora tá certinho, né? Beleza. Agora vamos acessar ela de novo lá. Ah, show de bola. Era aquele detalhe lá. Aí foi lá a data da solicitação, tal, tal, tal, beleza. Show de bola. Zerado.
+
+191
+02:42:53,630 --> 02:43:22,060
+Então, [participante] e você aí, aí os demais, acho que o [participante] tá concluindo dele lá, assim que ele terminar. [participante], faz no seu tempo aí, tá? Não precisa correr, não. A gente tá dentro do cronograma aqui. A ideia é que a gente fique sempre aí, todo mundo no mesmo barco aí, tá bom? Não se preocupa com o tempo, não. E aí, quando você concluiu, se você, por exemplo, até as quatro horas, se você não concluir, aí a gente acessa aí com a equipe aí pra dar um apoio nessa parte, tudo bem? Beleza. Beleza mesmo. Beleza.
+
+192
+02:43:22,450 --> 02:43:50,740
+Você quer aproveitar esse tempo, então, para fazer o que você falou, que é passar o atividade 02 para dentro da lista de atividades? Ah, claro, verdade, né? Vamos fazer o seguinte, eu vi lá que você fez igual o [participante] também, né? Acesse e compartilhe esse ambiente, por favor. É normal, tá, isso daí, até porque ainda não tem essa malícia aí de usar a ferramenta, então é comum que vocês criem processos e aí dentro de processo, vá criando subprocesso. Mas a ideia é que todo mundo ficasse ali, ó, lista de atividades, tá, dentro do processo.
+
+193
+02:43:50,740 --> 02:44:19,980
+Então é o seguinte, você pode exportar essa versão aí, tá, [participante]? Então, atividade 02. Mas eu não tô conseguindo exportar, tá dando um erro. Acho que o meu software teve dificuldade de instalar porque é a máquina da empresa. Aí o rapaz ficou um tempão tentando dar as permissões e eu acho que alguma coisinha ficou fora de lugar. E tá dando aqueles erros que você vê de vez em quando, isso aqui, ó. Aí me exportar, todas as vezes que eu tento, ele dá mesmo erro, ele não deixa.
+
+194
+02:44:23,020 --> 02:44:50,750
+Provavelmente alguma coisa de permissão na máquina, alguma biblioteca, ele não conseguiu. Porque quando a gente instala o client, ele faz o download de várias DLLs, nós chamamos de DLLs, mas são as bibliotecas, as classes. E aí, se ele não tem permissão para fazer download de algumas DLLs, ele acaba dando alguns erros. Acho que foi o seu caso, por isso que a gente está contando esse problema de fluxo, de não sei o quê. Mas, então, a gente faz o seguinte, a gente vai fazer com o do [participante], porque como está sendo gravado, aí você pode acompanhar.
+
+195
+02:44:50,750 --> 02:45:00,000
+Aí depois lá no ambiente de vocês, aí vocês podem fazer isso, tá? Então, [participante], vamos fazer então no seu ambiente? Aproveitar então que...
+
+196
+02:45:00,000 --> 02:45:31,220
+Do [participante] aqui deu ruim, né? Então a gente vai tentar fazer com o seu, tá bom? Opa, vamos aqui. Só tava respondendo o pessoal aqui. Beleza. Eu tive que atender outra chamada aqui. Eu perdi onde é que... Em qual parte vocês estão? É, a gente vai tentar... Lembra que você criou a atividade 02 ali, ó? Mas o ideal é que ele ficasse ali em lista de atividades, tá? Então o que a gente precisa fazer? A gente vai exportar esse cara. Esse cara tá em edição, né? Ele tá validado, tá tudo certinho?
+
+197
+02:45:31,440 --> 02:46:46,540
+Tá validado, só que eu acho que deu uma travada aqui, que eu tinha mandado já ele exportar, mas ele... Gerando arquivo de exportação, né? É, e não deixou fazer nada, eu tô clicando aqui e ele tá achando. Acho que ele deve estar processando ali ainda a informação, ou ele travou aí pra você, né? Eu vou dar uma enforcada nele aqui. Tá bom. Acho que o meu também funcionou agora, de tanto tentar. Então, eu clico em cima de lista de atividades e importar.
+
+198
+02:46:46,830 --> 02:47:14,420
+Isso, aí ele vai exportar, aí você gera uma nova versão ali do lista de atividades, né? E aí quando você gerar uma nova, para ele não importar numa versão corrente, né? Porque ele pode importar também, mas o ideal é que ele importe numa versão edição para você não ter problema depois. Então gera uma nova versão, né? E aí você importa em cima de lista de atividades. E aí se você quiser excluir aquele processo, tudo bem que como ele já tem demandas criadas, né? A gente vai ter que apagar elas para conseguir excluir ele, tá?
+
+199
+02:47:14,800 --> 02:48:37,710
+Então a gente pode desativar, enfim. Mas vamos fazer o seguinte, vamos esperar aqui o do [participante]. Ele tá esperando aqui. Se der problema do [participante], a gente tem que não ser. É, deveria ir de boa isso daí, tá? Bem rápido, na verdade. Deixa eu ver aqui se o meu também tá com o mesmo problema. Exportar. Pior que mais cedo exportou, não demorou tão. O meu demorou um pouquinho, mas foi agora. Ainda tá girando ainda. Agora foi. Agora foi.
+
+200
+02:48:41,390 --> 02:49:46,430
+Aí aqui eu posso apagar ele. Isso, pode apagar. Vamos ver se o processo... Você pode apagar ele também ali, beleza. E aqui eu vou importar. Agora você vai gerar uma nova versão ali antes, né? Tem que gerar uma nova versão. E agora sim, lá em edição, importar. Beleza, só selecionar aí agora. Aí, você viu aí, [participante], como que a gente fez aqui o procedimento?
+
+201
+02:49:46,430 --> 02:50:15,950
+Eu acho que você vai ter um problema lá, tá? Talvez quando você tente tentar remover o processo. Porque o seu foi criado em instância, mas vamos esperar dar esse problema e aí a gente vê o que faz em relação a isso. É, o meu eu não queria criar nada. E aí por isso que você conseguiu remover lá, tá? Mas no caso eu acho que do [participante] vai dar, talvez é problema ali, mas é bom pra gente saber como atuar nesses casos aí. Tudo bem que isso vai funcionar, tá? Em ambiente de desenvolvimento e obviamente de teste, enfim.
+
+202
+02:50:40,020 --> 02:51:11,540
+[participante], consegue me dar uma ajuda aqui para continuar? É o [participante]. Você quer colocar as questões? Não, mostra aí o seu, mostra aí. É, eu estou correndo por fora. Pode compartilhar a sua tela, [participante], tranquilo. Eu acho que eu parei bem no começo aqui, que é na parte de colocar o gestor aqui, o [participante], o [participante] [participante]. Certo, valida seu processo, por favor.
+
+203
+02:51:14,700 --> 02:51:46,460
+Está pequeno aí, atividade 2, nenhum item de configuração, é campo configurado para aprovação ou apropriação. Certo, equipe, vamos lá, detalhes ali de configuração do processo ali. Quem pode nos ajudar em relação a isso? Se não conseguir, obviamente, aí eu vou e acesso aqui para fazer as configurações, tá? Mas quem quiser tomar a frente aí e nos ajudar, qual que é o problema ali que o [participante] está enfrentando ali? Ele precisa criar um...
+
+204
+02:51:46,460 --> 02:52:58,320
+Gestor, né? Que ele colocou um outro tipo de gestor, não, que você pediu. Gestor responsável aqui, né, [participante]? É, ele pediu no caso de gestor e não tem. Eu teria que criar um. Criar um papel de gestor. Ah, tá. Muito novo aqui, né? Só isso. E adiciono o [participante] aqui. Adiciono o [participante]. É. Continua com os dois problemas, né? Tem aquela questão lá do verdinho que tem que clicar com direito pra associar. Clica com direito.
+
+205
+02:52:59,630 --> 02:53:39,090
+É, complementar, partir de, isso, e agora, o que que vai dar? Foi, ficou, é, ficou uma parte. Eu acho que agora é aquela que você até tinha me orientado da vez passada aqui, né? Acho que nesse campo. Esse aí já tem, aprovação. Ah, clica no amarelo. É, coloca na decisão ali, nova decisão. Ali, na regra, isso, aí. Lá embaixo, é o último. O último aqui.
+
+206
+02:53:40,050 --> 02:54:26,610
+O mesmo erro, né? É. Agora ele tá abrindo essa tela nova aqui. Não, porque você clicou no penúltimo, era no último. Volta lá. Não tá abrindo. Tá faltando alguma coisa. Tem que aparecer a lista. Tem uma listinha aí quando você clica. Desselecione e seleciona de novo. Oi. Oi. É certo. Salvar. Tentar validar de novo, [participante]. É, o [participante] é mestre mesmo, hein, [participante]? Tira o chapéu pra você aí. Valeu. Tá matando todos os problemas, viu, Mano?
+
+207
+02:54:26,610 --> 02:54:57,230
+Inclusive um usuário aqui. Não, mas isso aí vai acontecer bastante aí, tá? É importante que você se ajude em relação a isso aí, tá? A outra turma também, a galera lá, foi o mesmo procedimento, deixava o pessoal se virar, bater cabeça, e aí com o tempo vai ficar todo mundo alinhado, tá? Por exemplo, você vai, também já avançou bastante coisa, a questão de papel, você já foi selecionando rapidamente, esses detalhes aí todos eles vão vir com o tempo mesmo, tá? Não se preocupe em relação a isso não.
+
+208
+02:54:57,230 --> 02:55:27,650
+A galera deslanchando aí no Supravizio, hackeando aí. Mas é isso mesmo, feliz aí com o conhecimento de vocês aí. Mas é assim mesmo, né? Isso aí vai vir com o tempo também, isso aí é tranquilo, tá? Obviamente, alguns vão desenvolver mais, outros vão ter um pouquinho ali, requerir mais um pouco de tempo, mas depois que pegar o jeitão ali, tá todo mundo mesmo um barco aí, isso que é importante, tá? Senhores, então agora a gente finalizou esse exercício, né? Essa parte aí de aprovação.
+
+209
+02:55:27,650 --> 02:56:03,660
+100% aí. Acho que o [participante] [participante] ali tá finalizando alguma parte, né [participante] [participante]? Depois você vai acompanhar as aulas, né? Você falou? Teve um probleminha ali com a conexão? [participante] [participante], né? Foi [participante] [participante], errei o nome do [participante] [participante]. Oi, tão me ouvindo? Tô, tô te ouvindo. Isso, eu tô já finalizando aqui a primeira parte, né? Agora eu vou passar pro exercício, mas aí depois eu assisto e finalizo. Tá bom, sem problema, sem problema, tá bom. Então, ali a parte de...
+
+210
+02:56:03,660 --> 02:56:33,170
+É, o [participante], como é que ficou essa questão aqui do subprocesso? Acho que a gente não chegou a corrigir o seu, né? Acho que eu vi o do [participante], depois a gente viu o do [participante], que ele já tinha, acho que ele tinha feito já, só teve um probleminha lá pra, talvez foi aquele instante. Aquele lá eu travei mesmo, mas eu vou fazer depois, ver rever na aula, viu? Porque lá eu já achei mais complicado mesmo. Tá bom, então. Então a gente pode ver rever na aula aí, sem problema, tá bom? Então, ó, deixa eu ver aqui. A próxima sequência aqui, claro, amanhã vai ter um exercíciozinho aí também de...
+
+211
+02:56:33,170 --> 02:57:00,770
+Da parte de interface, tá? Depois a gente faz essa... Se vocês conseguirem fazer essa... Porque assim, deixa eu pensar aqui, deixa eu ver se vale a pena fazer uma... Vamos fazer o seguinte, [participante], compartilha essa tela com a gente, a gente vai fechar a sua parte aí também disso, o processo, porque é rápido, a gente mata rápido essa parte aí, tá? Eu quero ver como que o pessoal vai te orientar em relação a isso. Aí se eles tiverem dúvida, alguma dificuldade, obviamente, eu também acesso aí pra gente fechar, tá? Porque como amanhã vai ter exercício, eu queria que vocês tivessem o mesmo barco aí pra...
+
+212
+02:57:00,770 --> 02:57:31,820
+Pra gente tocar algumas coisas aí. O que que você acha? Por mim, tranquilo, pessoal. Aqui vai pegar raiva de mim aí, né? Não, não. E aí, pessoal, tranquilo? Atrasando eles aí. Atrasando todo mundo. Pode ser sim. Tá, não, parece mesmo, gente. A aula de hoje é isso aqui. Não tem mais o que falar hoje. Eu nunca tinha visto a parte pra vídeo, viu? Então, pra mim, tá sendo novo mesmo. Eu parei aqui naquela versão.
+
+213
+02:57:32,050 --> 02:57:57,920
+Coloquei essa etapa aqui, que ela ficou intermediária, que dela vai ser o link para essa etapa aqui. Isso, perfeito. Até que eu consegui esquematizar, mas quando o pessoal entrou aqui, configurou o link, que você pula para lá e eu já me perdi. Entendi. E aí, galera, como podemos ajudar o [participante] em relação a isso? Vou deixar com vocês aí.
+
+214
+02:57:57,920 --> 02:58:27,340
+E aí eu vou ser a última instância aqui para ajudar em alguma coisa. Eu entendo que essa parte é um pouquinho mais chata, tá? Se vocês tiverem dificuldade em lembrar algumas coisas, pode chamar aí que eu ajudo, tá? Mas, se quiserem se aventurar, eu estou aqui, tá? Mas eu vou deixar vocês configurando para ver como vocês vão fazer essa parte aí, beleza? Então, ó, valendo, hein? Valendo 10 pontos aí, mentira. Então vamos lá, né? Se falta ali selecionar, está certinho ali.
+
+215
+02:58:28,780 --> 02:59:12,530
+Bom, e aí? Quem que vai nos ajudar em relação a isso aí? [participante], [participante], se o [participante] também quiser dar uma orientação ali, se lembrar alguma coisa. Está com a mesma dificuldade que eu aqui também, né, [participante]? É nessa parte aí que eu estou finalizando agora. Eu abri aqui o meu para dar uma olhada, né? Não sei, teria que revisar algumas coisas para ver como é que está, mas esse amarelinho que é o que faz a ligação, tem que colocar o...
+
+216
+02:59:12,530 --> 02:59:45,680
+A descrição dele, né? Fazer a associação. Pode colocar um nomezinho nele aí, cadastrar, fornecedor. Isso. Só um detalhe, só para iniciar essa parte aí, tá? Para vocês não se perderem muito ali. Você teria que clicar ali em associação, tá? Está vendo ali a parte de associação, lá embaixo? Isso, ó. Aí você vai clicar em nova ali, tá? Aqui embaixo. Onde está escrito ali associação. Interface entre processos.
+
+217
+02:59:46,060 --> 02:59:56,910
+Interface entre processos, associação. Pessoal, cortou aqui, acho que a minha internet está ruim aqui. Não é associado, onde que vem?
+
+218
+03:00:00,020 --> 03:00:36,080
+Está vendo aquela parte que está escrito em negrito ali, interface entre processos? Lá no seu lado direito ali mesmo, nas propriedades. Direito aqui, nas propriedades, interface entre processos, associação. Isso, aí você clica nela aí, nova. Bom, agora é com vocês aí, pessoal. Dou algum nome aqui, pessoal, seria para criar o link.
+
+219
+03:00:39,020 --> 03:01:09,120
+Isso, você vai dar um nome para ela, pode ser um nome que vai ser único, pode ser, sei lá, CAD, for, alguma coisa do tipo, ou só fornecedor, pode ser fornecedor também o nome. Ele vai deixar em caixa alta mesmo, tá? Beleza. Ali é o seguinte, [participante], ele está falando, solucionador, subprocesso chamado, chamador, tá? Esse é o processo de onde você vai chamar, então no caso aí, de que ele suprimento está certinho. E aí você vai chamar lá o cadastro de fornecedor.
+
+220
+03:01:09,120 --> 03:01:54,800
+Então, no segundo passo ali, você vai selecionar cadastro de fornecedor. Que é para onde eu estou linda. Esse aqui é o link, na verdade. Isso, exatamente. Aí ali, você vai criar uma fase de seleção, você vai colocar alvo, dois pontos, aí você vai escrever cadastro de fornecedor. Beleza. E ali embaixo vai ser fonte, dois pontos, e aí o nome do seu processo. Adquirir suprimentos. Ok.
+
+221
+03:01:55,090 --> 03:02:26,640
+Beleza, ali a gente não vai colocar um ponto não, é só para o pessoal ver qual vai ser a diferença. Pode confirmar ali e fechar. Beleza, ali ó, já chamou ali, né, criou para você o cadastro a fornecedor. Agora clica naquele maisinho ali, ó, para a gente ir lá para o processo lá. Não fez nada. Esse mais aqui, né? É, exatamente. Mas beleza, talvez seja porque o iniciador lá esteja invertido. Vamos lá no cadastro a fornecedor lá, no processo.
+
+222
+03:02:29,970 --> 03:03:15,440
+Não, é lá no cadastro de fornecedor, lá no processo, né? No subprocesso. Acho que ele está aberto ali, uma aba ali, né? Ou não? Mostra para a gente aí o cadastro de fornecedor, o processo, por favor. Beleza. Eu acho que eu nomeei alguma coisa errada aqui. Onde que está o cadastro? Você chegou a criar o cadastro de fornecedor, o processo? Você lembra? Não, não lembro. Posso ter pulado.
+
+223
+03:03:15,440 --> 03:03:45,780
+Aquele processo que você mostrou agora há pouco lá com aquelas atividades, que processo era aquele? Atividade 01, né? Beleza. Atividade 01, atividade... Tá, isso aqui é o que a gente está fazendo agora. Mas o cadastro fornecedor, acho que o cadastro fornecedor existe para você já, né? Porque você selecionou lá na associação, né? Cadastrar fornecedor. Posso ter cadastrado em algum lugar errado também, né? Vamos ver se ele está no... Sabe o que deve ter acontecido? Você jurou a versão.
+
+224
+03:03:45,780 --> 03:04:21,230
+Eu acho que você deve ter deixado nas versões anteriores. Quer ver? Seleciona lá o Tecnologia da Informação. É isso. Agora, lá embaixo, lá, Histórico de Versões, a última opção. Seleciona o Administrativo ali, aí procurar ali o do Administrativo. Beleza. Dá um Procurar ali, acho que ele não conseguiu ainda. Beleza. Tenta acessar algumas versões dessas aí, tipo a versão 2, por exemplo. Vamos ver se está na versão 2, senão a gente tenta...
+
+225
+03:04:21,650 --> 03:04:59,580
+Não tá, né? Só tem um. Vamos tentar três agora. Também não, né? Só tem um. Acho que a um vai estar e a quatro é que eu tô aqui, né? Não tá aí, né? Então eu perdi mesmo o setup, né? Cadastrar o fornecedor. Ele tá em algum lugar, porque quando a gente cria associação lá, a gente só consegue associar com o processo que existe, tá? Não com o processo que esteja... Deixa eu fazer o seguinte aqui. Deixa eu tentar montar uma...
+
+226
+03:04:59,580 --> 03:06:03,340
+Por enquanto, se você quiser ir pesquisando um a um aí, tá? Enquanto eu monto a query aqui. Deixa eu só ver como a gente consegue fazer isso rápido aqui. Não é mais fácil criar logo outra instância aí. É melhor, é melhor. É tão pequenininho. Exato, exato. É bem melhor mesmo, viu? A gente pode fazer o seguinte, então, [participante]. Você pode criar um outro processo, ao invés de você cadastrar fornecedor, pode ser cadastrar fornecedor 2, tá? Pra não ficar... Pra não atrapalhar o que já existe aí, tá bom?
+
+227
+03:06:03,570 --> 03:06:58,100
+Aqui mesmo no Tecnologia de Informação Iniciativa. Não é em edição, você clica com direito no que está em edição. Não, isso. Novo subprocesso. Novo subprocesso. É, cara, só... É. Atualizou aí para você? Tá, eu não me lembro disso aqui. Beleza. Pode falar, [participante]. O evento inicial por mensagem. O evento inicial.
+
+228
+03:06:58,100 --> 03:08:18,850
+Não, o outro ali, por mensagem, que é o quarto. Por mensagem. Aí uma tarefa. Qual que é o nome dela? Deixa eu abrir aqui. Não, esses são esses desafios aí que fazem a gente aprender. Tá certinho. É, cadastrar certidões. Outra tarefa, cadastrar fornecedor. Depois o fim. Enfim. Agora no verdinho.
+
+229
+03:08:18,850 --> 03:08:58,260
+Primeiro, você clica para poder fazer o link de associação. Ali nas associações. Propriedade. É, associações ali. É bem no meio da esquadra. Primeiro associações, né? Abre a coleção aqui. É isso que eu vou fazer? É, inclui aí. Adicionar. Certo. Agora você busca ali pela associação que você criou. Teria que abrir aqui direto ou não?
+
+230
+03:09:01,200 --> 03:09:32,660
+Eu não tenho nenhuma, né? É porque ele abre para fazer uma nova, eu já fiz, né? Não lembro não, mas como é que é aí? Aí é o seguinte, ó, você está, na verdade, você tem que selecionar aquela que você criou, né? Você tem que voltar lá no amarelinho lá, então, pode cancelar aí. Vou salvar aqui, tá? Não dá problema, né? Já apareceu algum problema aqui, né? Estou tentando salvar aí, ou não.
+
+231
+03:09:32,780 --> 03:10:05,890
+Ele acha que o problema é da associação lá, né? Eu estava fazendo select aqui, eu acabei não vendo o procedimento, mas volta lá na caixinha amarela lá, no processo, pode fechar. Isso. Aí ali, ó. Exatamente. Ali, ó. Quer ver? Copia aquela frase ali de associação. Isso, copia essa frase aí que está aí. Lá no... Isso aí. Beleza. Vamos lá em processo lá. Lá em cima, lá no menu chamado processo. Processo, processo.
+
+232
+03:10:05,890 --> 03:10:50,720
+Aqui, ah, tá. Isso. Associações, a primeira opção. Beleza. Dá um enter agora. Beleza. Acesse isso daí, a gente vai mudar ali o processo chamador agora, tá? Dá um duplo clique aí. Vai ser aquele cadastrar fornecedor 2, né? Tá vendo, ó, o processo chamado invocado, você vai mudar ali pro... em cima aí, ó, em cima. Lá naquele combo box, entendeu? Isso. Aí você vai chamar... Sobre o processo invocado, é isso? Isso. Ele vai ser alterado? Isso.
+
+233
+03:10:50,720 --> 03:11:29,390
+Vai ser aquele que você criou agora há pouco, certo? Que é fornecedor. Tem como eu botar nessa tela aqui para poder ver. Qual o nome daquele processo que você criou agora há pouco, junto com o [participante]? É o Cadastro Fornecedor 2? Como que é o nome dele? É, acho que é Cade de... Ele não vai puxar o nome mesmo, né? É a segunda opção ali, tá? É aqui, cadastrar fornecedor. Então, mas só que você tem que mudar... É, segunda opção. Tem problema.
+
+234
+03:11:29,740 --> 03:12:07,550
+Tá aí. Eu esqueci qual que era que tava aqui. Esse é o adquirir suprimentos. Adquirir suprimentos, tá certo. E esse é o cadastro. Cadastrar fornecedor, né? Dá um salvar aí. Acesse lá aquele processo que você configurou agora há pouco no [participante], por favor. Fica lá no editor de processos, isso. Agora acessa lá o cadastrar fornecedor ali, ó, versão 4.
+
+235
+03:12:07,550 --> 03:12:43,470
+Ele tá falando o que aí quando você tenta salvar ele? Dá pra clicar no botão salvar ali. A inserção da expressão, conflito com a chave primária. Associação do subprocesso. Provavelmente quando for criar associação ali, né? Pode ser o seguinte, mesmo que a gente pergunte algumas coisas aí, coisa simples, então tenta fechar isso daí, essa parte, e a gente tem que fechar de novo. Pode fechar aí lá no botãozinho fechar ali em cima. A gente vai fechar tudo isso daí, tá? Fecha tudo aqui.
+
+236
+03:12:45,940 --> 03:14:08,270
+Vamos deslogar, vamos fazer algo mais dramático aí, deslogar e logar, pra gente já tentar zerar essa parte do, se ele dá algum problema de constrain aí, a gente muda lá a associação só. Pode, beleza. Beleza, editor, isso. Agora acessa lá o cadastrar fornecedor. Acho que ele acabou não adicionando lá, né? Não. Perdi tudo. Deixa eu fazer aqui uma coisa rápida aqui, tá? Já tô quase concluindo aqui o...
+
+237
+03:14:08,300 --> 03:15:00,000
+O que eu queria fazer, deixa só, último passo aqui, deixa eu ver só, new join, só para tirar uma dúvida agora. Deixa eu ver aqui, macro, vou te mandar uma query só para a gente tirar uma dúvida aí, tá? Processo.
+
+238
+03:15:00,000 --> 03:15:52,370
+Vou te mandar um select aí no chat. Um pouquinho. Tá. Pega ele aí, vamos executar na sua... Poderia melhorar ele, mas eu vou deixar ele assim, só para deixar genérico, mas depois poderia colocar um filtro ali. Mandei no chat aí da reunião, tá? Copia esse cara aí. Um select, né? Isso, inteiro. Volta aqui.
+
+239
+03:15:54,060 --> 03:16:24,660
+Agora seleciona ali relatórios. Aqui em cima. No mesmo relatórios, ali é o executório. Execução de comandos SQL agora. Isso. Eu poderia ter filtrado ali, mas eu não sei como é que está o seu. Pode dar um CTRL V aí e executar depois ali, tá? A gente vai tentar procurar ali o cadastro fornecedor, tá? Para saber como a processeira se encontra. Executa direto aqui, né? Pode executar.
+
+240
+03:16:27,090 --> 03:16:59,470
+Vamos procurar o seu cadastro fornecedor, ele tem o macro, o processo, a gente está procurando por aquele classe subprocesso ali, tá? A gente tem que identificar onde está o cadastro fornecedor aí, tá? Poderia ter melhorado aí, mas eu acabei, vamos ver se visualmente a gente, ele está ordenando, se você clicar lá na coluna classe subprocesso, ele ordena, tá? Mais uma vez, é, pode deixar assim, a gente está procurando pelo cadastro ali. Você achou aí? Porque está bem pequenininho na minha tela aqui. Tem como aumentar aqui para você, para vocês não, né?
+
+241
+03:17:00,560 --> 03:17:32,780
+Não tem cadastro aí não. Tem só contratação, criação. Acho cadastro de fornecedor não existe mesmo não, hein? Ele tá aceitando? Não era pra aceitar lá dentro, é isso? Deixa eu ver uma coisa aqui rapidinho. O seu ambiente é o 008, né? Ah, mas é processo, né? Não é processo, não é subprocesso. É o subprocesso ali, aquela sub. É, não tem não. Deixa eu ver aqui uma coisa.
+
+242
+03:17:33,650 --> 03:18:21,070
+[participante]. Porque como a tela estava pequena, eu não tenho certeza que a gente selecionou cadastro de fornecedor aquela hora, se foi uma outra coisa. Deixa eu só ver aqui, tipo de subprocesso, cadastro, cadastrar, é cadastrar fornecedor, não está aparecendo cadastrar fornecedor aí? Não, não está não, mas... Será que é porque ele não está ativo? Deixa eu fazer o executar aqui na mesma área aqui, já estou usando o ambiente aqui já, tá?
+
+243
+03:18:21,070 --> 03:19:21,300
+Se a gente conseguir, a gente criar um novo ali também, não tem problema não. Só para desencargo de consciência mesmo agora. Deixa eu ver aqui, deixa eu só ele processar aqui. Deixa eu ver aqui. Eu achei de querer suprimentos, atividade 01. Será que ele está inativo? Deixa eu ver aqui como é que está esse processo. Serviços, tipo de subprocesso. Gastar fornecedor. Está card forning. É, a princípio está tudo certinho, que é esse portal.
+
+244
+03:19:24,370 --> 03:20:04,530
+Por que que não tá aparecendo na minha query? Ah, sabia que nem na minha aqui também tive cadastrar fornecedor também aparece. Talvez seja um problema na minha query, tá? Por isso que não esteja aparecendo. Não, o meu aparece aqui, o cadastrar fornecedor na minha query. Rapaz, essa foi uma boa, hein? Eu também executei aqui pela parte web aqui, né, pra ver se consegui acessar o seu. Ele tá cadastrado, mas também não li, está lá no command execução SQL, o processo. Deixa eu ver aqui.
+
+245
+03:20:04,530 --> 03:20:34,340
+Então, última vez. A configuração, né? Ele deve ter feito pela metade o processo, né? Então, não gera informação. Será que é isso? Ele gera, né? Mas ele deveria estar associado... Mas será que ele não está associado com... O que pode ter acontecido é o seguinte, ó. Se, por exemplo, você criar o processo de... Assim, deixa eu só... Por exemplo, ó. Digamos que você tenha criado o cadastro de fornecedor, criou lá o cadastro, só que ele não está associado com nenhum processo.
+
+246
+03:20:34,340 --> 03:21:04,240
+Isso pode acontecer, porque você pode ir lá e remover ele, tá? Então, provavelmente, ele não está relacionado nenhuma versão daqueles processos. Eu acho que é isso, tá, [participante]? [participante], então vamos fazer o seguinte, ó. Vamos voltar lá na... Vamos ver como que ele vai criar isso pra gente. Vamos voltar lá no editor de processo, beleza? A gente vai ter uma opção lá. Clica em edição ali, né? Em edição. Edição. Lá mesmo onde você estava lá, perdão. Está vendo essa versão em edição aí?
+
+247
+03:21:04,240 --> 03:21:30,140
+Embaixo ali, ó. Certo. Ah, tá. Desculpa. Em edição. Aí você vai adicionar com o botão direito em cima lá, de edição, né? Não aí. Isso. Botão direito aí. Adicionar subprocesso existente. Ah, primeira opção. Beleza? Aí a gente vai tentar selecionar o cadastrar fornecedor. Porque eu acho que você criou, mas por conta daquele problema de salvar lá, acho que ele se perdeu e acabou não criando layout.
+
+248
+03:21:30,140 --> 03:21:58,580
+Aí, beleza. Tem quantos aí? Aparece quantos cadastrar fornecedor para você? Agora aparece dois. Dois, dois. É isso aí. O primeiro e o segundo que ele criou. E os dois tem... O que vai mudar é a sigla, provavelmente, tá? Pode selecionar esse primeiro aí, então. Vamos selecionar o primeiro. Confirma. É, realmente ele estava em branco, né? É, vamos mencionar, então, o seu elemento inicial ali, né? Rapidão essa parte.
+
+249
+03:21:58,580 --> 03:22:33,010
+É aquele elemento verdinho de, o de baixo ali, o que tem uma mensagenzinha. Ah, não. Tá, evento inicial por mensagem. Duas tarefas agora, né? Isso. A primeira... Pode ser uma tarefa só, tá? Precisa ser duas não, é só uma tarefa treinar na associação, não tem problema não. A primeira não... Pode ser cadastrar fornecedor. Pode ser cadastrar fornecedor. A outra era só cadastro de certidões, mas não é só uma tarefa a mais.
+
+250
+03:22:34,930 --> 03:23:05,140
+Beleza, aí coloca um finalizador, aquele elemento lá, o vermelhinho ali, isso, lá em cima lá, o evento final. Perdão, falei errado. Agora vamos conectar. A gente vai ter um problema ali agora, que assim, dois processos com o mesmo descritivo, dá uma, ele vai dar uma, vai mudar um pouco pra gente, vai tentar mudar o descritivo desse processo aí, tá? Pra não ter muito problema lá. Então, ó, clica ali no Process Explorer ali do processo.
+
+251
+03:23:05,870 --> 03:23:37,420
+Se bem que ele está aparecendo ali, cadastrar fornecedor, né? Está vendo lá em cima, lá, descrição? Lá no propriedades agora, volta lá no propriedades. Isso, está vendo lá, cadastrar fornecedor? Vamos colocar um cadastrar fornecedor aí, vamos mudar um pouco esse nome para ajudar a gente, né? Cadastrar fornecedor 01, pronto. Espaço 01. Beleza, vamos salvar e atualizar. Senão a gente ia se perder lá na associação lá, porque quando tem dois processos iguais, a gente não sabe qual conectar, né?
+
+252
+03:23:37,710 --> 03:24:10,060
+Beleza, pode fechar essa, vamos voltar lá para adquirir, agora sim, clica na malinha amarela ali, na caixinha amarela, beleza, associação ali, fica aí do lado. Cadastro fornecedor. A gente não vai clicar uma nova não, vamos ver se já tem uma criada aí, tá? Já tem, né? Sim, puxou o cadastro fornecedor. Isso, só um detalhe, seleciona essa mensagem aí, vamos ver para que processo ela está apontando agora, tá? Copia essa mensagem aí. Ok.
+
+253
+03:24:10,060 --> 03:24:38,540
+Beleza, pode copiar. Agora vamos lá em processo. Processo, associações, né? Beleza. Vamos só, vamos ver se ela está apontando para aquele cadastro fornecedor 01, tá? É o que a gente precisa fazer. Porque como são dois nomes iguais, a gente pode ser que aponte para uma versão errada ali. Aí não funciona. Muda aí, vamos ver se a gente acha aquele 01. Está vendo ali, cadastrar fornecedor? Lá em cima, no combo box? Embaixo. No, embaixo.
+
+254
+03:24:38,540 --> 03:25:14,880
+Vamos ver aquele 01. Apareceu. É esse aí que a gente tem que selecionar. Pode salvar. Salvo. Beleza, agora vamos voltar lá no processo lá, por favor. O [participante] foi um bom case aí pra gente terminar várias situações aí, e pode acontecer isso mesmo, tá senhora? Clica ali no maisinho ali agora, [participante], só pra gente tentar acessar o processo filho agora. Se ele não acessar não tem problema não, a gente vai fazer, vai forçar ele fazer isso. Então, vamos lá no cadastro de fornecedor 01. Clica lá na... Cadastro de fornecedor.
+
+255
+03:25:14,880 --> 03:25:48,740
+Tá ali, acho que aberto. Isso. Agora seleciona o link inicial ali, ó. Aquele verdinho. Beleza. Aí tá vendo ali, ó, associações também, lá do lado direito? Lá na interface entre o processo? Adiciona, mais um caso. Isso. Vamos adicionar. E aqui. E aí você vai selecionar, isso, ó, esse cara aí. É aquele suprimento, né? Que é o inverso que ele chama, ele chama de inverso, né? Isso, exatamente.
+
+256
+03:25:48,740 --> 03:26:20,590
+Dá um salvar aí, né? Vamos voltar lá agora no adquirir suprimentos. Beleza, vamos validar esse cara aí para ver como que ele está. Talvez falte algum detalhe aí de aprovação, né? E a gente já tenta ajustar também. Adquirir suprimentos. Alternativa 2, a decisão aprovada não possui preenchimento. Agora mudou, né? Já é outra coisa, né? Pode fechar.
+
+257
+03:26:21,970 --> 03:27:07,700
+Agora talvez sejam as saídas ali que estejam desconfiguradas, tá? Seleciona ali, isso, essa primeira aí. Ó, beleza, vamos só colocar ali, então, a aprovação, né? Seleciona ali. Então, essa parte vai ser aprovado, por exemplo. Beleza, vamos ver a de baixo ali, acho que a de baixo já está. Agora dá um salvar, agora validar. Deu certo, né? Agora vamos ativar ela e gerar uma versão para ver como que ela vai...
+
+258
+03:27:07,700 --> 03:27:38,370
+Se ela vai chamar tudo certinho aí. Aí vamos lá, beleza. Ativar. Esse aí fica um bom case aí, [participante]. Isso daí como tá gravado, ainda bem que tá gravado, porque se acontecer alguma coisa do tipo aí... Sabe essa questão de associação que eu vi ali? Tinha dois processos com o mesmo nome? Isso aí pra dar um problema aí é muito fácil, porque assim, quando você vai criar associação lá e tem dois processos com o mesmo nome, por que que ele aceita? Ele aceita o descritivo com o mesmo nome, né? O que vai mudar ali é que ele não aceita a sigla, né?
+
+259
+03:27:38,370 --> 03:28:03,220
+Se a gente pensar que ele fornecer o cadastro fornecedor lá e o cadastro fornecedor 01, eles têm siglas diferentes. Por isso que eu até pedi para renomear a tal descrição, senão a gente não saberia aí qual que você estaria chamando. Falaram, mas por que deu problema em relação ao cadastro fornecedor? Lembra aquele problema lá que ele não salvou, que a gente precisou sair e deslogar? Muito provavelmente ele não chegou a criar uma versão aí no macro processo. Por isso que aquela query que eu mandei para você não listou.
+
+260
+03:28:03,220 --> 03:28:36,460
+O cadastro de fornecedor, tá? Porque ele não estava relacionado com nenhum processo aí. Ele só ficou cadastrado, só tem... Ele não cria chave primária, seria isso? Não, na verdade, ele não criou, na verdade, o processo, né? Só criou o nome do processo lá. Ele não criou esse layout aqui, que a gente está vendo. E aí, por isso que a query não trouxe lá, tá? Beleza, vamos salvar. Agora vamos tentar criar uma instância lá para ver se ele está tudo certinho, né? Tá, Workspace, né? Uhum. Tem que atualizar aqui, né?
+
+261
+03:28:41,010 --> 03:29:33,070
+Beleza, já tá ali. Tinha que aparecer aqui, né, cada... Pode ser qualquer serviço aí, não tem problema não. Depois a gente já está lá a questão de cadastrar serviço. O pessoal vai testar agora a integração entre os processos ali, tá? Beleza.
+
+262
+03:30:00,880 --> 03:30:55,970
+Tem que ir aprovar ali, né? Pela guia aprovação lá. Aí tem um botãozinho ali, ó, aprovar, barra, reprovar. Tá vendo o botãozinho ali? Do lado do botão cancelar, um pouquinho mais pra direita e esquerda ali, ó. Aqui em cima mesmo. Não. Cancelar, aprovar. Isso, esse cara aí. Salva aqui. Dados principais agora ali, ó, ele já aprovou, né? Clica lá em dados principais, beleza. E avança. Isso, avança, por favor.
+
+263
+03:30:55,970 --> 03:31:30,930
+Se bem que ele deveria ter avançado automaticamente, pode ser alguma coisa na seta ali. Tá assim, correu um meu script, avaliação alternativa, acessa emissão do Gator, aprovado. Vamos botar lá no processo, eu acho que ele não corrigiu, não conseguiu encontrar o fluxo de saída. Ou os dois estão com o mesmo, tipo assim, os dois estão com a aprovação, ou os dois estão com a reprovação. Pode fechar aí, vamos acessar lá o editor de processo agora, por favor. Pode estar aqui o erro.
+
+264
+03:31:31,500 --> 03:32:20,460
+Clica nesse fluxo aí, e aí, profeta, tá aprovado, agora vamos ver o de baixo, reprovado. Essa é a versão 4, né? Versão 4. Vamos ver qual que é a versão que tá lá naquela demanda que você abriu lá. Dá um control backspace no teclado, ele vai abrir a última demanda lá pra gente. Control backspace, é isso? Isso. Beleza. A versão aí é a versão 4, adquirir suprimentos. É, tá certinho ali.
+
+265
+03:32:23,890 --> 03:33:05,620
+Volta lá no processo, por favor, [participante]. Seleciona a atividade de aprovação ali, só para ver se o código está certinho. Não realizar a aprovação na atividade. Ok. Isso. Botão direito de propriedades nela. Beleza. Agora clica no gator ali, só para a gente ver como está a configuração dele. Está certinho. É, os dois fluxos saídos ali, um está reprovado, um está aprovado, né? Clica em validar aí. Vamos ver se...
+
+266
+03:33:05,620 --> 03:33:45,550
+O de baixo ali estava faltando escrito reprovado, está vendo? Ali embaixo o dia que está escrito não está. Realmente, não está. Clica na linha de baixo. A linha que segue para o cancelamento, clica nela. Texto aqui? Não. É que dá diferença esse texto, né? Mas é só questão do texto ali, né? Vamos refazer essa seta aí, por favor, [participante]. Você pode apagar ela e refazer novamente. Pode fechar aí. Deleta ela. Ele conseguiu aprovar?
+
+267
+03:33:45,710 --> 03:34:14,990
+Então, tá dando aquele problema que aconteceu no seu lá, querendo encontrar o fluxo de saída e tal. Mas ele conseguiu aprovar e depois disso não avançou. Exato. Agora clica no fluxo ali e agora vamos reconfigurar ele. Isso. Aí vai ser o reprovado. Pode dar um salto. Agora ficou diferente aqui. É, mas acho que não tem a ver não, porque o problema tá pra aprovar.
+
+268
+03:34:15,950 --> 03:35:04,210
+Agora selecione o primeiro e vamos fazer a mesma coisa lá, [participante]. Deleta o primeiro lá também e vamos refazer. Vamos salvar. Aí clica na setinha ali, isso. Aí vai ser o aprovado. Beleza, vamos salvar e atualizar. Vamos acessar de novo lá a demanda. Agora eu vou para o... Vou abrir novamente o Workspace, é isso? É, Ctrl Backspace para acessar a última, né? Consigo avançar aqui.
+
+269
+03:35:04,210 --> 03:35:50,350
+É, vamos ver se ele já consegue ler lá o Gator lá, senão a gente reclassifica esse processo aí e tenta fazer. Opa, agora deu certo. Já chamou ali, ó, o processinho ali, ó, cadastrar fornecedor, tá vendo, ó? No seu lado esquerdo ali tem o nome do processo ali, ó, cadastrar fornecedor 01. Já deu certinho, já, ó, OS 104. Pode fechar essa tela aí, ó, lá no botão fechar. Tá vendo, ó? Você tá na 1.03 lá, que ele volta lá, por favor. Contra o [participante]. Não, não trabalha aqui, só um minuto.
+
+270
+03:35:50,510 --> 03:36:27,460
+Sem problemas. Beleza, [participante]. Olha lá, então ele gerou ali a 104, né? A gente não colocou lá na associação aquele pontinho lá, por isso que ele gerou uma nova numeração. Mas ali, enquanto você não finalizar aquela 104, ele não avança ali para o final. Está vendo que ele está na caixinha amarela ali, no cadastrar fornecedor 01? Olha a atividade ali, subprocesso. Aí quando você finalizar a 104, ele finaliza essa demanda também. Então, está vendo aquele link ali? Clica naquele 104 que está ali em cima. Link é aqui?
+
+271
+03:36:27,460 --> 03:37:01,340
+É, nesse botãozinho de baixo aí, ó, isso, nesse cara aí. Aí avança essa atividade aí, né, você tá lá, ó, na 104, né, o número dessa demanda aí. Finalizou, né? Finalizou, pode fechar ela, clicar ali no botãozinho fechar, ó, fechar tudo. Dá um atualizar nessa tela aí, tá vendo lá no botão salvar, lá perto do botão salvar? Opa, já avançou, ó. Então, ó, finalizou, certinho, agora assim, ó, 100%. Agora todo mundo aí com processo aí, subprocesso.
+
+272
+03:37:01,340 --> 03:37:30,610
+Aí amanhã a gente vai começar, vamos falar um pouquinho de alguns iniciadores por timer e tal, algumas coisas, algumas regras legais aí. Aí vamos ver se a gente consegue falar também algo relacionado à SLA, alguma coisa do tipo. Mas por hoje a gente fez bastante coisa legal, tá? Tem uns 15 minutinhos aí. Vocês têm alguma dúvida, algo que eu possa ajudar em relação a alguma configuração, algo do tipo? Se vocês quiserem também já começo hoje também algum conteúdo novo, mas enfim, fica a critério de vocês aí.
+
+273
+03:37:30,610 --> 03:38:06,110
+A gente começar ou não? O que vocês acham? Hoje não. Hoje não. Começar na... Acho que alguém podia tirar mais alguma dúvida, alguma questão aí. Se alguém tiver alguma dúvida, ou quiser já adiantar alguma coisa, já menta. Eu acho que é melhor o conteúdo novo amanhã. E hoje... É, porque pra fixar um conteúdo novo agora, faltam 13 minutos.
+
+274
+03:38:06,110 --> 03:38:20,800
+Uns 13 minutinhos, né? Bom, melhor ver alguma revisãozinha, alguma coisa que ficou mais agarrada. Essa parte do subprocesso aí, ela vai, com o tempo vai ficar automático, tá? De fazer os cadastros, sei que é muito passo a passo, né?
+
+275
+03:38:20,800 --> 03:38:52,060
+A questão da aprovação ali, vi que vocês já conseguiram se virar bastante aí, o pessoal já pegou ali, ó. É, tudo receitinho de bolo, né? Você faz umas duas, três vezes e acabou, é tudo igual, tá? O que eu vou colocar agora como um desafio pra vocês aí, pra vocês exercerem mais, por exemplo, ó. Seleciona aquela atividade verdinha ali, por favor, [participante]. Agora clica em propriedades. Tá vendo ali que tem ali algumas situações, ó. Até eu coloquei ontem lá pra, a última opção ali, ó. Pré-aprovação, a última opção lá embaixo. Pré-aprovação.
+
+276
+03:38:52,060 --> 03:39:17,420
+Tem algumas opções aí, ó. O que que tá escrito aí? Eu não tô conseguindo enxergar daqui, [participante]. A primeira opção é? Reutilizar aprovações anteriores. Isso. Isso daí é o seguinte, ó. Imagine que você tem duas aprovações no seu processo, tá? Aí, digamos lá, sei lá, aprovação do gestor, aprovação do gerente. E aí, essa mesma aprovação, ela tá prevista lá em pontos distintos do seu processo. Ela tá prevista aí, nesse nosso caso, bem na segunda atividade, tá?
+
+277
+03:39:17,420 --> 03:39:45,870
+E aí depois lá bem perto do finalzinho teria uma outra aprovação. Se esse cara já interagiu numa aprovação e já realizou ela, eu consigo, se eu colocar verdadeiro aí, o que ele vai fazer? Ele vai ver que esse cara já interagiu com a aprovação no processo e lá na frente ele vai falar, opa, esse cara já aprovou alguma coisa, então vou reaproveitar que ele já aprovou em algum momento e vou aprovar aqui também automaticamente. E aí ele não teria que fazer isso duas vezes, tá? É muito comum isso acontecer aí, principalmente quando o processo é um pouco extenso.
+
+278
+03:39:45,870 --> 03:40:16,270
+Nesse nosso caso não, né? É bem reduzido, mas daria para reproduzir esse cenário. E o segundo ali, utilizar a identidade do solucionador é o seguinte, imagina que você é o cliente da Oriente Serviço, tá? Você colocou lá seu usuário e você é o aprovador. Se você é o cliente e ao mesmo tempo aprovador, então a gente ganha um atalho ali, que é o quê? Aproveita a identidade de quem está abrindo a demanda e já aprova automaticamente. Quer ver, [participante]? Coloca sim aí nessa segunda opção aí, por favor. Pode dar um salvar.
+
+279
+03:40:17,360 --> 03:41:11,060
+Agora iniciar uma nova instância aí. Como ela tá bem no início ali, vai ser rápido ali pra gente. Adquirir suprimentos, né? Aí você vai preencher com o seu usuário. Se você apertar esquerda ou direita ali, ele já preenche também com o usuário, mas tranquilo. Beleza. Aí selecionar um serviço aí. Pode ser qualquer. Beleza. Vou colocar qualquer coisa aqui. Aí dá um salvar ali. Você vai ver que vai ter atividade de aprovação, mas olha só o que vai acontecer agora. Quando você avançar no processo. Quer colocar alguma coisa aqui também?
+
+280
+03:41:11,180 --> 03:41:51,580
+Sim, quando ele tá dessa cor é obrigatório, tá, em vermelho ali. Aí, realizar compra, agora, olha só o que vai acontecer. Tá na 105 ali, né, OS, olha lá. Ele aprovou automaticamente, tá vendo? Então ele aproveitou que você é o cliente da OS e é o aprovador, então ele já passou direto, tá? Agora, beleza, volta lá, fecha o processo. Tem várias coisas que vocês podem explorar isso aí, tá? Porque durante o treinamento não dá, mas como a gente tem esse tempinho aí, dá pra apresentar esses a mais aí das aprovações, enfim, algum comportamento ou outro.
+
+281
+03:41:51,580 --> 03:42:28,400
+Pode fechar ali no botão fechar a janela, né? Lá em cima. Por favor. Aonde que fica mesmo esse item que você mexeu? Que eu não peguei. Fecha aí pra gente, por favor, [participante]. Aqui, né? A aprovação de cliente, né? Exatamente. No papel verde. É, no verde. Utilizar a identidade do solicitante. Coloquei como verdadeiro aqui. E aí, vocês acham que é possível colocar mais de um aprovador, por exemplo, nesse papelzinho verde? Ou não?
+
+282
+03:42:29,900 --> 03:43:00,940
+Acho que sim, né? Para fazer isso, vamos lá em coleção, [participante]. O [participante] aí está nosso professor agora, hein? Vamos lá, [participante], aprovador. Aproveitar o processo bala do [participante]. Está vendo que atentamente só tem cliente? Tem um aprovador aí. Vamos colocar um outro papel aí? Vamos fazer o seguinte, antes de colocar um outro papel, pode fechar isso daí, por favor? Acesse ali a aba de papéis. Vamos ver o que você tem de papéis aí para a gente simular algumas situações.
+
+283
+03:43:00,940 --> 03:43:32,750
+Ah, vamos ver o gestor, acho que é o [participante] [participante], né, tem um papel, vamos ver se o [participante] [participante] tá no gestor. Procura aí, por favor, gestor. Vamos ver quem que tá nesse papel aí. Vamos lá, lá do lado direito ali tem a parte de coleção, né, lá embaixo. Ali, ó, coleção, em cima ali, coleção, ali, ó. Aqui mesmo? Isso. Clica nessa setinha, quem tá, o [participante] [participante], beleza, pode dar um ok aí. A gente vai colocar esse gestor também lá na aprovação lá, pode dar um ok.
+
+284
+03:43:32,820 --> 03:44:12,820
+Já está tudo certinho. Agora vamos voltar lá no seu processo lá, por favor. A gente vai colocar dois aprovadores lá, tá? Agora seleciona a folhinha verde, agora aprovador aí de novo. Agora a gente vai adicionar o papel gestor. Adicionou três ali, né? Remove um, por favor. Beleza? Agora você vai escolher o papel gestor. Ok. Beleza, pode dar um ok. Da forma como está, ele vai gerar uma aprovação.
+
+285
+03:44:12,820 --> 03:44:51,540
+Para os dois ao mesmo tempo, tá? Então, por exemplo, dá um salvar aí, por favor. Agora vamos lá no Workspace e vamos iniciar uma nova demanda. Aí você fala, vamos ver o que vai acontecer, né? Tem uma opção ali que o cara já aprova de um, né? Quando é o cliente, e o do outro fica aguardando. Pode preencher com o seu usuário normal, tal. Aqui que você pode ter um segredo aqui, né? Tô conseguindo lá. É na outra tela lá, você aperta o esquerdo e direito do mouse, aí ele preenche o...
+
+286
+03:44:52,300 --> 03:45:00,000
+O usuário ali. Bom, então a gente pode fazer esse script. Eu vou te passar um script ali também, pra facilitar a vida de vocês.
+
+287
+03:45:00,000 --> 03:45:46,940
+Beleza, agora vai cair na aprovação. Olha só, o seu já foi aprovado, porque ele aproveitou a identidade, tem lá uma opção agora com o [participante] [participante], tá? E um outro comportamento, que é o seguinte, nesse caso aí, vocês receberam a aprovação ao mesmo tempo, então, tanto você quanto o [participante] [participante] aprovando, obviamente, ele vai aguardar a aprovação do [participante] [participante], tá? Tem uma outra forma de fazer o seguinte, que é por hierarquia.
+
+288
+03:45:46,940 --> 03:46:22,260
+Primeiro você aprova, depois aparece lá para o [participante] [participante] aprovar, tá? Na Ordem de Serviço, ele vai aparecer os dois aí. Só que para o [participante] [participante] só vai aparecer essa demanda para ele aprovar lá no portal, no Workspace, depois que você aprovar. Para fazer isso daí, pode fechar. Beleza? Acessa lá o processo. Agora a folhinha verde ali, lá em coleção, lá nos aprovadores. Lá em cima, a primeira opção. Pode fechar isso daí.
+
+289
+03:46:24,880 --> 03:46:56,130
+Aí tá vendo esse único aí, ó, hierarquia único? Seleciona o cliente ali, por favor. Aí muda aí pra hierarquia, vai ter uma opção de hierarquia ali, aí vai ter lá, ó lá, ó, por hierarquia, esse aí você vai colocar aqui o inicial, a opção dele, ele vai ser o primeiro aprovador. E aí o segundo ali, o gestor, clica no gestor agora, esse cara aí vai ser o finalizador. Pode dar um OK. Isso daí só vai ter efeito, por exemplo,
+
+290
+03:46:56,130 --> 03:47:26,110
+Naquela tela que a gente estava olhando, vão aparecer os dois ali para aprovar. Só que para o [participante] [participante] só vai aparecer depois que você aprova, ou seja, tem uma hierarquia aí, tá? É claro que esse comportamento a gente pode simular amanhã com mais tempo, tá? Mas aí, como está sendo gravado, vocês podem aproveitar para utilizar esses recursos aí, tá? Tem uma série de outras coisas ali que a gente pode utilizar na aprovação também, tá? De repente fala, ó, número de aprovação, quando você, assim, são dois aprovadores, mas você fala, pô, mas eu queria que qualquer um desses caras aqui aprovar,
+
+291
+03:47:26,110 --> 03:47:53,040
+Avançasse no processo. Aí tem uma parte ali que é número de aprovadores, tá? A gente pode começar a brincar com isso daí também pra verificar algumas coisas, tá? Sobrando um tempinho a gente ver esses detalhes aí, tá bom? Tudo isso que eu tô falando aqui tem na documentação, né? A gente precisa pelo menos apontar pra você aqui a parte básica e a parte do básico que vocês vão evoluindo, tá certo? Então, senhores, por hoje é isso, tá? Amanhã a gente continua então ao mesmo horário, a partir das 13 horas. Muito obrigado aí pela participação de todos.
+
+292
+03:47:53,040 --> 03:48:11,660
+Gostando aí de ver o desempenho de vocês. Estão indo muito bem aí no treinamento. Acredito que não terão muitos problemas aí não para mexer com supravizio, tá bom? Então, até amanhã e muito obrigado. Valeu, até amanhã. Bom descanso. Obrigado. Até amanhã, gente. Bom descanso. Tchau. Tchau.

@@ -1,0 +1,1235 @@
+1
+00:00:12,560 --> 00:01:35,740
+[participante], você pode compartilhar essa tela com a gente? Eu acabei pedindo ali, né? Acho que o Aleta falou que é gravado, eu achei que... Beleza. E as demais atividades, né? Tranquilo. O importante ali era ANS, configurado certinho. Se eu voltar, ele dá uma mensagem. É, na verdade, ele pediu pra você encaminhar, porque ele tá recalculando o papel ali novamente. Aí você pode selecionar qualquer um ali, ou mesmo fila pagamento. Ele tá com o responsável ali uma hora, né? Então, não chega a ser um erro, não.
+
+2
+00:01:35,740 --> 00:02:06,900
+Tá tranquilo. Tá certinho, né? Tá beleza, certinho. [participante], você pode compartilhar essa tela com a gente, por favor? [participante], eu não cheguei a fazer, porque eu ia assistir o final da aula de ontem e não conseguia ainda fazer. Beleza, sem problemas, então. Eu vou começar um assunto, vamos falar algumas coisas aqui novas hoje, tá? E aí, se depois você quiser fazer no seu momento, não tem problema não, tá bom, [participante]? Só pra gente, eu vou continuar então aqui com outro conteúdo, tudo bem?
+
+3
+00:02:09,140 --> 00:02:41,970
+Vou compartilhar aqui minha tela. Beleza. Vocês já estão visualizando aí, né? A gente havia falado inicialmente aí do tipo de evento lá. Então, processos, processos, tipo de evento, né? Aí tínhamos lá o evento de abertura, encaminhar que a gente não utilizou, início aprovação, enfim, uma série de recursos aqui, tá? De eventos.
+
+4
+00:02:42,060 --> 00:03:08,670
+Aí o que acontece? Muitas vezes aí as pessoas não querem, ou alguns, o pessoal que modela o processo não quer utilizar esse recurso. Muitas vezes achar ele um pouco escondido ali, né? Precisa acessar a informação lá no tipo de processo ou eventos e aí lá interceptar a informação. Alguns utilizam, preferem utilizar aí de uma forma um pouco mais visual de configurar esses recursos aí, tá? Aí é claro, vai depender muito de vocês. Eu acho que polui um pouco o processo, mas...
+
+5
+00:03:08,670 --> 00:03:47,140
+Também não é tanta coisa assim, né? Como que a gente vai ter o mesmo comportamento utilizando aqui elementos gráficos, né? Eu vou... Estou aqui no meu processo de aquele Suprimens, né? Vou gerar uma versão nova. Beleza, de aquele Suprimens, versão 8, fechar essa 7 aqui. É o seguinte, deixa eu só ver se eu configurei algum tipo de evento aqui para esse processo. Deixa eu ver a abertura, eu acho que eu tinha... Cheguei a configurar. Beleza, eu vou só remover ele aqui.
+
+6
+00:03:47,140 --> 00:04:18,640
+Abertura de principamentos, beleza. Salvar. E aí, por exemplo, eu não quero utilizar aquele tipo de evento, achei lá um pouco muito escondido, e depois para dar manutenção um pouquinho mais complicado, o que eu posso fazer? Eu posso usar esse elemento de mensagem, o evento intermediário de mensagem. Eu clico, coloco aqui no meu processo, e aí imediatamente aqui ao elemento inicial, eu conecto ele aqui no meu processo, tá? Conecto aqui, normal, vou dar um espaço aqui, só fazer um ajuste aqui.
+
+7
+00:04:27,250 --> 00:05:03,380
+Beleza. Agora a base que eu configurei ele, né? Então, aqui na propriedade, já está ali, já está aberto. Preciso selecionar o modelo de comunicado. O modelo de comunicado pode ser aquele que eu já tinha criado inicialmente para o evento, né? Então, eu acho que era a abertura. Abertura? Aqui, ó. Abertura, adquirir suprimentos, tá? Então, selecionei o modelo de comunicado, né? Bem simples a configuração dele também, tá? Então, adicionei o elemento, indiquei lá qual que é o modelo de comunicado.
+
+8
+00:05:03,380 --> 00:05:35,410
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+9
+00:05:35,920 --> 00:06:06,820
+Feito esses três passos aí, já tenho, por exemplo, a configuração, tenho aqui o mesmo efeito do que eu teria utilizando o tipo de evento. O detalhe é que eu tenho mais atividades agora, tá? Esse evento de mensagem aqui é como se ele fosse uma pequena atividade. Percebam aí que, por exemplo, poderia ter o mesmo comportamento para o início da aprovação. Teria aqui, por exemplo, ao invés de utilizar o recurso, né? Colocaria aqui um elemento de mensagem e aplicaria o mesmo comportamento.
+
+10
+00:06:06,820 --> 00:06:53,090
+O detalhe é o seguinte, ó. Então, beleza, eu fiz dessa forma, né, tudo certinho. Agora eu vou validar o processo. Beleza, vou ativar. Ativou a versão 8, vou iniciar uma instância aqui. Adquirir suprimentos. Já tá, eu tô utilizando o script, né, pra encher as informações. Vou salvar. Ele ainda não foi executado, eu tô aqui no iniciador, ó, ainda tá com a bolinha verde. Quando eu clico no iniciar, aqui eu avancei pra atividade realizar. Compra. Beleza, avancei no processo, ó lá.
+
+11
+00:06:53,090 --> 00:07:29,740
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+12
+00:07:29,740 --> 00:07:59,310
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+13
+00:07:59,440 --> 00:08:26,110
+Certo. Na verdade, ele deixa um xizinho em cima desse cara aqui, mas ele avança para a atividade seguinte. Ele só iria parar aqui se, por exemplo, você tivesse manipulado algum script aqui, no script evento dele. Ou seja, o script evento é quando ele é executado. Então, quando esse cara é executado, acontece alguma coisa. E aí, se no script evento você fizer alguma... utilizar alguma coisa incorreta aqui, ele pode dar um will no sistema. Talvez ele não avance mesmo. Aliás, vamos simular isso aqui, então, por exemplo. Vamos ver se ele avança ou não.
+
+14
+00:08:26,110 --> 00:08:53,520
+Porque isso aqui seria um erro, não faz sentido ele conseguir processar algo nesse sentido. Então vamos executar isso daí já para perceber na prática o seu comportamento. Outra dúvida que você falou, esse script evento aí, é um script mesmo SQL que faz consulta no banco ou não? Poderia ser, mas por exemplo, os scripts que a gente manipula aqui são scripts de usar o Python, tá? O que a gente faz geralmente, tá? É o [participante] que está falando? Isso. O que a gente faz geralmente, [participante]? Por exemplo, você pode...
+
+15
+00:08:53,520 --> 00:09:20,270
+Utilizar basicamente a mesma documentação do C Sharp, que é uma da plataforma .NET, para montar seus inscritos aqui. O IronPython não é tipado. Então, por exemplo, você não vai ver lá um tipo, você não vai precisar declarar uma variável do tipo inteira, então int, alguma coisa, igual, sei lá, 10. Isso aqui no IronPython não existe. Você basicamente declara a variável e, por exemplo, adiciona um valor a ela. Exatamente, ele já entende que isso aqui, por exemplo, é inteiro. Ah, eu quero um decimal, a mesma coisa.
+
+16
+00:09:20,270 --> 00:09:50,060
+Então, basicamente são os scripts. Então, tem algumas formas de fazer isso. Só manipular scripts normais de IronPython e acessar banco de dados também. Então, para acessar, por exemplo, para realizar uma consulta SQL, a gente utiliza, por exemplo, um componente chamado db. Você pode usar db minúsculo, né? Aí já sugere ali, você dá um enter, ponto, execute datatable. Esse método aqui é o responsável por executar os comandos SQL.
+
+17
+00:09:50,060 --> 00:10:19,540
+Então, ah, eu quero, sei lá, uma lista de pessoas. Aí você monta sua consulta aqui, né? Nome, sei lá, opa, nome de pessoa. Esse cara aqui já retorna uma lista de pessoas, né? Basicamente é, ah, eu quero testar, eu quero ver se essa query tá certa. Então, o ideal é que você sempre venha aqui, ó, relatórios, execução de comandos SQL. Aqui você consegue executar seus comandos e testar, né? Pra ver se sua query tá certa. Por exemplo, ele vai executar aqui, trazer uma lista de pessoas.
+
+18
+00:10:19,540 --> 00:10:47,020
+Então, nesse script event aqui, como que ele funciona? Ele vai funcionar quando ele atingir esse elemento e passar por ele. Quando passar, quando estiver acessando essa atividade aqui, ele executa. Então, você pode fazer uma série de coisas. Então, por exemplo, eu vou colocar um comentário aqui. Nós temos um objeto chamado OrdemServiço.AdicionaComentário. Eu posso colocar um comentário na OS. Sei lá, deu certo. Aí ele pede uma outra variável aqui, que é... Esse cara aqui é para...
+
+19
+00:10:47,020 --> 00:11:14,060
+Se esse comentário vai ser publicado no portal ou não, tá? Essa segunda variável. Estou dizendo que não vai ser publicado no portal, só na Workspace. Então, salvei aqui, beleza. Nesse caso aqui não vai dar erro, tá? Mas é só para você entender como é que funcionaria o script event. Vou iniciar então aqui um adquiri suprimentos. Já tem um script que preenche ali as informações, vou salvar. Ainda não gerou, os comentários ficam aqui, ó.
+
+20
+00:11:14,060 --> 00:11:39,490
+Deixa eu só expandir essa área aqui, tá vendo que não tem nenhum comentário ainda? Aí quando eu passar por esse elemento, ele vai, se tiver tudo certo, obviamente ele vai publicar, olha lá, deu certo. Então quando ele passou por um elemento, eu fui lá e coloquei um script lá, deu certo, alguma coisa do tipo. Mas eu poderia fazer uma consulta no banco de dados, poderia fazer uma série de coisas ali, pegar, por exemplo, a data atual, ou seja, muitas coisas ali, tá? Então basicamente assim, um outro exemplo, se por acaso...
+
+21
+00:11:39,490 --> 00:12:08,820
+Eu estou fazendo esse fluxo aí para um chamado de relatório. No final ali, tem ali a condicional aprovado e reprovado. Eu poderia colocar depois de aprovado, vamos dizer, uma caixinha dessa aí, onde eu salvei um script, vamos dizer, como esse de exemplo aí de selecionar todos os nomes. Então, se alguém abre um chamado, querendo todos os nomes dos funcionários, depois que aprovou, ele gera automaticamente esse script, ele gera automaticamente o relatório baseado no script.
+
+22
+00:12:08,820 --> 00:12:36,930
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+23
+00:12:36,930 --> 00:13:05,390
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+24
+00:13:07,570 --> 00:13:38,770
+Aí eu dou um nome, sei lá, lista de pessoas, seria o nome do meu relatório, salvar. Aí eu venho aqui na abinha de layout, clico em novo layout. Aí aqui agora é só montar meu layout. O segundo passo seria vir aqui, jogar aquela consulta que eu montei, copio ela, aí eu venho aqui configurar dados e jogo aqui minha consulta, dou um ok. Feito isso, ele vai criar os campinhos aqui, aquelas colunas que eu tenho lá, tá?
+
+25
+00:13:38,770 --> 00:14:07,980
+Aí o que eu faço? Eu tenho aqui um elemento chamado tabela. Eu não vou montar ele diretamente aqui nesse... É claro que não entra no mérito aqui de explicar como é que funciona os relatórios, mas como tem curiosidade, né, até pra vocês utilizarem depois, o que geralmente eu faço? O DT é onde ele vai trazer os dados, basicamente, tá? Então, por exemplo, só pra vocês entenderem, ó, eu vou selecionar aqui algumas colunas, vou arrastar aqui pro meu DT. E aí vou trazer pra cá, beleza, vou salvar e agora eu vou visualizar meu relatório. Deixa só ele carregar ali.
+
+26
+00:14:09,390 --> 00:14:35,200
+Se eu fizer isso daqui, olha só, isso vai trazer os dados propriamente. Então, administrador, tá vendo que eu não tenho aqui, por exemplo, o nome das minhas colunas? Aí o que eu faço? Eu não utilizo esse cara aqui para fazer isso, tá? Porque aí ele seria como se fosse o cabeçalho. Eu adiciono aqui uma outra seção chamada, por exemplo, sei lá, tem aqui cabeçalho do relatório e cabeçalho da página. Aí vocês podem variar aqui para ver qual vai ser o melhor comportamento para vocês, tá? Então, beleza, aqui...
+
+27
+00:14:35,200 --> 00:15:00,000
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+28
+00:15:00,000 --> 00:15:27,700
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+29
+00:15:27,700 --> 00:15:54,380
+O tipo, como vai ser o formato, vai ser PDF, aqui eu vou selecionar o relatório propriamente dito. Então, lista de pessoas. Esse parâmetro aqui, por exemplo, se você quiser passar algum parâmetro, por exemplo, eu quero todo mundo que é da área de gerência de TI. Aí, é claro, sua query precisaria estar trabalhando, precisaria estar preparada para fazer esse filtro também. Aí você montaria aqui na query, obviamente, o awareness, não sei o que lá.
+
+30
+00:15:54,380 --> 00:16:27,340
+Nesse caso aqui, vamos só executar esse simplesinho aqui, só para vocês verem executando, tá? Não vai ter filtro nem nada. Vou salvar. Aí o que acontece? Vou iniciar aqui uma nova demanda, salvar, encher aqui teste. Se tudo der certo, ele vai demorar um pouquinho, porque ele carrega, né? Ele está montando o PDF lá para a gente. Beleza, deu certo. Aí em Comunicados, vamos ver como que ele ficou. Ele gerou lá, né? Apresar a solicitação, vai criar.
+
+31
+00:16:27,340 --> 00:17:23,260
+E aí tem os anexos, olha só o nosso relatório lá. É claro que aqui, deixa eu acessar o web lá, acho que o web ele deixa a gente acessar o relatório. Isso aqui com o [participante] [participante]. Aquela demanda lá era demanda 177. Comunicados, mensagem. Ele tá aqui, o nosso relatório tá aqui, ó. Relatório, não sei o que lá, vou fazer o download dele aqui. Aí a pessoa obviamente receberia esse mesmo relatório lá na...
+
+32
+00:17:23,260 --> 00:17:51,570
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+33
+00:17:51,570 --> 00:18:24,990
+Então, por exemplo, todos. Vamos ver como é que fica. Salve e vai visualizando. Aí ele vai montando um layout um pouquinho melhor. Ah, eu quero centralizar. Aí eu vou lá, clico aqui no centralizar. Essa parte de relatório, a gente tem uma explicação aí na documentação. Deixa eu só ver se eu acho aqui fácil para vocês. Conteúdo. Tem uma parte de relatórios. Deixa eu ver. Não, não é isso. Isso aqui é explicando os avançados. Deixa eu ver aqui se eu acho fácil, tá? Configurações de processos.
+
+34
+00:18:24,990 --> 00:19:25,660
+Tópicos avançados, explica os elementos. A parte de relatório ele explica que são os relatórios nativos que a gente disponibiliza, tá? Essa parte aqui de relatórios, ó. Então ele explica detalhadamente o que é cada relatório que a gente tem nativo. Os relatórios nativos, só que pra vocês saibam aqui, são esses relatórios aqui, ó. Ordem de Serviço por área solicitante, Ordem de Serviço por processo, são os relatórios que já vem aí com a plataforma. Claro que na base de vocês irão ter outros, né?
+
+35
+00:19:25,660 --> 00:19:54,380
+Mas aí, basicamente, os que nós temos nativos são esses caras aqui. Então, toda vez que você, opa, acordo de serviço para o cliente, bateu o olho e ele está aparecendo aqui, significa que é um relatório nativo. Aí ele explica um pouquinho do que é, ele explica o que seriam essas informações, tá? O que eu estou procurando aqui é um outro, deixa eu ver só se, deixa eu ver, utilitários, recursos, processos ativos, eu não vou lembrar de cabeça aqui agora onde eles estão.
+
+36
+00:19:55,540 --> 00:20:29,730
+Ali, acho que você abriu lá em cima, tinha relatórios, onde você estava. É, esses aqui são os nativos, você fala? Não, não, não, acho que eram utilitários, você estava agora há pouco ali, um que você acabou de expandir e voltou. Olha, relatórios no meio. Opa, se bem que acho que esse aqui é, deixa eu ver se ele explica aqui, porque tem um que explica bem legalzinho o que é, aquele montante, acho que ele vai criar aqui, deixa eu ver, parâmetros, explica como usar, não, não explica. Deixa eu ver, não, não seria isso, é um que explica.
+
+37
+00:20:29,730 --> 00:20:58,880
+É bem legal, ele explica o que seriam aquelas abas que eu utilizei agora há pouco. Realmente eu não estava preparado para explicar relatório, por isso até que eu não sei onde que... Aqui tem os dashboards, né? Pelo menos assim, a gente já tem uma ideia. Tem essa possibilidade, procura a documentação e ache aí. Achei aqui, ó. Pronto, editor de relatórios. Ele está aqui dentro do editor dashboard, tá? Porque assim, a gente tem duas formas hoje de montar relatórios. Nós podemos tanto utilizar os relatórios, que são esses caras aqui, né?
+
+38
+00:20:58,880 --> 00:21:28,460
+E também podemos utilizar dashboards. Assim, os relatórios, eles podem ser utilizados junto com os processos, foi o que eu fiz agora há pouco, tá? Então, ó, quero mandar um relatório via processo para um cliente meu, uma lista de produtos, lista de artefatos, enfim, uma série de coisas, eu utilizo o relatório para fazer isso. Claro que ele não tem só essa função, ele tem exatamente aí a função de exibir informações, né, montar aqui filtros, se eu quiser, por exemplo, colocar filtros no relatório é possível também. O dashboard já tem uma função um pouco mais de gestão à vista, né, o cara bateu o olho lá,
+
+39
+00:21:28,460 --> 00:21:55,490
+Identificar o que são aquelas informações. Então, por exemplo, aqui na documentação, na parte de dashboard, ele monta quais são os elementos que nós disponibilizamos. Então, visualmente, é bastante interessante utilizar dashboards aqui. Ele traz uma informação um pouco mais consistente e mais direcionada daquilo que a gente precisa apresentar para o cliente. Aqui a gente tem alguns exemplos que vocês podem utilizar depois nos modelos de vocês. Ele traz o gráfico de pizza.
+
+40
+00:21:55,490 --> 00:22:22,350
+De barra, o gráfico, a grade, pivô, ou seja, tem uma série de situações. E aí a parte de relatório lá, ele cai aqui, o editor de relatório. Aí ele vai explicando um pouquinho o que é cada aba, como criar, aí ele traz algumas colunas. Ou seja, é bem interessante essa parte, eu realmente recomendo que vocês utilizarem. Claro que eu não sei se nessa parte aqui, ele vai mostrar como, aqui são as partes de filtro, ele vai mostrar como vocês utilizam os filtros lá.
+
+41
+00:22:22,350 --> 00:22:48,140
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+42
+00:22:48,140 --> 00:23:17,870
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+43
+00:23:17,870 --> 00:23:47,060
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+44
+00:23:47,060 --> 00:24:15,890
+Consigo utilizar scripts, lá também consigo, mas aqui é um pouco mais fácil de fazer isso, tá? Então, é possível, tá, [participante]? Mandar, a gente acabou de demonstrar aí, bem fácil de fazer esse, aplicar esse recurso. Se vocês estiverem precisando utilizar aí no ambiente de vocês, aí já tá mais ou menos engatilhado, né? É claro que só, de repente, precisando fazer algumas melhorias aí, né? De repente a consulta de dados será outra, enfim. Mas é possível sim, tá? É bem tranquilo aí de fazer essa parte aí.
+
+45
+00:24:15,890 --> 00:24:44,850
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+46
+00:24:44,980 --> 00:25:16,110
+Mandou certinho para o cara, mas tem cliente, cara, tem usuário que é um pouco ansioso algumas vezes. O cara vê os botões aqui e sai clicando. Então ele clicou no voltar. O que vai acontecer? Quando eu avançar, olha só, deu certo. Ou seja, ele executou de novo e mandou a mensagem novamente lá para o cliente. Aí o cara muitas vezes não percebe isso, ele fica, alguém acessa lá para dar suporte, fica, clica no voltar, clica no iniciar.
+
+47
+00:25:16,110 --> 00:25:46,820
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+48
+00:25:46,820 --> 00:26:17,010
+Ah, essas situações aí. Tem uma propriedade aqui chamada quantidade máxima de execuções, tá? Basicamente, a gente consegue contornar esse problema utilizando esse cara aqui. Então, por exemplo, se eu colocar um aqui, vamos ver o que acontece. Vou atualizar. E aí eu vou, por exemplo, criar uma nova, tá? Eu vou ficar indo e voltando ali para ver, para corrigir esse problema, esse cara corrige o nosso problema. Iniciar uma nova aqui. Esses detalhes são bem legais, tá? Para vocês conseguirem...
+
+49
+00:26:17,010 --> 00:26:46,190
+É, utilizar no dia a dia de vocês aí, isso daqui já é um, já representa, já é um diferencial aí pra vocês conseguirem identificar esse tipo de situação, porque muitas vezes o pessoal passa batido por isso, porque não usa, ou não sabe utilizar. Mandou uma vez, né? Agora vamos ver se ele vai funcionar de novo. Eu não sei se esse tipo de evento funciona, mas vamos lá. Olha lá. Opa, beleza, ó. Já não tá mais encaminhando lá a mensagem de forma incorreta, mesmo que ele passe ali várias vezes ali pelo elemento.
+
+50
+00:26:46,190 --> 00:27:18,130
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+51
+00:27:18,130 --> 00:27:44,750
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+52
+00:27:44,750 --> 00:28:15,060
+Então, já é um diferencial saber esse tipo de informação, tá? Bom, aí, por exemplo, deixa, ainda não falei do tipo de, por exemplo, é muito comum nos processos você ter um tipo de, anexar algum arquivo, alguma coisa do tipo, tá? Para fazer isso, eu utilizo essa folhinha azul, tá? Então, eu clico na folhinha azul, item de configuração, clico aqui, por exemplo, no iniciador. E aí, o que eu vou fazer? Aqui eu vou configurar um tipo arquivo. Como que eu faço isso, tá? Venho aqui em ativos.
+
+53
+00:28:15,120 --> 00:28:44,320
+Seleciono aqui, tipo de itens de configuração. Eu não sei se é bom a gente fazer junto, né? Essa questão aqui de configurar, tudo bem que o relatório foi a mais, o relatório não precisa porque também já seria muito além do que a gente está fazendo aqui. Essa questão de configuração do elemento de mensagem, vocês querem fazer no processo de vocês, acho que fazer todo mundo junto é melhor. Porque eu queria mostrar, mas eu acho que como é uma atividade nova, acho que é legal vocês conseguirem também aí...
+
+54
+00:28:44,320 --> 00:29:10,900
+realizar essa configuração. Eu vou esperar todo mundo adquirir suprimentos, tá? Basicamente é gerar uma nova versão, colocar esse elemento aqui e aqueles três passos lá que eu falei, né? Colocar o destinatário, colocar uma descrição e selecionar o modelo de comunicado. Por enquanto é só isso, tá? Eu vou esperar vocês realizarem essa adequação e a gente já continua com o próximo passo. Como é que tira a configuração anterior?
+
+55
+00:29:11,500 --> 00:29:42,260
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+56
+00:29:42,260 --> 00:29:55,950
+Como a gente já configurou esse elemento aqui, né? Mas pode deixar o de início à aprovação, não tem problema não. A ideia aqui é só mesmo vocês entenderem aí quais são os recursos disponíveis.
+
+57
+00:30:00,000 --> 00:30:35,260
+Supravizio é bem legal, cara. Tem muito recurso, é muito... Assim, quando vocês pegaram o jeitão da... É que, assim, o que dá um pouco de medo no pessoal são os scripts. O pessoal olha, nossa, aquele mar de scripts, que dificuldade. Logo mais serão vocês criando scripts e um terceiro com medo do script de vocês. Então, não se preocupe em relação a isso, tá? É com o tempo mesmo que vocês vão pegar esses detalhes aí. Muita coisa você vai falar, poxa, isso é difícil, mas você vê.
+
+58
+00:30:35,260 --> 00:31:01,420
+Configurar um relatório e anexar junto ao processo, a coisa mais simples que a gente tem para fazer ali foi que dois minutinhos a gente montou. É claro, numa consultoria seria muito mais elaborado, o cara nem ia pedir só isso de informação, teria muito mais coisas escondidas. Mas é bem legal, depois você pega o jeito, você deslancha facilmente. Um detalhe ou outro que dá uma segurada, mas no geral dá para fazer bastante coisa.
+
+59
+00:31:01,420 --> 00:31:30,820
+Uma coisa que eu acho um pouquinho deficiente é a modelagem. Por exemplo, quando eu estou modelando aqui, eu vejo que, por exemplo, no Bizage, quando você coloca o elemento, ele vai conectando. A gente tem uma ferramenta chamada Reflow, uma outra ferramenta chamada Reflow, que ela está rivalizando com o Bizage. Eu não sei se vocês já ouviram falar do Reflow. É essa ferramenta aqui. Essa ferramenta é nossa também. Só que assim, é uma ferramenta que os pravisos já têm algum tempo de mercado, é uma ferramenta que está...
+
+60
+00:31:30,820 --> 00:31:58,780
+A princípio aí se destacando na modelagem automação, né? E aí, como vocês já tinham supraviso aí na mente de vocês, obviamente a gente tem que continuar com ele. A não ser, claro, que tenha alguma solicitação de mudar, enfim. Mas essa, por exemplo, é totalmente web, essa ferramenta. E aí ela rivaliza com um bizarro. Deixa eu só acessar aqui, por exemplo, um outro ambiente onde eu tenha mais acesso. Eu nem vou falar disso não, tá, sério? Só mesmo aproveitando os dois minutinhos aí para...
+
+61
+00:31:58,780 --> 00:32:31,100
+Então, é disso que eu falo, desse detalhe aqui, só a única dificuldade, tipo, dificuldade não, a diferença que eu vejo em relação à modelagem. Então, vou usar aqui um processo qualquer, deixa eu ver, beleza, isso aqui mesmo. Ela é totalmente web, então, por exemplo, olha só, assim, eu acho mais fácil aqui por conta disso, acesso aos elementos, seleciono o primeiro elemento, a partir dele eu vou conectando, muito parecido com, eu acho até melhor, obviamente, não vou falar que é melhor que eu fiz, porque seria...
+
+62
+00:32:31,100 --> 00:32:58,450
+Seria legal da minha parte, até porque eu trabalho na empresa e tudo mais. Mas assim, questão de modelagem, eu não vejo que perde nada para o bizarro, até porque é uma ferramenta 100% web para começar, eu não preciso fazer instalação de nada, só preciso criar uma conta lá e começar a minha modelagem. E aí o que eu sinto falta no Supravizio é esse detalhe aqui. Você viu como é mais fácil? Ele já conecta os elementos, eu vou só arrastando aqui e criando. Claro, em questão de automação, o Supravizio aí está...
+
+63
+00:32:58,450 --> 00:33:27,760
+Tem anos de estrada, né? Então, não chega ainda nesse mesmo nível. Mas a questão de modelagem que eu sinto falta um pouquinho aqui é dessas conexões aí, né? Que eu clico no elemento, depois eu clico no outro e vou conectando. Com o tempo vocês vão ficando fera também, né? Isso daqui é só um detalhe de layout, né? Com o tempo é questão de costume, no caso, né? Mas uma coisa que poderia ser melhorada aí que eu vejo aí é essa questão dos elementos, né? Mas, enfim, aí já é uma outra conversa, né?
+
+64
+00:33:28,180 --> 00:33:59,090
+Senhores, vocês configuraram o elemento de mensagem? Alguma dificuldade é o que a gente possa ajudar? Basicamente, dá um nome para o cara, isso aqui não vai precisar, obviamente é só um detalhe aqui da execução, ele vai precisar de um modelo de comunicado e ali um destinatário, só isso. Esse cara aqui deu certo e aqui não precisa não, tá? Esse aqui foi um a mais aí para explicar para o [participante] como é que funciona o script event. Mas como é que está aí? Vocês conseguiram configurar já?
+
+65
+00:33:59,090 --> 00:34:29,490
+O elemento da mensagem é o intermediário ou o inicial? É o intermediário aqui. Quem falou foi o... Foi o [participante]. O [participante], é o intermediário. Eu acabei de falar com o [participante] e já não lembro mais a voz do cara. Foi mal, [participante]. Não, esqueci. Não dá para limpar a voz da galera. Então, ele é evento intermediário, esse cara aqui, ó. Evento intermediário por mensagem, tá? Aí você clica aqui, seleciona, beleza. Aí, ó, todo mundo aí, então, já conseguiu configurar, certo? Ou ainda não? Quer mais um minutinho?
+
+66
+00:34:32,850 --> 00:35:09,540
+Todo mundo? Fazer a chamadinha aqui, [participante], deu certo? Eu tô reiniciando a máquina aqui, porque o meu aplicativo, eu entrei agora há pouco, assim que eu conseguir abrir o aplicativo aqui, eu vou tentar. Beleza, sem problema. [participante], deu certo? Sim. Beleza, [participante]? Tô finalizando aqui. Beleza, o [participante] tá fazendo, né? O [participante] tá acompanhando aqui com a gente, né? Eu tô naquela perspectiva de ontem, hein? Show, sem problema. Agradeço aí.
+
+67
+00:35:09,540 --> 00:35:25,810
+Estou aprendendo muito, cara. Os colegas estão muito avançados e você também, puta estrutura, também está demonstrando bem mesmo, assim, a possibilidade que a gente tem, né? Inclusive, depois eu queria tirar alguma dúvida com você, mas sem atrapalhar os demais.
+
+68
+00:35:25,810 --> 00:35:55,440
+Não, acho que você pode perguntar sim, [participante], até porque de repente sua dúvida aí pode ser uma luz aí para os demais, não vai atrapalhar não, acho que essa é a ideia mesmo, se tiver alguma dúvida igual o [participante] colocou ali, é bacana até para de repente mostrar alguns caminhos ali para o pessoal. Eu vejo que na nossa área a gente tem muita dificuldade com a entrada de dados, então acho que a gente ia querer mais ficar nessa parte de formulário, tentar colocar, por exemplo, alguns itens, uns combo blocks ali para o cara só selecionar alguns itens, e isso aí era uma parte que eu
+
+69
+00:35:55,440 --> 00:36:16,830
+Deveria me aprofundar, sabe? E é claro, mas eu vendo o todo que está rolando aí, a gente vê que abre um mundo aí de coisa para fazer. Um leque de informações, né? É, muita coisa. Mas a nossa necessidade do setor, foi onde eu me candidatei, seria nessa parte de entrada de dados, porque o processo em si já existe hoje, ele roda bem.
+
+70
+00:36:16,830 --> 00:36:45,380
+O que a gente tem dificuldade é tipo o cara ali pede qualquer coisa, ele não coloca todas as informações que a gente precisa, e quando a gente responde ele ainda está incompleto, porque faltou um detalhe, geralmente é preço, é repactuação, e a gente fica meio atrasado. Entendi, a gente pode aproveitar. A gente pode brincar um pouco com o formulário hoje também, então eu vou terminando essa parte aqui do anexo aqui, que é um passo também legal de utilizar.
+
+71
+00:36:45,380 --> 00:37:13,980
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+72
+00:37:13,980 --> 00:37:40,210
+Dois minutinhos a gente já mostrou que é possível. Então é legal, isso daí é bem pertinente. É até pra gente, de repente, aumentar mais ainda o leque de informações aqui pro pessoal, tá? Pode perguntar, é muito importante aí a pergunta de todos, na verdade. Tá certo? Obrigado pela pergunta e aí depois eu vou já tentar fazer alguma coisa nesse sentido. Beleza. Senhores, então os senhores configuraram essa parte, é bem tranquilo? Não, eu coloquei lá um evento de mensagem, dei o nome pra ela, cliquei aqui, ó, descrição, deu o nome.
+
+73
+00:37:40,210 --> 00:38:07,150
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+74
+00:38:07,700 --> 00:38:37,410
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+75
+00:38:37,410 --> 00:39:09,620
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+76
+00:39:09,620 --> 00:39:38,100
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+77
+00:39:38,100 --> 00:40:02,220
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+78
+00:40:02,860 --> 00:40:30,960
+Vou chamar ele aqui, ele vai ter algumas abas aqui que ele apresenta quando você clica em novo. Dados principais, eu vou colocar aqui, sei lá, folha de pagamento. Aqui eu vou dar uma sigla para ele, tem que ser única, né? Folha, pague, sei lá, alguma coisa do tipo. Aí eu vou clicar aqui na aba de situações, ó. Aqui essa aba de situações aqui, a gente utiliza ela em outros contextos, tá? Mas ele é obrigatório aqui. Vocês podem colocar qualquer frase aqui. Eu vou colocar aqui, sei lá, anexado.
+
+79
+00:40:31,280 --> 00:40:57,470
+Essa frase aqui é só para ele utilizar, mas é como se fosse um status dele, tá? Pode colocar anexado, pode colocar em produção, pode colocar KKKK, isso para a gente aqui nesse contexto independe, tá? Mas aí eu vou colocar, por exemplo, anexado, que eu estou falando que é um anexo, né? Só para deixar um pouquinho mais fácil para eu lembrar depois. Então, anexado. E aqui, ó, depois, então, dados principais, beleza? Aí aqui eu vou mudar para artefato, tudo bem?
+
+80
+00:40:57,470 --> 00:41:27,540
+Você fala, pô, mas você foi em situação, depois voltou para dados principais, é porque eu esqueci, tá, senhores? Mas, na verdade, aqui, dados principais, eu dou o nome, chamo aqui, dou uma sigla para ele, e aqui o supertipo eu mudo para artefato, beleza? Depois eu posso vir aqui, cadastrar uma situação, digo que ele é visível no portal, tá bom? Aí já deixa marcado, aí quando você clica em novo, ele já vem marcado com essas opções, tá? O próximo passo aqui é vir em artefatos e mudar aqui para arquivo. Aqui vocês podem colocar transferência e compartilhamento, independe, vou deixar compartilhamento.
+
+81
+00:41:27,540 --> 00:41:56,270
+E aqui o tamanho do arquivo, vou colocar, sei lá, 10 megas. Um pouquinho de cuidado com essa parte, tá? Porque se deixar o cara também subir muito, muitos arquivos pesados aí, o servidor de vocês vai embora muito facilmente, tá? O cara lá de infra vai ficar um pouco chateado com vocês aí. Mas assim, se precisar, se o cara precisar fazer o upload, não tem o que fazer, né? Tem que deixar lá 10 megas e, bom, paciência. Tá bom. Então eu criei aqui o cara, né, ó. Dados principais, deu o nome, a sigla, artefato.
+
+82
+00:41:56,270 --> 00:42:23,860
+Não preciso mudar mais nada. Situação, coloquei lá anexado. Tipos de componente, não preciso. Tipos de dependência, também não preciso de nada. Artefatos, arquivo, compartilhamento. Conhecimento, não preciso de nada e nem financeiro. Só para explicar para vocês um pouquinho o que seriam todas essas abas aqui, tá, senhores? Inicialmente, quando o processo foi feito, supravizio, principalmente, até falei lá no início, tem muita coisa legada, tá? Muita coisa que era específico para uma área de uma empresa ou para um departamento.
+
+83
+00:42:23,860 --> 00:42:52,540
+E aí a gente acabou deixando essas informações aí porque muitas empresas acabam utilizando e outras não, tá? Por isso que tem muita aba aí que você fala, pô, financeiro, por que tem essa questão de financeiro? Isso daí é muito específico, tá? Então, mas como eu falei, foram coisas que foram implementadas por uma empresa especificamente no início que foram deixadas aqui pra gente utilizar ou não. Nesse contexto nosso aqui, o que a gente precisa utilizar aqui é somente o artefato, situação e informações das principais. Cliquei em salvar.
+
+84
+00:42:52,540 --> 00:43:22,800
+Agora eu faço o seguinte, ó. Deixar todo mundo aqui. Volto lá no meu processo na folhinha azul. Tem algumas formas de fazer isso. A mais fácil é aqui, ó. Botão direito, configurar, associação de arquivo. Aí eu venho aqui e seleciono lá o meu folha de pagamento. Vamos ver se ele já aparece aqui. Opa, tá ali, ó. Folha de pagamento. Acabou. Só isso. Tá? Beleza? Já apareceu ele pra mim. Vou salvar aqui. Vou iniciar uma... salvar, atualizar. Vou iniciar aqui uma demandinha nova. Vamos ver como é que ele fica.
+
+85
+00:43:26,700 --> 00:43:58,450
+Vou aqui voltar para a área de trabalho, clicar em nova, administrativa, adquirir suprimentos. Olha lá, já está aparecendo ali para mim, eu vou só clicar no botão salvar aqui para começar. Agora sim, clico aqui, anexar folha de pagamento. Clico nesse cara aqui e já consigo fazer um upload de arquivo. Clico aqui no browser, selecionar um arquivo qualquer, atividade 01. Clico aqui em salvar, olha lá, já tem anexo. Se eu precisar de mais anexo, vou adicionando. Ele vai criando ali.
+
+86
+00:43:58,450 --> 00:44:22,770
+Uma opção para eu adicionar vários anexos ali, independente. E aí, beleza, coloca aqui uma descrição. Quem fala é o? [participante]. Ô, [participante]. Eu preciso mesmo criar, já não tenho um padrão lá para eu colocar como arquivo. Tenho que fazer esse espaço todo que você fez. Você fala para criar o item de configuração? Eles não já tem um padrãozinho, alguma coisa que já possa ser utilizada direto?
+
+87
+00:44:22,770 --> 00:44:54,960
+Na verdade, por exemplo, o que muda basicamente é o descritivo, tá? Mas se você, por exemplo, já tiver alguma coisa criada aí com o chamado arquivo, você poderia reutilizar, por exemplo, um cara chamado arquivo. Só que nesse cenário aqui ele é um pouco genérico, né? Então, por exemplo, eu nem sei se eu tenho arquivo aqui, ó, arquivo, deixa eu ver, tem que ser artefato, não tem. O que muda lá vai ser o nome do anexo. Exatamente, exatamente. Então, por exemplo, o nome do anexo e também a extensão dele, né? Então, por exemplo, esse cara aqui tem 2 megas.
+
+88
+00:44:54,960 --> 00:44:59,980
+Se você criar um tipo genérico, não tem problema. Você pode criar um tipo genérico chamado arquivo.
+
+89
+00:45:00,340 --> 00:45:23,440
+E vir aqui no formulário e mudar o nome dele. Só que, em algum momento, vai ter alguma pessoa que vai falar, pô, 2 megas não me atende. Vai lá, muda para 10 megas. Aí, daqui a pouco, o cara de infra chega, pô, meu, 10 megas? Que apostilha é essa que vocês estão anexando no meu processo? Não é para fazer isso aqui, via processo. Isso aí é muita coisa. Vai lá e muda para 2 megas. Aí fica nessa briga constante. Então, você pode reutilizar da mesma forma.
+
+90
+00:45:23,440 --> 00:45:48,350
+Você pode fazer com campos, pode fazer com papéis, não tem problema. A única preocupação é saber se não vai ter nenhuma atenção em relação ao tamanho, ao nome, enfim, alguma coisa do tipo. Mas, assim, como esse cara aqui não tem muito, não pesa muito, ou seja, só um registro, a recomendação é que você crie um sempre que for precisar utilizar. Mas, é claro, se você conseguir reutilizar, não tem problema, não. Só a preocupação mesmo aí de...
+
+91
+00:45:48,350 --> 00:46:17,040
+Ninguém ficar mexendo depois, né? Porque, por exemplo, eu criei folha de pagamento aqui, tá? No meu processo de cristo de suprimentos. Nada impede daqui a pouco eu chegar lá e falar, isso aqui não é mais um arquivo não, vai ser um registro. Aí já quebra seu processo lá na ponta. Mas, novamente, né? Tudo é uma questão de comunicação, enfim. Acho que o cara que não vai chegar lá e vai ficar mudando isso daí à torta direita, né? A ideia é que ele não faça isso. Mas ele pode também, por exemplo, mudar o nome, né? De repente ele conversou lá com o diretor, com o gestor, e fala, meu, não é folha de pagamento não.
+
+92
+00:46:17,040 --> 00:46:45,200
+Eu quero que você coloque aí outro nome. Aí pronto, já dá uma desestruturada de novo. Então é só uma questão de comunicação, obviamente, mas enfim, se você quiser reutilizar, não tem problema não, tá [participante]? Pode reutilizar aí sem problema. Mas assim, nativo, um feitinho que vai sempre ser utilizado, não tem. A não ser que você crie aí e conversa. Pessoal, o tipo de arquivo que a gente vai utilizar vai ser esse cara aqui. Esse aqui, o nome dele é arquivo, é genérico. Aí o que você pode fazer?
+
+93
+00:46:45,740 --> 00:47:07,820
+Então, como eu falei, a gente criou lá o tipo de item de configuração, bonitinho, a gente veio aqui e utilizou ele por meio desse campinho aqui. Uma outra forma é o seguinte, deixa eu ver se consigo apagar ele aqui. Consigo porque eu já gerei, já tem um arquivo junto a ele. Mas, por exemplo, eu vou tentar mudar o nome desse cara. Como que eu faria isso? Quando eu clico na folha azul, tem aqui a opção de coleção.
+
+94
+00:47:08,690 --> 00:47:40,480
+Aqui ele tem uma descrição. Eu posso utilizar essa descrição justamente para... Porque assim, quando eu faço utilizando aquela opção, olha só como ele fica aqui. Classe, anexo, property. Fica muito genérico para dar manutenção nisso depois. Fica terrível. Aí o que a gente faz? A gente dá um nome aqui para esse cara, folha de pagamento. Para justamente melhorar isso daqui. Porque, por exemplo, o cara falou, anexei um item de configuração lá. Você fala, mas aonde você anexou? Qual que é a atividade? Qual que você utilizou? Ah, utilizei folha de pagamento. Aí quando você vai vir aqui e vai fazer a sua pesquisa,
+
+95
+00:47:40,480 --> 00:48:09,550
+E está aquele genérico, é terrível de dar manutenção. Por isso é que a sugestão é sempre você vir aqui no... Depois que fizer isso que eu fiz aqui, botão direito, associar arquivo, vir na folhinha aqui e só dar um nome para o cara para facilitar a sua vida depois. Ele fica aqui no campinho de descrição, tá? Aí, por exemplo, uma outra forma mais longa de fazer isso. Deixa eu só gerar uma nova versão aqui. Fechar aquela parte.
+
+96
+00:48:11,020 --> 00:48:41,250
+Outra forma um pouquinho mais longa é o seguinte, eu estou aqui, né, então vou anexar de novo o cara aqui, eu já criei aquele folha de pagamento, eu venho aqui em coleção, adicionar, clico aqui, ó, tipos barra tipos para associação, esse aqui é um pouco bem mais longo, né, aí aqui eu vou adicionar, aí eu seleciono o tipo lá que é artefato, e aqui eu pego lá o folha de pagamento. É bem mais longo esse caminho, né, olha só. E novamente ele deixa também lá genérico, eu teria que vir aqui também.
+
+97
+00:48:41,250 --> 00:49:13,220
+Mudar para folha de pagamento. Fala, mas quando que eu vou usar esse modelo mais longo, cara? Tá doido? Não faz sentido eu ficar utilizando esse modelo longo. O detalhe é o seguinte, ó. Quando você utiliza esse cara aqui, pra fazer a modificação, ele altera o corrente. Ele não vai adicionando mais de um. Então, por exemplo, digamos que você queira adicionar mais de um item de configuração, mais de um tipo de anexo. Ah, você teria que fazer pela coleção. Aqui ele só consegue selecionar um arquivo por vez.
+
+98
+00:49:13,220 --> 00:49:46,100
+Ele não consegue selecionar mais de um e ir adicionando, tá? Então, deixa eu só voltar lá com o anterior. Então, eu não conseguiria ficar adicionando mais de um elemento utilizando esse atalho aqui. Teria que ser sempre um por vez. Um por vez não, um arquivo e acabou. Então, eu vou selecionar esse cara aqui. Beleza, acabou. Virou um erro aqui. Deixa eu fazer essa configuração para não... Pronto.
+
+99
+00:49:46,100 --> 00:50:13,040
+Novamente. Então, aquela opção lá é um atalho para quando você precisar adicionar apenas um item de configuração. Se você precisar adicionar mais de um, a opção é essa aqui, itens para associação, coleção, adicionar, seleciono a última opção aqui, clico naqueles três pontinhos, seleciono aqui artefato e vou lá pesquisar o meu folha de pagamento. Se eu precisar de mais um anexo, vou lá novamente, coloco lá artefato.
+
+100
+00:50:13,040 --> 00:51:04,910
+E, sei lá, deixo aqui, arquivo, análise de preso de condições, sei lá. Beleza, aqui eu vou dar um ok. Quebrei o processo aquela hora que eu tentei ficar alterando lá. Deixa eu fazer um ajuste técnico aqui. Então, nós temos aqui a folha de pagamento, eu vou adicionar mais um item de configuração. Adicionar, coleção, tipo de item de super coleção. E aí eu vou selecionar o artefato e vou adicionar mais um item. Deixa eu ver se ele está aceitando essa configuração.
+
+101
+00:51:06,960 --> 00:51:38,290
+Ele não tá deixando acionar mais 20 de configuração nesse elemento. Deixa eu ver, não tem permite. Tá, eu vou falar depois com o pessoal porque ele não tá mais deixando esse tipo de configuração. Mas assim, tô tendo problema aqui, não tô conseguindo configurar. Não tem problema. Deu esse tipo de problema, é aquilo lá, né? Tem que se virar nos 30. Eu vou aqui, adiciono um novo e nele eu adiciono um segundo item, tá? Você fala, pô, mas o ideal seria utilizar uma folhinha. Isso daqui, obviamente, o que vai mudar é que ele vai adicionar mais de uma folha, mais 20 de configuração.
+
+102
+00:51:38,290 --> 00:52:02,050
+Para mostrar, não a mesma informação, um outro item. O ideal seria que ele deixasse aqui. Já que está dando aquele erro de banco de dados, a solução mais rápida para não perder tempo com isso é vir aqui e criar um outro, não tem problema. E aí fazer a mesma configuração novamente. Eu venho aqui, vou anexar agora um outro item lá, por exemplo. Deixa eu ver aqui o que aparece para a gente. Análise de preço. Pronto. Acabou.
+
+103
+00:52:02,050 --> 00:52:34,500
+Tá bom, acho que realmente aquele processo lá, treinamento e tal, tá bom, já que a gente tá deixando, mas assim, no mundo ideal não, né, normalmente ele deixa, aí você anexar várias folhas aqui, eu não sei o que tá acontecendo nessa minha base aqui, talvez seja um erro aqui na nossa, nesse ambiente de treinamento, como é uma cópia, né, uma cópia simples, que esteja com alguma sujeira, alguma coisa aí do tipo aí que a gente precisa fazer uma manutenção nela. Mas pra efeito de treinamento aqui pra gente, isso aqui já atende, tá?
+
+104
+00:52:34,500 --> 00:53:04,030
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+105
+00:53:04,030 --> 00:53:34,320
+Deixa eu ver se a versão 9 está ativa. Deixa eu só ativar essa versão aqui e aí eu faço o teste nela. Beleza. Aí eu quero, por exemplo, nessa versão passar esses caras que eu anexei. Tem aqui, tipo de arquivos anexados. Eu clico aqui nessa opção, só expandir aqui para vocês, tipo de arquivos anexados, e vou adicionar lá o tipo de arquivo. Então, vou selecionar aqui, deixa eu ver se a gente acha a nossa folha de pagamento. Está vendo? Folha de pagamento, dou um OK e dou um salvar.
+
+106
+00:53:34,420 --> 00:54:05,580
+Vou clicar em uma instância lá. Como essa versão está na versão 8, vou reclassificar ela para a versão 9, para ela já pegar essa alteração. Eu venho aqui, clico nesse carinha aqui, para não ter que gerar uma nova. Aproveitar e mostrar para vocês uma outra situação que pode acontecer aí. Vou selecionar qualquer serviço aqui, vou dar um OK. Opa, beleza, já reclassificou para a versão nova, não preciso criar uma nova. Só que assim, ele voltou na atividade avançada já. Só vou voltar aqui, mas já está na versão 9.
+
+107
+00:54:05,580 --> 00:54:39,860
+Ou poderia criar uma nova, enfim. E aí eu vou avançar. Deixa eu só ver. Tá, eu já tinha criado naquela etapa lá um detalhe. Deixa eu ver agora, então, comunicados. Então, deixa eu ver pela hora, as duas às duas. Então, foi esse cara aqui, pelo horário, né? Vamos ver se ele conseguiu mandar lá o arquivo normalmente. Opa, tá aqui. Ele mostra aqui uma série de informações. Tem o exercício, atividade 01. Só seleciono o elemento que eu quero fazer o download, né?
+
+108
+00:54:40,210 --> 00:55:09,220
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+109
+00:55:09,220 --> 00:55:37,780
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+110
+00:55:37,780 --> 00:56:09,580
+Vocês conseguiram fazer? Tem alguma dificuldade? Isso aqui é legal de fazer, tá? Configurar o item de configuração. Eu sei que são alguns passos, então eu quero ver como vocês aí conseguiram fazer. E se não, a gente faz junto aí pra configurar, tá? O meu tá dando um erro. Ah, legal. Será que é o mesmo erro que o meu aqui, hein, [participante]? Você viu que tava... ou não? Acho que é. Você quer compartilhar essa tela com a gente, por favor? Quando eu vou salvar, eu criei aqui um suprimento. Quer dizer, eu terei criar aqui o suprimento.
+
+111
+00:56:09,710 --> 00:56:40,110
+Fiz a configuração, mas ele não aparece na lista. Beleza. Clica ali em artefato. Ah, tá. Ele tá com um equipamento ali, ó. Esse é o detalhe, tá? Tem que ser artefato. Isso. Tem que ser artefato. Aí, como eu não consegui, o que eu fiz? Eu vim aqui, cliquei pra adicionar e vi que tinha que criar um novo tipo. Aí eu criei direto aqui. Ah, tá. Que é esse aqui, ó. Suprimentos. Aí, coloquei. Só que quando eu salvo, ele dá esse erro.
+
+112
+00:56:40,110 --> 00:57:11,380
+É o mesmo meio que tá acontecendo no meu também. Pode dar um ok. A gente vai fazendo, talvez seja algumas configurações aí que seja quebrado, tá? Essa base nossa aí tá um pouquinho suja mesmo. Quer ver? Tire esse item de configuração aí, pode apagar ele. Tenta salvar agora. Salvar, atualizar. Beleza, deixou, né? Agora adiciona de novo o item de configuração, por favor. A gente vai fazer... Não, a gente vai ver se ele deixa. Aí botão direito, isso, seleciona ali o...
+
+113
+00:57:11,380 --> 00:57:49,230
+Qual que foi que você criou ali agora? Foi suplementos mesmo? É, suplemento tô, tá aqui. Então, mas aquele que você mostrou lá é esse daí, né? É, agora ele apareceu. Tenta salvar agora. É, tá dando... Tenta gerar uma nova versão, por favor. Vamos ver se a gente corrigiu com uma nova versão. Pode apagar esse cara daí, dar um salvar e atualizar. Eu já vi que tem uma versão corrente ali. Remova essa versão, por favor. Botão direito, isso. Pode gerar uma nova.
+
+114
+00:57:51,060 --> 00:58:24,560
+Isso é tudo questão de suporte, tá? Suporte a gente tem que muitas vezes fazer algumas coisas aí meabolantes pra conseguir fazer algumas coisas funcionarem. Beleza. Aí vamos lá de novo. Pra fixar essa barrinha você sabe, né? Aquela... Aquela barrinha. Aquela de ferramentas ali pra ficar fixa. Ah, sim. Beleza, vou dar um salvar ali. É, acho que... Será que se eu trocar... É isso que eu falo. É, vamos tentar colocar em outra...
+
+115
+00:58:24,560 --> 00:58:56,270
+Você pode dar um ctrl-c, ctrl-v, tá? Mas vamos fazer uma configuração mais longa. Ao invés de utilizar essa daí, vamos utilizar a outra lá que a gente tem, que é... Clica ali nas propriedades, né? Tem lá associação, coleção, perdão. Lá em cima lá, do lado direito. Lá nas propriedades mesmo, lá do... Isso aí, ó. Clica aí. Aí adicionar. Aí a última opção ali, tipo de... Isso. Adicionar.
+
+116
+00:58:56,430 --> 00:59:34,980
+E aí ele clica em, ao invés de ser equipamento, artefato, agora pesquisa aí aquele que você criou. Pode dar um ok. Ok novamente. Pode dar um nome aí pra ele, né? Só pra ficar mais fácil ali pra você depois fazer. Beleza. Pode dar um ok. Agora tenta salvar. É, acho que alguma coisa aí dá... Isso daí é alguma coisa da versão, tá? Talvez seja a sua base mesmo, que tá falando de assinatura ali. Talvez os outros consigam, tá?
+
+117
+00:59:34,980 --> 01:00:00,000
+Fico te devendo essa daí, [participante]. Realmente, talvez dê uma bloqueada aí. Mas é aquilo que eu mostrei lá no processo, tá? Acho que é alguma coisa de assinatura que eu tô vendo lá. Eu ia até... Os metadados eu acho que não resolve. Ia te segurar um pouco aí. Mas, basicamente, eu vi que você... O detalhe é que você sabe configurar. Então, sabendo configurar essas informações aqui, quando você estiver lá no ambiente da biotecnologia lá, ambiente zeradinho, né? Mas não tem esses problemas aí de base.
+
+118
+01:00:00,000 --> 01:00:27,150
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+119
+01:00:27,150 --> 01:00:54,060
+Vou apresentar para vocês como é que funciona essa questão de pesquisa de satisfação. É muito comum o processo de suporte, enfim, mas não só de suporte, obviamente, mas você vai visualizar ele mais ali na questão de suporte, tá? Como é que funciona? Aqui na nossa base eu já tenho já uma pesquisa criada. Então, as pesquisas ficam aqui, ó. Processo, processo, pesquisa de satisfação, tá? Se vocês acessarem aqui lá... Eu não estou vendo, não, essa tela.
+
+120
+01:00:54,060 --> 01:01:34,660
+Ah, perdão. Esqueci de compartilhar, que toda vez que vocês compartilham, cai a minha sessão aqui, eu esqueço de retornar. Então, deixa eu só fechar aqui essa galera, que tem muita informação aqui. Então, a pesquisa de satisfação, como é que funciona? Então, ao finalizar o processo, por exemplo, quando chegar nesse elemento aqui, eu quero que seja encaminhada a pesquisa de satisfação para o cliente, para ele dar um retorno para mim em relação ao meu atendimento, aos procedimentos que eu fiz, enfim, seja modelagem, automação de processo.
+
+121
+01:01:34,660 --> 01:02:01,040
+E aí vocês escolhem qual que vão ser as opções, tá? Mas aqui, ó, como que seria isso? Eu fico aqui em Processos, Processos, Pesquisas de Satisfação, tá? Aqui já tem algumas pesquisas de satisfação criadas, obviamente, tem essa aqui, Pesquisas de Satisfação, a gente vai criar uma do zero aqui agora, tá? Mas aqui eu só vou adicionar essa daqui pra vocês conseguirem visualizar como que ela seria a princípio. Então, tem um campo aqui no finalizador chamado Pesquisa Satisfação.
+
+122
+01:02:01,040 --> 01:02:34,260
+Eu vou selecionar aquela lá que eu mostrei agora há pouco, ó, pesquisa de satisfação, que é esse carinha aqui, tá? E vou executar esse processo, tá? Então, vou lá. Deixa eu voltar aqui. Deixa essa aba aqui. Vou utilizar essa daqui. Deixa eu ver a versão 9. Versão 9, salvar, atualizar, beleza. Vou avançar aqui no processo. O [participante] [participante], deixa eu colocar. Deixa eu ver só uma coisa aqui.
+
+123
+01:02:34,380 --> 01:03:06,750
+Deixa eu tentar me ajudar. Ah, mínimo aprovador 1. Quando está mínimo aprovador 1, você já sabe o que vai acontecer, né? Quando pelo menos um desses caras aprovar, a demanda avança. Então, eu vou aprovar aqui com... Estou aqui com o usuário [participante] [participante], vou aprovar essa demanda aqui. Facilitei minha vida ali, né? Beleza, avançou. Já criou aquela demanda filha, né? Do processo cadastro a fornecedor. Para acessar a pai associadas. E aqui ela já está aberta aqui para mim. Deixa eu fechar aquela 177.
+
+124
+01:03:06,750 --> 01:03:32,690
+Beleza, está parada aqui, ela não vai avançar, por quê? Porque está assíncrona. Então, enquanto eu não finalizar a filha, eu não avanço o pai. Para facilitar a minha vida, o que eu vou fazer aqui é teste mesmo, vou dizer que ela é uma chamada assíncrona verdadeira. Tem a opção aqui, chamada assíncrona, selecionei aquela atividade, verdadeira. Vou salvar, atualizar, vamos ver se eu já consigo ter esse comportamento aqui na ferramenta. Vou tentar avançar agora, beleza.
+
+125
+01:03:32,690 --> 01:04:02,960
+Show de bola. Aí o que acontece? Finalizei o processo, encaminhado a uma pesquisa de satisfação para o cliente. No caso aqui o cliente é o [participante], tá? Então lá no portal eu vou conseguir acessar a pesquisa de satisfação e responder. Só que aqui ele já marca para mim, quando ele está com essa carinha cinza aqui, significa que a pesquisa foi enviada, mas não foi respondida ainda. Isso no contexto do solucionador, tá? E aí eu abro aqui e vejo aqui que não foi respondida ainda. Tem aqui sem resposta, enfim, alguns detalhes aí da pesquisa.
+
+126
+01:04:02,960 --> 01:04:45,890
+Isso, claro, falando do solucionador, do [participante] [participante]. E aí, por exemplo, eu vou acessar lá, essa pesquisa só fica visível no portal, tá? Então eu vou acessar daqui e vou acessar com o usuário maiúsculo. Aí eu vou acessar o portal, tá aqui, ó, 179, né? Só que tem a filha lá. Vou acessar ela e tem aqui a pesquisa de satisfação. Aí ele cria aqui uma telinha legal pra eu responder. Só que assim, eu acho que essa ordem aqui tá um pouquinho...
+
+127
+01:04:45,890 --> 01:05:14,830
+Geralmente é do péssimo para o ótimo, não começando do ótimo para o péssimo, enfim. Mas como é que funciona? Vou preencher aqui que foi tudo ótimo e vou clicar aqui em enviar. Quando eu faço isso, a carinha aqui vai mudando, já ficou verdinha de alegre, tá? Aí eu vou reduzindo aqui, agora não é tão ótimo, aqui já é a opção do bom, tá vendo que ele marca ali, aparece ali, conforme você vai selecionar as estrelinhas ele vai aparecendo o que significa? Então aqui eu vou selecionar bom e vou clicar no enviar, ainda continuando verdinha. Mas olha só que trágico isso.
+
+128
+01:05:14,830 --> 01:05:44,460
+Eu solucionei apenas um regular, olha só o que vai acontecer. É triste isso, cara. Principalmente com pesquisas de associação com os clientes. A gente faz lá, faz um suporte, né? O cara coloca lá, ah, regular. Assim, regular na faculdade você passa, né? Regular seria aquela nota 6. Só que aqui pra gente não. Nota 6 é o fim dos tempos aí. Já fica aquela carinha meio amarela ali, né? Laranja, enfim. Enfim, aí você vai passando aqui o mouse, ele vai mostrando aqui o que seria cada um da...
+
+129
+01:05:44,460 --> 01:06:18,690
+Das informações, tá? Então eu vou colocar aqui péssimo, cara ruim. Clicar em enviar, olha lá, já fica vermelhinho. E aí tem relatórios de pesquisa de satisfação nativos aí que a gente implementa na ferramenta e tudo mais, né? Tem lá uns relatórios lá de pesquisa de satisfação. Deixa eu esquecer que eu botei lá. Que vai mostrar em detalhes ali a resposta do cliente, quais foram as respostas que ele respondeu de forma negativa.
+
+130
+01:06:18,690 --> 01:06:48,940
+Aí tem, novamente, como é um relatório nativo, né? Na nossa documentação explica ali o que seria cada uma daquelas informações que ele traz aqui no relatório. Dá um consultário aqui. E aí ele traz lá, ó, 100% péssimo, né? Ou seja, bem ruim mesmo o índice do cara. E ele vai trazendo mais informações. Aqui são as respostas, né? As perguntas, avaliação geral, tempo de atendimento, cordialidade. E ele coloca que até então, de todas que foram respondidas, 100% aí foi péssimo, né?
+
+131
+01:06:48,940 --> 01:07:17,230
+Aí ele coloca aqui a porcentagem de cada uma delas. Aí vocês podem, claro, evoluir, responder mais pesquisas e verificar o quanto isso vai mudando, o quanto essas informações aqui vão mudando ao longo do tempo. Aí ele coloca a área do cara, a área do cliente financeiro, enfim, uma série de situações aí para vocês avaliarem. Esse aqui é um relatório nativo da ferramenta. Estou passando ali. E aí ele coloca lá a ordem de serviço, avaliador, no caso o cliente.
+
+132
+01:07:17,230 --> 01:07:49,380
+O serviço que foi realizado, o processo, e aqui as perguntas, né? E aí como foi a resposta de cada uma delas, tá? E aí você pode variar lá também para ver qual que seria o comportamento. Deixa eu ver aqui, vou dar uma variada aqui para ver se ele já muda ali para a gente. Vai, vamos deixar aqui dessa forma. Ficou mais ou menos, beleza? Vou dar uma atualizada nesse relatório. Esse relatório vale a pena vocês desprenderem um pouquinho de tempo aí para entender ele, tá? Porque, se não me engano, internamente vocês utilizam ele.
+
+133
+01:07:49,380 --> 01:08:16,930
+Pelo menos no Rio de Janeiro eu vi que o pessoal utilizava. Olha lá, já mudou, né? Já teve ali bom e regular. Coloca a porcentagem de cada um deles. Ó, bom e regular. A avaliação geral tomou... A avaliação geral e cordialidade ali teve uma avaliação boa. Regular foi o tempo de atendimento. Esse regular aqui de tempo de atendimento é sempre... É bem próximo do regular, tá? O cliente nunca tá... Por mais que você atenda ele rápido, o cara vai colocar regular até pra não...
+
+134
+01:08:16,930 --> 01:08:51,420
+Deixar você muito feliz no dia a dia. Deixa eu ver ali se ele gerou paginação. E ali ele traz um pouco mais compacto agora as informações, não deixa tão descritivo ali as informações. Então aqui, por exemplo, ele traz a porcentagem de cada uma delas, bom foi 100% para cordialidade, regular 100%, e aí para avaliação geral teve uma avaliação boa. Enfim, aqui ele traz alguma série de informações.
+
+135
+01:08:51,420 --> 01:09:20,800
+E aí vocês podem envolver isso daí para entender como é que funciona, o que seria cada campo, cada informação, né? Agora vamos fazer o seguinte, a gente vai criar a nossa pesquisa de satisfação, tá? Bom, como é que a gente faz isso, então? Eu vou fazer o seguinte, ó, vou fechar esse cara aqui, beleza. Para criar a pesquisa de satisfação, quero que vocês, por favor, me acompanhem nesse passo aí, tá? Então a gente vai lá em Processos, Processos, Pesquisa de Satisfação, a gente vai colocar...
+
+136
+01:09:20,800 --> 01:09:51,820
+Questões de pesquisa, perdão, grupo de questões. Esse cara aqui é onde vai criar o peso para cada questão, basicamente, tá? Então, ó, processo, processo, pesquisa de satisfação, grupos de questões. E aí a pegadinha, né? Deixa eu só conectar aqui. Novamente lá, processo, processos, pesquisa, grupo de questões. Cliquei nela. Aqui vocês vão ver que já tem uma taude principal, a gente vai criar a nossa, tá?
+
+137
+01:09:52,300 --> 01:10:25,420
+A gente vai criar, pode ser qualquer, esse nome aqui pode ser qualquer nome que vocês queiram utilizar, tá? Então, vou colocar, sei lá, questões gerais, alguma coisa do tipo. Beleza? E aqui, ó, na parte de score, é onde eu vou dar a avaliação para cada uma delas. Então, sabe aquela sequência? Ótimo, bom, regular, péssimo. É aqui que eu vou dando o peso para cada uma delas, tá? Então, por exemplo, ó, eu vou começar lá pelo péssimo, tá? Então, por exemplo, péssimo.
+
+138
+01:10:25,520 --> 01:10:55,060
+Eu vou fazer o contrário, não vou colocar agora e deixou lá, não. E aqui o valor, vou colocar um peso menos 2. Esse peso menos 2 é uma receitinha de bolo, tá? Então, conforme você vai, basicamente a gente utiliza lá aquela plano cartesiano, sei lá, né? Começa do zero, acho que é pra direita ele é positivo, pra esquerda é negativo, né? Mas basicamente são os pesos de cada uma das avaliações que o cara faz, tá? É receita de bolo isso daqui. Infelizmente é basicamente, ó, faz assim que dá certo, tá?
+
+139
+01:10:55,060 --> 01:11:26,590
+Mas podem variar depois para verificar se tem alguma diferença. Então, péssimo. Na sequência aqui vai ser o ruim. Ele vai ter o peso aqui de menos um. É maior do que menos dois, nesse contexto. Aí a gente vai colocar aqui na sequência o dois, que é a sequência. Aí vai ser o regular, por exemplo. Regular já vai ter o peso zero, que é maior que os demais, apesar de ser zero. Aí aqui na sequência vai ser três.
+
+140
+01:11:26,590 --> 01:12:06,480
+E aí vai ser bom. E aí o último aqui, a quarta opção, vai ser o ótimo. E aí o peso dele vai ser 2. Beleza? Então eu tenho um básico... Opa, deixa eu colocar aqui porque eu esqueci de colocar aqui para o valor do bom, que é 1. Então ficou dessa forma aí, ó. Péssimo, ruim, regular, bom e ótimo. E aqui o peso de cada um deles, tá? Vou esperar vocês terminarem aí para concluir aqui.
+
+141
+01:12:16,460 --> 01:12:48,460
+Oi, quem fala? Oi, [participante]. O meu aplicativo aqui está dando uma mensagem de erro. Erro é iniciar sistema, uma mensagem original. Uma das chaves serializadas é minha. Iniciei aqui já, já tentei reinstalar, mas ele não está indo não. Eu acho que há alguma coisa local na máquina. Você está usando a máquina da empresa, [participante]? Não, eu estou usando a minha. Será que seria o caso de fazer... Nada da empresa.
+
+142
+01:12:48,460 --> 01:13:44,800
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+143
+01:13:44,800 --> 01:14:09,780
+Parar do lado da máquina, ela funciona. Exatamente. Esse foi o melhor exemplo de todas. Mas eu acredito em você, porque esse é um erro que acontece muitas vezes sim, tá? Isso daí, infelizmente, pode ser alguma coisa que ele não consegue carregar, enfim, tem execução, ele se perde, aí depois ele, quando você tenta recargar de novo, ele consegue. Mas acontece sim, tá? Eu acredito em você aí, então, eu sei que isso acontece mesmo. Tá bacana, valeu.
+
+144
+01:14:11,180 --> 01:14:39,630
+Eu vou fazer o seguinte, eu vou então esperar você fazer essa parte aqui, é bem tranquila, tá? Para fazer essa configuração, você vai lá em Processos, Processos, Pesquisa de Satisfação, Grupo de Questões, tá? Você vai ver que existem apenas uma aí para você, que é o grupo principal. Aí você vai clicar em Novo. Aí vai estar aqui em Dados Principais, aqui em Dados Processos que vai dar um nome, pode ser Questões Gerais, tá?
+
+145
+01:14:40,460 --> 01:14:56,300
+E aí lá no Score, você precisa montar essa mesma sequência que eu fiz aqui. Beleza. Péssimo, ruim, regular, bom e ótimo. Aí coloca lá zero, um, dois, três, quatro, e aí os pesos ali de cada um, tá? Beleza.
+
+146
+01:15:01,840 --> 01:15:42,260
+Vou deixar um pouquinho aqui no mudo porque tá passando o carro da... Ah, já foi embora. Beleza. O próximo passo é o seguinte. Se você precisar revisar depois, tá, [participante]? Eu só tenho questões gerais aí. Ele tem uma... Tem basicamente a mesma situação. O detalhe é que ele começa lá pelo ótimo, né? Por isso que ele começa da esquerda pra direita. Eu só mudei essa ordem aqui, tá bom? Então deixa eu voltar lá.
+
+147
+01:15:42,610 --> 01:16:07,570
+Aquela parte também de mensagens que vocês estavam fazendo no começo da aula, aquilo ali eu vou assistir depois, depois eu vou fazer. Beleza, sem problemas. Agora é o seguinte, então a gente montou basicamente aqui o peso de cada uma delas, o próximo passo aqui é voltar aqui de novo, processo, processos, a gente vai lá agora então montar lá a nossa questões das pesquisas, tá? Então vem aqui, questões de pesquisas.
+
+148
+01:16:07,950 --> 01:16:37,520
+Já tem algumas, são aquelas que aparecem lá para a gente utilizar, né? Mas aqui já tem o peso lá, né? Que eles utilizam o grupo principal. A gente vai criar o nosso aqui, então, agora. Clico em novo. E aí, por exemplo, sei lá, eu vou fazer algo bem fora do que a gente tem lá, tá? Então, por exemplo, vou colocar aqui, digamos que ele esteja modelando um processo, tem lá a área de escritório de processo da empresa de vocês, né? E vocês queiram aí verificar junto ao cliente, a área demandante lá, como é que foi alguns pontos lá. Então, por exemplo, modelagem.
+
+149
+01:16:41,650 --> 01:17:11,230
+O texto aqui é um explicativo, modelagem do processo, alguma coisa do tipo. Aí eu vou escolher o grupo lá, do peso, vou escolher o nosso lá, questões gerais. Salvar, beleza. Aí eu clico aqui e vou adicionando mais agora. Então modelagem, clicar em novo aqui. Agora eu vou perguntar da automação. Então, automação dos processos. Vou escolher aqui qual o peso que eu vou utilizar novamente e salvar.
+
+150
+01:17:11,230 --> 01:17:46,930
+Vou fechar aqui e vou clicar uma nova, sei lá, modelagem, automação, agora formulários, alguma coisa do tipo, formulários. Vou clicar só esses três aqui para também não ficar se alongando muito nessa parte. Então aqui um explicativo, formulário das atividades, sei lá. E aí eu vou escolher aqui novamente esse peso, salvar. Feito isso, agora eu vou criar minha pesquisa de satisfação, onde eu vou vincular esses caras aqui.
+
+151
+01:17:46,930 --> 01:18:13,020
+Beleza, fiz isso, né? Fui lá em processos, eu estava mexendo com essa etapa aqui agora, questões da pesquisa. Agora eu vou fazer o seguinte, vou lá em classe de pesquisa e aí eu vou criar a nossa. Vou escrever aqui pesquisa de satisfação dos processos, alguma coisa do tipo. Esse cara aqui é sempre sem.
+
+152
+01:18:13,020 --> 01:18:43,020
+Basicamente é isso, a receita de bolo é 100 ali. Algumas coisas é via código, então não consigo explicar para vocês, mas esse valor tem que ser 100, a quantidade de vezes que a pesquisa será enviada. E aqui eu vou clicar as questões que eu vou utilizar, então são aquelas que a gente criou. Clico aqui em novo e vou selecionando elas. Formulários, vou selecionar aqui modelagem, confirmar e fechar, e deixa eu ver aqui, automação.
+
+153
+01:18:44,110 --> 01:19:42,260
+Beleza, vou salvar aqui. Com isso, tem aqui, ó, pesquisa de satisfação dos processos, tá? Tem a nossa pesquisa gerada. O que eu preciso fazer agora? Só ir lá no nosso processo. Só ele pensar aqui, tá pensando aqui. Depois do almoço, o Supravizio fica com sono, ó. Aí ele dá uma segurada. Beleza. Deixa eu fechar todo mundo aqui pra facilitar a minha vida. Eita. Vamos, Supravizio. Carregando. Beleza.
+
+154
+01:19:43,470 --> 01:20:17,100
+Vou lá no meu processo e mudo, por exemplo, lá. Vou utilizar lá o cadastro fornecedor. Não vou utilizar esse aqui não, já vou deixar com aquela que já gerou ali para a gente, cadastro fornecedor, para vocês entenderem que pode ser qualquer processo. E aí eu vou no finalizador, né? Vou na propriedade de pesquisa de satisfação, ou pesquisa de satisfação, e seleciono a nossa lá, ó. Pesquisa de satisfação dos processos. Aí, beleza, eu vou criar uma nova lá, então.
+
+155
+01:20:20,140 --> 01:21:17,260
+Vou selecionar aqui o [participante] [participante], embora seja um... só para derrubar a minha sessão, mas quando eu saco o [participante] vai derrubar de novo, na verdade, tem script lá, esqueci. Para facilitar a minha vida, eu vou fazer o seguinte, já que é o [participante] [participante] aqui, vou lá no meu script lá, ao invés de apontar para o [participante], eu vou colocar aqui o [participante] [participante]. Salvar, atualizar, vamos ver se já é nova. Beleza, já apontou ali o [participante] [participante], já deu certo o script. Vou colocar aqui teste.
+
+156
+01:21:17,870 --> 01:21:54,540
+Esses caras aqui são obrigatórios, tá? Mas, por exemplo, se eu queira, caso eles não sejam obrigatórios, eu volto lá no meu processo lá, ó, deixa eu salvar essa parte aqui, seleciono aqui, tem uma parte obrigatória, vou colocar aqui como falso. Vou atualizar, vou atualizar, vou salvar aqui pra não perder esse teste que eu já inserei ali, né, e vou atualizar. Ele tem que ficar ali azulzinho agora. Beleza, já não é mais obrigatório. Vou clicar no iniciar, vou avançar, vou aprovar.
+
+157
+01:22:01,390 --> 01:22:59,060
+Rapaz, agora ficou um pouco lento, acho que o pessoal está fazendo uma manutenção no servidor, aprovar, beleza, então estou aqui no cadastrar fornecedor, não gerou ainda pesquisa, porque não cheguei no final dele, vou avançar aqui normalmente, solicitante é [participante] [participante], então beleza, vou clicar lá no portal, 181.1, pressão portal, está lá, 181.1, clico nela, pesquisa de satisfação,
+
+158
+01:23:00,110 --> 01:23:30,160
+Ó, o que mudou agora é que eu deixei o contrário, né? Começando do péssimo pro ótimo. Então, ótimo, ótimo, ótimo. Ó, carinha feliz. Tá? Então, é bem tranquilo a pesquisa de satisfação, tá? E vocês podem variar. Aqui, por exemplo, eu fiz questionamentos em relação ao processo, tá? E aqui, se eu não me engano, ele tá ordenando em ordem alfabética, né? Ordem de automação dos processos, formulários e modelagem, tá? Ele não segue aquela ordem que a gente criou. Deixa eu só confirmar como é que tá a nossa ordem lá das perguntas.
+
+159
+01:23:58,740 --> 01:25:57,280
+Vou ver com o pessoal aqui se eles estão fazendo alguma manutenção no servidor lá, tá bom? Tá um pouquinho lento. Quando fica cinza assim é porque tá ruim mesmo a conexão. Deixa eu tentar reiniciar aqui porque senão... O que eu queria confirmar é só a ordem da pesquisa aqui, do questionamento. Questões da pesquisa. Não segue a ordem que a gente criou, tá? Ele fica em ordem alfabética lá no portal, tá? Acho que teve no treinamento da aula passada, teve um... O pessoal questionou essa questão. Ah, eu criei numa ordem...
+
+160
+01:25:57,280 --> 01:26:26,450
+Ele exibiu em outro. Provavelmente já está usando aqui uma ordenação, tá? Então começando com A lá, né? Obviamente ele faz uma varredura aqui. Então automação, formulários e modelagem. Provavelmente está ordenando em outro alfabeto isso daqui. E aí, bom, só um detalhe aqui que eu comecei do péssimo para o ótimo, né? Eu não comecei do ótimo, porque eu achei meio estranho lá aquela ordenação que ele montou na pesquisa anterior, né? Começando do ótimo e indo para o péssimo. Enfim, mas é só uma questão de layout nesse caso aqui, né? O que vale mesmo para a gente aqui.
+
+161
+01:26:26,670 --> 01:26:54,560
+É o que está aqui nas estrelas aqui. Então, conforme o cara vai respondendo, vai piorando aqui, ele vai mudando ali a carinha da pesquisa. Isso é bem legal de utilizar. Quando vocês tiverem um escritório de processo, alguma coisa do tipo interno na empresa de vocês, se vocês quiserem obter um retorno do cliente de vocês em relação a isso, é um diferencial utilizar aí. Ou mesmo, de repente, coisas externas da empresa também. De repente, você precisou de um serviço lá para um terceiro, alguma coisa do tipo.
+
+162
+01:26:54,560 --> 01:27:23,700
+Se você gostaria de saber a opinião deles em relação ao serviço que você prestou, você pode utilizar a pesquisa de satisfação para conseguir obter essa informação. E aí, com poucos passos aí, a gente configura, né? Então, basicamente, ali é só criar mesmo, o primeiro passo ali foi criar lá o peso das questões, né? Indo lá na questão de grupo de questões. A gente criou lá questões gerais, poderia ser pesos, alguma coisa do tipo, ou score de questão também. Colocamos lá o que a gente vai avaliar, né?
+
+163
+01:27:23,700 --> 01:27:51,820
+As etapas aqui, de péssimo a ótimo. Colocamos o peso aí de cada um. Fala, pô, mas se eu tivesse um nível a mais, seria menos três? Seria três ali? Como que seria medir isso daí? Eu iria seguir o mesmo critório aqui, tá? Não sei se anterior a péssimo, deixa eu ver o que tem pior que péssimo. Pior, sei lá, vamos colocar a palavra pior. Seria anterior a péssimo. Seria lá, eu colocaria menos três, sei lá. Porque aqui provavelmente ele deve estar usando alguma...
+
+164
+01:27:51,820 --> 01:28:21,070
+Você vê, começa no eixo zero aqui, aí da direita começa a aumentar e pra lá começa a diminuir. Eu acredito que ele use esse tipo de cálculo aqui pra conseguir aplicar os pesos, tá? Então, ah, se eu tivesse alguma coisa além de ótimo, aí eu colocaria lá, sei lá, sublime, sei lá, sublime, tá? Usando toda a minha oportunidade aqui agora, sublime. Aí teria lá a sequência 5 e o peso 3, né? Eu iria seguir essa mesma ordem aqui, mesma lógica, tá? Não iria, poderia...
+
+165
+01:28:21,070 --> 01:28:54,560
+Acho que nesse caso aqui, se eu colocasse, por exemplo, 10, é uma questão de ficar brincando com isso. Então, por exemplo, eu não sei, vou colocar aqui, sei lá, 10, e aqui eu vou colocar, sei lá, para o bom, vou colocar 9. Para efeito de layout, acredito que não tenha muita diferença não. Acho que ele usa esse eixo aqui, zero, e vai aplicando os pesos para os demais. Acho que o valor que eu coloco aqui depois, ele não vai influenciar em muita coisa não. Então, por exemplo, deixa eu atualizar aqui. Vamos ver se eu, conforme eu...
+
+166
+01:28:54,560 --> 01:29:24,220
+Varia lá muito para o ótimo, ele muda muita coisa aqui. Então, eu coloquei lá... Não consegue, hein, [participante]? Lá no Workspace, ele só exibe que a pesquisa não foi respondida. Aí você consegue acessar lá, ele gera um relatóriozinho lá com status, mas realmente responder via Workspace não rola, só mesmo no portal. Porque a ideia é que o cliente responda essa pesquisa, o cliente dá ordem de serviço. Geralmente é um cara externo, é um cara que não tem...
+
+167
+01:29:24,220 --> 01:29:50,800
+Perfil solucionador, enfim. Se for alguém interno da empresa, beleza, faz sentido o cara responder se, por exemplo, tiver um escritório de processo. E aí você esteja avaliando lá o seu processo. Mas, geralmente, é para pessoas externas, né? Não faria muito sentido você criar. Não sei, claro, que vocês queiram aí medir, né? Mensurar como é que está sendo, por exemplo, a avaliação dos processos internos, alguma coisa do tipo. Mas, realmente, só pelo portal, tá? Infelizmente, aí...
+
+168
+01:29:50,800 --> 01:30:00,000
+Só pelo portal mesmo é possível responder a pesquisa. Lá pelo Workspace, ele até mostra lá a carinha. Deixa eu voltar aqui.
+
+169
+01:30:08,460 --> 01:30:56,610
+Caramba, será que a minha internet está lenta? Speedtest. Vocês estão conseguindo me ouvir, né? Parece que a minha internet está um pouco ruim, pelo jeito. Enquanto isso, eu vou... Então, ó, deixa eu acessar lá, acessando com o [participante] Segundo 81.1. Até que não está tão ruim. Então, deixa só... Então, aqui, ó, o [participante], ele fica... Ele consegue só... Você consegue interceptar, só que o cara respondeu. Se você clicar aqui, ó, ele vai mostrar só um relatóriozinho só.
+
+170
+01:30:56,610 --> 01:31:27,150
+Que o cara respondeu como regular, que foi a pesquisa de automação. E aí, formulários lá, ele ainda não respondeu e nem a modelagem. É basicamente coisas, só um relatório mesmo. Responder a pesquisa em si não é possível não, tá bom? Senhores, a gente vai fazer um pequeno intervalo agora. Aí, na volta, eu vejo que se vocês têm alguma dificuldade para configurar a pesquisa de satisfação, se você se torceu à vontade para escolher as suas próprias questões, não precisa ser as mesmas que eu fiz aqui.
+
+171
+01:31:27,150 --> 01:31:55,170
+E aí depois a gente faz um pequeno exercício, sobrando um tempinho ali no final, a gente vê alguma coisa de formulário. Se não, até posso começar um pouquinho de formulário, depois a gente faz exercício. Eu vou ver qual que é a melhor abordagem ali, porque eu não sei se talvez dê tempo. Mas de qualquer forma, a questão de formulário tem na documentação também, né, caso a gente não consiga ver, eu apresento pra vocês algumas coisinhas ali, tá bom? Então, às três horas a gente retoma, tá bom, senhores? Tomar uma água lá e tomar um café, pra dar um susto aí, depois do almoço, dar um sono violento, né?
+
+172
+01:31:55,170 --> 01:31:57,300
+Então, até mais, senhores.
+
+173
+01:49:32,140 --> 01:51:37,330
+Opa, eu queria apresentar para vocês agora um pouquinho de, antes de a gente entrar no exercício, de formulários, tá? Coisas aqui bem básicas aqui, tá? Também não é algo muito complexo não, porque talvez a gente não tenha muito tempo. Deixa eu só aproveitar esse processo aqui mesmo, tá? Tá segurando bastante aqui. Vou gerar uma nova versão aqui. Vocês estão me ouvindo aqui, beleza. Gerar a versão, você sabe que é a versão 10.
+
+174
+01:51:44,110 --> 01:52:10,740
+Beleza. Aqui eu vou fazer algumas alterações do meu formulário, tá? Aqui eu tenho uns campos nativos, descrição detalhada, assunto. Eu vou remover esses caras aqui. Não vou utilizar eles aqui, mas vou criar campos customizados, tá? Campos customizados aqui é a primeira propriedade, então, né? Campo customizado. Até então a gente está usando essas propriedades aqui para utilizar nos formulários, tá? Então aqui, por exemplo, eu vou clicar em novo.
+
+175
+01:52:14,990 --> 01:52:47,150
+Vou mudar o nome aqui para o campo que eu vou utilizar. Então, por exemplo, sei lá, fornecedor. Ele vai pegar duas informações, a descrição e a descrição resumida. E aqui vai ser o nome dele na tabela, tá? Aqui sem carácter especial, sem acentuação. Então, se fosse, por exemplo, produção, seria producão, alguma coisa nesse sentido, tá? O tipo dele aqui vai ser um alfanumérico, vai ser um campo de texto, né? Onde eu vou colocar o nome do fornecedor, por exemplo. Aqui eu vou dar um tamanho de...
+
+176
+01:52:47,150 --> 01:53:19,410
+200 pixels para ele, vai ser a extensão dele no meu formulário. Vou dar um OK aqui. Ele vai adicionar aqui no meu formulário essa informação. Vou, por exemplo, aqui, sei lá, colocar contrato. É um campo chamado contrato. Copio aqui, copio aqui novamente, aqui a mesma coisa. Esse campo contrato vai ser... Deixa eu ver o que eu posso fazer. Vou clicar ele como sendo um...
+
+177
+01:53:19,410 --> 01:53:51,870
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+178
+01:53:51,870 --> 01:54:39,810
+Consegue conectar numa base de dados? Por exemplo, puxar uma listagem nossa que está lá no SharePoint, alguma coisa assim? Sim, sim, é possível sim. Esse exemplo aqui, por exemplo, eu estou criando uma listagem fixa, né? Mas eu poderia, por exemplo, fazer isso via banco de dados. Eu vou criar um outro exemplo que a gente vai fazer isso. Então, por exemplo, aqui eu vou só dar um OK então para ele criar, né? Terminar de criar o contrato. Beleza. Agora é o seguinte, ó. Eu vou, por exemplo, simular que o...
+
+179
+01:54:39,810 --> 01:55:28,400
+O [participante] comentou agora há pouco, tá? Que é o seguinte, por exemplo, é claro que eu não tenho uma base externa, tá, [participante]? Mas, por exemplo, eu vou fazer com que aquele meu, que um campo combo box, por exemplo, lixe algumas informações de um cadastro meu aqui, por exemplo, cadastro diário, sei lá. Deixa eu colocar aqui. Cara, não sei o que está acontecendo. Está bem lento. Deixa eu ver se a minha conexão... Aquela lá não estava tão... Não sei se é uma conexão local, se era um servidor.
+
+180
+01:55:29,390 --> 01:56:12,510
+Tá bem embaixo mesmo. Eu vou tentar reiniciar a minha internet aqui, tá? Pra ver se melhorar. Só um minutinho, talvez minha conexão caia. Aí depois, se eu sair da reunião, eu consigo conectar depois normalmente, né? Não vai parar de gravar aí pra vocês não, né? Eu vou só tentar reiniciar aqui porque tá um pouquinho lento, né? Deixa eu ver se... Tá, eu vou tentar continuar. Vamos ver se ele deixa aqui, né? Aqui.id. Então, por exemplo, simulando logo que o [participante] colocou. Claro que aqui seria uma base local, né? Seria a nossa...
+
+181
+01:56:12,510 --> 01:57:00,320
+Aqui as informações referentes nas suas áreas, tá? Então vou copiar esse cara aqui, testei certinho, voltar lá no processo, vou continuar adicionando, vou criar aqui um campo, por exemplo, chamado área responsável, alguma coisa do tipo. Área responsável. Não queria perder, deixa eu vir aqui então já. Combo box, que eu só vou pular, ao invés de concluir lá todas aquelas demandas, tá? Como eu dou um control C lá, não quero perder minha...
+
+182
+01:57:00,320 --> 01:57:26,220
+Então aqui vai ser um combo box, o tipo. Eu vou selecionar aqui, por exemplo, um script. E aí no script aqui, tem opção script para recuperação de opções. Eu clico nessa caixinha aqui. Aí ele tem aqui um tal de item, onde ele vai receber a informação. Aí aqui agora eu vou executar minha query, db.executeDataTable, e vou colocar lá minha query.
+
+183
+01:57:26,220 --> 01:57:54,900
+Esse campo aqui, ele armazena o ID, só que ele mostra a descrição, tá? Esse é o detalhe aqui. Ele vai ser do tipo inteiro aqui pra gente, tá? Ele tá com um alfanumérico, só que ele vai ser inteiro. Por quê? Porque ele vai armazenar o inteiro, que é esse ID, só que ele vai exibir essa descrição. Aí vocês vão ver na prática como isso funciona, tá? Vou dar um OK aqui. Só vou terminar de concluir aqui as configurações, né? Que eu não queria perder. Aqui vai ser área, underline, responsável.
+
+184
+01:57:57,620 --> 01:58:51,860
+Beleza, ele vai deixar em caixa alta, dá um ok aqui. Show de bola, dá um ok aqui. Agora, olha só como ele vai se comportar. Vou salvar aqui. Ah, não. Ah, não. Só deletar o azul. Vamos ver se deletar o azul já resolve, não é verdade? Bem lembrado, [participante]. Show. O [participante] já está no suporte aí, já está crack já. Vou fazer o seguinte agora, então, aqui. Vou ativar o nosso processo. Beleza, função 10.
+
+185
+01:58:51,860 --> 01:59:40,780
+Vou criar aqui uma nova versão. Opa, versão 9 ainda. Deixa eu só dar uma atualizada naquela listagem, né? Pra ele dar uma... Tomar um susto aqui. Também aqui. Atualizar. Beleza, agora sim na versão que eu quero utilizar, né? E aqui eu teria lá meus campos normais, né? Sei lá, [participante]. Aí o contrato, só aquela listagem lá que eu criei, né? E aí o responsável. O responsável está armazenando aí disso, só que ele exibe o descritivo, tá?
+
+186
+01:59:40,780 --> 02:00:00,000
+É assim que a gente funciona, utiliza um combo box aí para aquele armazeno inteiro e mostra o descritivo. É assim que a gente utiliza o combo box aí, basicamente, tá? Quando a gente vai fazer uma, por exemplo, um select ou numa base local, que é o caso, ou numa base externa. Se fosse uma base externa, a gente teria que criar uma string de conexão, né? Utilitários, conexão com multidata...
+
+187
+02:00:00,000 --> 02:00:40,460
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+188
+02:00:40,460 --> 02:01:20,140
+Mas se tivesse tudo certinho ele retornar um ok, conexão realizada com sucesso, esse nome aqui que eu utilizar lá na minha conexão, tá? Então, por exemplo, voltando lá no processo, deixa eu fazer o seguinte, eu vou tentar reiniciar aqui a minha internet, tá? Não, voltou. Tá, realmente tá dando uma segurada. Então, voltar lá no processo, se eu fosse fazer isso aqui no meu campo, né, eu vou acessar lá, então, a área responsável, aí qual que seria a diferença que seria basicamente o seguinte, ó.
+
+189
+02:01:20,140 --> 02:01:48,350
+Eu passaria um segundo argumento aqui dizendo de onde eu estou buscando essa minha query, tá? Então eu só passaria aqui aquela conexão que eu criei lá no passo anterior, tá bom, vai? Então é possível sim você fazer, por exemplo, essa busca numa base externa, desde que a gente crie para isso uma string de conexão, tá? E aí, claro, string de conexão ali também está na documentação de como a gente cria, mas é tranquilo, basicamente ali você pega uma string de conexão.
+
+190
+02:01:48,350 --> 02:02:15,980
+Na internet mesmo tem muitos exemplos, né? E aí montando esse tipo de conexão é só utilizar aqui na query e aí, por exemplo, se a gente tivesse lá uma base externa, é claro que não seriam essas tabelas, né? Seriam outras, mas eu conseguiria buscar essas informações a partir de outra base, tá? Sempre atualizado, né? Isso, exatamente. Eu queria manter uma base sempre atualizada e conforme você vai fazendo alguns itens, ele já vai dando opções para o chamado. Perfeito, exatamente. Muito bom, obrigado.
+
+191
+02:02:16,050 --> 02:02:45,900
+Tranquilo. E se essa base aí for sempre atualizada, né? Conforme toda vez que ele vai fazer um select, ele já pega os últimos itens, né? E ali você pode até criar uma, que a gente chama de view, né? Pra que a gente não consiga, porque na view é mais seguro o acesso à informação, a gente só consegue visualizar. Você fala que na SQL, por exemplo, uma restrição? Exatamente. Isso, por exemplo, ao invés de disponibilizar uma consulta, por exemplo, aqui eu tô indo direto nas tabelas, né? Do Supravizio. Tô indo aqui dando, realizando uma consulta diretamente nas tabelas. O ideal,
+
+192
+02:02:45,900 --> 02:03:14,780
+É que do seu lado, por exemplo, digamos que você tenha lá uma base, outra base aí, uma base, qual que seria o nome mesmo da base que você falou? No nosso caso seria lá os contratos em repactuação, pode colocar contratos mesmo, contratos em repactuação. E aí o que seria? Lá do seu lado lá, o pessoal de Infra, seja quem dá acesso ao banco de dados, ele ia criar uma view.
+
+193
+02:03:14,780 --> 02:03:44,640
+Na View, é basicamente uma consulta SQL, tá? Só que a View, ela não, por exemplo, não possibilita que eu faça, por exemplo, update ou deletar alguma informação. Porque da forma como tá aí, se você passasse a consulta direto, eu poderia ir lá, sei lá, delete from, e aí daria o nome da tabela, tá? Se você der permissão do jeito que tá ali, acabou. Eu vou lá e, inclusive, consigo tanto deletar informações quanto atualizar. Não é legal fazer isso. A partir dele, você consegue manipular a base, né?
+
+194
+02:03:44,640 --> 02:04:10,820
+Exatamente. Para evitar isso, faz a view. Exatamente. Aí você fala, cria uma view aí e a consulta é essa. Tem que trazer contrato, fornecedor, responsável. Não é o caso, mas só exemplo aqui. O cara vai criar uma view e aí quando eu for fazer lá no meu select aqui, eu vou estar selecionando informações da sua view e não da sua base diretamente. É uma forma da gente se proteger aí contra... Não que...
+
+195
+02:04:10,820 --> 02:04:39,820
+Terá a mal intenção desse lado aqui de fazer alguma coisa, né? Mas é só pra garantir mais... Porque assim, o cara pode errar, de repente ele tá achando que tá fazendo update local, mas na verdade tá fazendo update lá na sua base, né? Então pra não ter esse tipo de problema, só pedir pros caras criarem uma view, né? Que aí na view... A view o quê? Basicamente é uma consulta SQL, só que tem um comandinho na frente dela, né? Então, por exemplo, o cara que tá criando a view, ele vai lá e coloca lá... Dá um create, view... Opa!
+
+196
+02:04:41,870 --> 02:05:11,860
+StateView, tal, S, beleza. Aí ele, tipo, claro, tem o nome da view, né? Sei lá, é contratos. E aí ele cria. Aí ele criou, puf, acabou. Aí ele só passa o nome da view pra gente e eu faço select nessa view agora, não mais nessa tabela diretamente no banco de dados, tá? É só uma proteção a mais pra não ter problema aí de cabeça futuros, tá? Legal, mas dá pra saber que dá pra gente fazer o que a gente tá querendo lá. Umas coisas bacanas. Legal.
+
+197
+02:05:12,020 --> 02:05:51,220
+Obrigado. Opa, valeu. Aqui, nesse caso aqui, eu estou trabalhando com alguns campos aqui, com Bobox, de texto, poderia também criar uma tabelinha aqui, muito comum, por exemplo, como seria essa tabela, né? Então, vem aqui no meu formulário de novo. Aqui nós chamamos de grid aqui nesse cenário, tá? Deixa eu ver aqui, eu vou colocar aqui, sei lá, lista de contratos. Lista de contratos. Aqui eu vou chamar ela de grid, denário, lista, melano e contrato.
+
+198
+02:05:51,380 --> 02:06:28,050
+Isso aqui é tudo para saber que é uma tabelinha, porque batendo o olho aqui, chamando de grid, fica mais fácil para saber que é uma lista de registro. Ela é do tipo, lista de registro, seleciona ela aqui, e aqui nas colunas eu vou adicionar nos campos. Então, por exemplo, eu vou colocar lá, deixa eu adicionar aqui, esperar ele carregar lá, adicionei, cliquei duas vezes, vou deixar as duas, mas basicamente adicionar ele vai adicionar as propriedades, então eu coloco aqui descrição,
+
+199
+02:06:35,890 --> 02:07:05,360
+Aqui só tem duas informações, aqui só que não tem carácter especial, né? Descricão vai ser do tipo alfanumérico, o tamanho dele vai ser 200, e sei lá, dono, dono do contrato, alguma coisa do tipo, dono. E aqui, dono novamente. Também vai ser alfanumérico, com extensão de 200, tá? Vou, beleza, adicionei as colunias, vou dar um tamanho agora pro meu grid, né? Porque ali eu criei as colunas, né? Tem lá dono, descrição. Aqui eu vou dar um tamanho pro meu grid de 800.
+
+200
+02:07:06,260 --> 02:07:59,700
+Dá um OK. Beleza. Vamos ver como é que tá lá. Dá um Enter aqui. Olha, já adicionou nossa tabelinha lá, né? Bastaria agora adicionar as informações. Deixa eu só ver se eu consigo melhorar um pouquinho o layout dele aqui. Eu vou mudar aqui a opção no formulário, eu vou colocar aqui na própria linha. Só vou atualizar. Agora eu já dei uma melhorada no layout, fica mais fácil. Fica parecendo com o Excel, né? Então, sei lá, contrato...
+
+201
+02:08:01,680 --> 02:09:08,460
+Vou dar um flash aqui para ver se ele consegue atualizar. Não estou conseguindo inserir ali as informações. Teste, [participante] [participante]. Aí eu clico no OK e vai adicionando. Teste 2, [participante].
+
+202
+02:09:08,780 --> 02:09:37,780
+E vou adicionando, tá vendo? Então poderia ter, por exemplo, ao invés de utilizar campos aqui do tipo texto, combo box, poderia ter uma tabelinha e aí na tabelinha também poderia ter, por exemplo, um campo do tipo combo box, um campo, esse aqui são campos do tipo texto. Nada impede dentro dessa tabelinha aqui ter um campo também do tipo combo box. Então, por exemplo, poderia ter lá um campo chamado área responsável, um campo contrato, tá? Então ele é bem flexível também nesse ponto, pode ter todos os tipos também internamente, tá?
+
+203
+02:09:37,780 --> 02:10:09,040
+Isso é claro, e aí depende muito da necessidade de vocês, do dia a dia, enfim, de como vocês vão utilizar, tá bom? Só queria mesmo apresentar algumas formas básicas. Aí eu, por exemplo, poderia mudar a ordem dessas colunas aqui, ao invés de deixar uma embaixo da outra, ó. Eu venho aqui, por exemplo, esse cara aqui tá na primeira coluna, essa área é responsável. Eu vou colocar o contrato, ó, coluna na segunda coluna. Vou salvar, vou atualizar. Vamos ver lá como é que ficou isso. Vou só dar uma atualizada aqui no layout.
+
+204
+02:10:09,390 --> 02:10:38,700
+Ou seja, muda oral. Então já tem o fornecedor, o contrato, ou seja, você pode ir trabalhando o layout aqui também dos campos, para um layout que melhor ele atender aí, tá? Isso é claro, o ideal é que você veja lá no portal, porque geralmente pelo portal que as pessoas realizam as requisições, né? Mas também, claro, você pode fazer aqui pelo Workspace sem nenhum problema, tá? Talvez mude uma coisa ou outra, mas muito pouco. Mas aí se vocês quiserem trabalhar com essa questão aqui de alinhamento, é possível também. Então, por exemplo, eu quero agora colocar o...
+
+205
+02:10:38,770 --> 02:11:36,160
+Área responsável ali na terceira coluna. Deixa eu só selecionar as propriedades dele aqui, jogar na terceira coluna, atualizar. Então vai depender muito, obviamente, da densidade de cada um de vocês, mas dá pra fazer bastante coisa legal em relação a esse layout aí, tá? Tanto você colocar e mudar a ordenação dos campos, quanto criar vários tipos aí. Eu criei combo box, texto e de lista de registro, tá bom? São os mais comuns aí, né?
+
+206
+02:11:36,160 --> 02:14:24,960
+Eu tenho que poder usar o campo do tipo data também, né? Que é um campo que a gente tem lá no processo. Deixa eu só ele pensar aqui. Acho que vai ser o caso mesmo de reiniciar meu modem aqui, tá um pouquinho lento. Senhores, eu vou reiniciar o modem aqui porque tá um pouquinho lenta a conexão. Se eu sair da reunião, eu já acesso imediatamente, tá bom? Só pra ver se melhora aqui a nossa conexão, tudo bem? Beleza. Em questão de dois minutinhos aí eu já volto. Opa, estão me ouvindo, né? Dá pra ouvir, sim. Beleza.
+
+207
+02:14:24,960 --> 02:14:53,460
+Vou voltar aqui então com tudo essa, se se refeixar essa, vamos aceler de novo aqui.
+
+208
+02:16:26,100 --> 02:16:58,850
+Pô, só porque eu estava elogiando, o Nex, os praver esses dias, agora está... Bem que é, provavelmente é na internet mesmo, tá? Então, vamos voltar aqui. Na verdade, a questão de formulários aí que eu tinha para apresentar para vocês era isso, tá? Os tipos que a gente tem lá, ia mostrar o campo de... campo data, mas a gente já utilizou lá naquela data início prevista, data fim prevista, um campo do tipo data também. Vou só tentar criar mais um campo aqui, só para a gente tentar utilizar o nosso processo, tá? Vamos ver se ele deixa aqui na...
+
+209
+02:16:58,850 --> 02:17:59,440
+Beleza. Vou criar um campo aqui do tipo data. É o mesmo procedimento para criar os demais campos, tá? Texto, grid, é o mesmo procedimento aqui. Opa, versão nova, né? Versão 10 que a gente quer trabalhar. Deixar essa nova aqui. Mais um campo aqui. Ele vai ser do tipo data. Data de abertura. Copiar ele aqui. Data underline abertura.
+
+210
+02:18:00,370 --> 02:18:35,790
+E aí o tipo dele vai ser do tipo data e hora, tá? Aí aqui no controle, ó, tem um controle, esse cara aqui vai exibir somente a data e o de baixo vai ser a data e hora, tá? Vou escolher somente data, apesar de ser data e hora, tá? Então é aqui que você faz o controle disso daí, se ele vai exibir data e hora ou só data, tá? Dá um ok, esperar ele criar ali pra gente, beleza? Dá um ok aqui, salvar.
+
+211
+02:18:35,790 --> 02:19:08,780
+Vamos ver como ele ficou lá no nosso formulário. Vou dar uma atualizada aqui. Ele está na sequência, né? Então, por exemplo, quando eu seleciono aqui, ele abre um calendáriozinho para a gente manipular, tá? Então, aí fica o critério de vocês utilizarem o formulário. É bem tranquilo, é claro que eu não vou entrar na parte de script, né? Porque também não teria tempo para fazer alguns exemplos aqui, mas tem na parte da documentação também, lá na parte de... Essa parte aqui, ó. Ajuda, conteúdo. Ele está na parte... Quando você vem aqui em guia de administradores.
+
+212
+02:19:08,780 --> 02:19:37,100
+Configuração de Processos, Tópicos Avançados. Lá ele vai mostrar um pouquinho como utilizar, por exemplo, ele mostra o modelo cascado, seja habilitar, desabilitar um campo em função de outro, ou mesmo exibir, ou não, enfim, ele mostra uma série de coisas legais que vocês podem utilizar no processo de vocês, tá bom? Aqui, por exemplo, ele vai trabalhar com a visibilidade, e em outro momento ele vai trabalhar com se o campo vai estar habilitado ou não para o preenchimento, é bem legal essa parte, tá?
+
+213
+02:19:37,100 --> 02:20:07,540
+Realmente a gente não tem tempo para mostrar esses exemplos aqui, senão eu brincaria com alguns scripts aqui, mas ficaria um pouquinho mais complexo, né? Eu não sei se também ficaria muito viável para a gente fazer esse tipo de teste aqui. Aqui, por exemplo, está vendo que quando o acesso formulário não tem nome? Ele está lá bem genérico para a gente lá, está só preencher os seguintes campos. Você pode dar um nome para esse cara aqui, né? Então, eu clico no formulário e tem aqui o rótulo de entrada. Você pode colocar, sei lá, dados, gerais, chamada, alguma coisa do tipo.
+
+214
+02:20:07,920 --> 02:20:40,780
+Salvar aqui. Aí você pode, por exemplo, ter vários formulários ali, né? Então, cadê? Dados gerais do chamado. Você pode ter um outro formulário além desse, né? Por exemplo, mais de um formulário. E aí cada formulário tem ali uma... Agrupar o que ele vai trabalhar, né? Deixa eu salvar aqui pra ver se ainda dá erro. Beleza. Aí, por exemplo, vou colocar aqui o campo nativo mesmo, pra não perder tempo, tá? Então, vou colocar, sei lá, decisão detalhada, assunto.
+
+215
+02:20:41,650 --> 02:21:07,900
+E aqui eu poderia colocar, sei lá, assunto do chamado, algo bem simples mesmo, só para a gente simular esse caso aqui, tá? Você poderia, por exemplo, utilizar o formulário aqui para ir montando os agrupamentos ali, né, para facilitar a vida do cliente ali quando ele for preencher as informações. Então, dados gerados do chamado, aí você, por exemplo, dados gerados do chamado, aí que seria o assunto do chamado, teria um outro agrupamento de campos, né?
+
+216
+02:21:07,900 --> 02:21:36,160
+E aí, bom, aí ficaria a critério de vocês montar o layout aqui para facilitar a vida do cliente, tá? Aqui mesmo foi só mesmo de curiosidade, né? Não estaria previsto no nosso treinamento, mas como a gente tem um tempinho ali, e o [participante] também mencionou que ele vai trabalhar muito mais com as cartões de formulários, eu quis mostrar aqui alguns controles que a gente disponibiliza na ferramenta, e mesmo o layout, tá? Tanto essa parte de agrupamento, quanto os tipos de campo que a gente pode trabalhar, com grid, né? No caso aqui, a lista de registros, combo box, textos, enfim.
+
+217
+02:21:36,160 --> 02:22:09,680
+É bem rico aí de informações. Eu poderia, por exemplo, está vendo que esse texto aqui é bem reduzido, eu poderia utilizar um campo, esse tipo aqui, só para a gente finalizar essa parte. Então, vou acessar aqui, por exemplo, o fornecedor. Mas aquele campo ali está pequeno. O campo observação, por exemplo, eu vou criar um campo chamado observação, para facilitar a nossa vida. Vou clicar aqui, último campo, prometo. Acho que agora já deu uma melhorada. Então, aqui, observações. Observações, vou copiar esse cara aqui.
+
+218
+02:22:11,540 --> 02:22:38,990
+Vou tirar os caracteres especiais. Ele vai ser alfanumérico mesmo, só que ele vai ser do tipo memo. Ele é um texto um pouquinho maior. Então, por exemplo, eu vou dar a extensão dele, a altura e a largura. Vou dar um OK. Esse tipo de campo aqui é para textos mais extensos, mas, enfim, geralmente para observação, alguma coisa do tipo. Vou salvar aqui. Vamos ver lá como é que está agora. Ele vai ficar lá no campo assunto.
+
+219
+02:22:38,990 --> 02:23:10,260
+Olha só, então ele é um pouquinho mais extenso, eu posso aumentar ainda mais se eu quiser. Claro que ele está pegando a página toda aqui, então por isso que ele ficou do mesmo tamanho de página, não respeitando aquela largura que eu coloquei, ele acaba pegando o layout da página. Se eu tivesse lado a lado aqui, ele iria respeitar um pouquinho mais, tá? Então aqui se eu quisesse, por exemplo, alargar um pouco mais, é só acessar lá o campo novamente e aumentar a largura dele. Então deixa eu só ele carregar ali. Aqui está 60, eu vou colocar, sei lá, 100.
+
+220
+02:23:11,060 --> 02:23:57,010
+Salvar aqui. Salvar aqui também. Deixa eu só ver se ele manteve lá. Vou direto aqui pra não perder tempo, né? Se ele já aplicou as informações, ele vai deixar um pouquinho mais extensa a parte pra gente. Aumentou, mas não foi tanto assim também, né? Mas já tá... Enfim, ali dá pra deixar um campo mais extenso ali pra... Você vê que o texto é um pouquinho mais reduzido e esse campo aqui é mais... Então ele vai colocando, por exemplo, ó. Vai clicando aqui do lado uma...
+
+221
+02:23:57,010 --> 02:24:26,860
+Uma barrinha para você ir navegando, tá? Poderia deixar um pouco mais tenso que fosse o caso, mas vou deixar assim mesmo para não ficar também mexendo na propriedade que é só basicamente alterar ali o tamanho do campo, tá? Então é bastante tipo de informação, vocês podem utilizar bastante campo, muitos campos aí no formulário de vocês aí para deixar um pouco mais fácil a experiência do usuário, tá? E aí, como eu falei, é possível tanto fazer um select local quanto uma base externa, vai ficar a critério de vocês aí utilizar a melhor forma possível aí para o cliente de vocês, tá?
+
+222
+02:24:26,860 --> 02:24:51,440
+Em relação a esse grid aqui, você pode tanto editar quanto deletar o registro, tá? Mas você também pode tirar essas opções aqui se tiver necessidade. Então, por exemplo, ó, eu vou excluir esse carinha aqui. Aí, ó, confirma a exclusão, ok. Aí ele tirou o registro, mas aí você pode também fazer o seguinte, ó, pô, não quero que o cliente fique excluindo, não. Adicionou, acabou. Então, isso fica na própria configuração do grid, tá? Deixa eu só ele carregar aqui as informações.
+
+223
+02:24:54,060 --> 02:25:21,570
+Então, tem lá o meu grid. Por que eu coloco o grid? Fica mais fácil. Se eu tivesse colocado só lista de contrato, beleza, lista de contrato, ele ia sugerir que seria a lista, enfim, uma tabela de alguma coisa. Mas quando eu coloco o grid, eu já bato o olho e falo, opa, é nesse cara que eu vou trabalhar algumas coisas. Então, fica mais fácil, fica aí como sugestão para vocês aí, tá bom? Então, aqui, por exemplo, permitir a edição de registro verdade, permitir exclusão? Não, não quero que o cara exclua. Então, vou salvar aqui.
+
+224
+02:25:21,570 --> 02:25:52,350
+Agora é o seguinte, eu vou tentar atualizar o meu formulário. E aí, ó, o cara já não consegue mais excluir, só consegue editar e adicionar, tá bom? É claro, são questões muito específicas, né? De repente o cara vai poder... Como é a abertura de chamada, é interessante que o cara consiga excluir, né? Também a gente pode ser tão radical aqui. A gente geralmente exclui essas opções quando, por exemplo, eu utilizo aqui em atividades posteriores, tá? Eu não quero que, por exemplo, um solucionador...
+
+225
+02:25:52,350 --> 02:26:28,700
+Exclua aí, por engano, as informações que o cliente seriu, tá? Então aqui eu poderia deixar essa informação, vou aqui voltar pra verdadeiro. E aí, por exemplo, eu queria que o cara da atividade seguinte também visualizasse esses campos. Eu vou copiar esse mesmo formulário, eu vou colar aqui. Deixa eu só atualizar ali, beleza. Será que... Opa. Se ele tá pensando ainda. Beleza. Aí, por exemplo, aí aqui nesse cara aqui eu falo, não, aqui você não vai poder fazer nada, amigão, só mesmo visualizar.
+
+226
+02:26:28,700 --> 02:27:04,850
+Você não vai poder excluir, não vai poder incluir. Vou deixar ele alternar, mas também não vou deixar ele editar. Vou salvar aqui. Você só copiou e colou e ele já vai trazer a informação que foi preenchida no início? Exatamente. Não vai criar um novo grid, não? Um novo... Não, não. Como é o mesmo campo, a mesma referência, então ele fala que eu preenchi ela no portal, ele pega a referência e traz para a atividade seguinte. Ele não chega a criar um outro...
+
+227
+02:27:04,850 --> 02:27:32,660
+Outro grid vazio, não. Eu vou executar aqui a demanda só para a gente visualizar isso. Então, se eu precisasse fazer dois preenchimentos do mesmo item no mesmo fluxo, eu precisaria criar um outro. Não posso repetir, senão ele vai... Ele já preencheu, ele vai entender que já preencheu. Exatamente, exato. E aí, você teria que criar uma outra, por exemplo, você tem lá a lista de contratos e lá na frente lá você tem lista de pessoas, sei lá, alguma coisa do tipo. Aí seria um outro gridzinho, tá?
+
+228
+02:27:32,660 --> 02:28:20,720
+Se você utilizar o mesmo grid aqui que eu fiz lá, copiei e colei, quando você avançar na atividade, deixa eu ver se ele já conseguiu salvar ali, deixa eu só expandir para cá, vou iniciar, deixa eu só atualizar aqui, que está salvando, que está pensando. No último dia, poxa, dá uma seguradinha aqui, deixa eu ver se ele, deixa eu ver se a internet ainda continua um pouco ruimzinho. Minha dúvida é se é local, se eu não sei, se bem que ainda continua, é.
+
+229
+02:28:22,580 --> 02:28:54,510
+O download está bem, mesmo reiniciando aí. Hoje deu uma falhada aí na internet. Mas aí é problema local, tá, senhores? Aí realmente é problema, não é de supravisão, é problema aí na internet do treinador. Peço desculpas aí antecipadamente, realmente. Eu vou só tentar salvar essa parte aí, a gente já vai para o exercício, tá, para não ficar segurando muito vocês também nessa parte. Mas a ideia era apresentar aí alguns recursos de formulário, né, que não estavam previstos para a gente no treinamento, mas...
+
+230
+02:28:54,510 --> 02:29:30,430
+Como a gente conseguiu adiantar bastante coisa, então aproveitei esse gancho aí. Estou dando muita sorte agora por conta da internet. Deixa eu só ver se ele consegue salvar aqui. Essa parte de formulário é legal de utilizar, tá? Se você tiver um tempo aí depois para explorar um pouquinho mais os recursos aí, basicamente, é certeza que vai ter formulário aí na criação dos processos aí. Até agora, tudo bem que a gente estava usando o campo nativo, né? Que é o desse campo detalhado, assunto, justificativa, mas...
+
+231
+02:29:30,430 --> 02:30:00,000
+Essa parte de campos aí também, ela vai acontecer bastante aí no processo de vocês. Deu uma segurada boa agora. Que coisa.
+
+232
+02:30:00,000 --> 02:34:12,740
+Eu vou tentar só salvar aqui e executar o processo, senão a gente já começa a fazer o exercício aqui. Deixa eu fazer o seguinte, deixa eu ver se a internet... Opa, senhores, tentei conectar aqui numa outra rede aqui, mas eu acho que não deu muito certo, então eu voltei para a anterior, tá? Vou fazer o seguinte, eu vou só tentar conectar aqui novamente, senão o ideal seria a gente começar a fazer um exercício agora que eu tenho programado aqui, que basicamente é só mostrar mesmo ali o campo de...
+
+233
+02:34:12,740 --> 02:34:50,480
+Na atividade seguinte lá, os mesmos campos, né? Vou fazer o seguinte, enquanto a gente faz o exercício aqui, eu vou tentar avançar no processo, eu exibo para vocês no segundo momento, tudo bem? Ok. Então eu vou compartilhar minha tela aqui. Deixa eu só. Peço desculpas antecipadamente aí pelo problema técnico. Realmente ainda bem que foi no último dia e a gente conseguiu pelo menos passar todo o conteúdo, né? Se a gente não conseguir montar essa 15h45, né? Tem até 17h.
+
+234
+02:34:50,480 --> 02:35:20,670
+Mas basicamente esse seria o nosso exercício de hoje, tá? Então eu vou explicar para vocês o que seria. E aqueles que terminaram a gente faz aquela correção e ajuda aqueles que não conseguiram, obviamente. Mas assim, o processo aí vai ser, o nome do processo é lançamento de notas, tá? Então, por exemplo, ele vai ter um tipo de serviço ali chamado acadêmico. O serviço vai ser lançamento de notas. Então esse vai ser o primeiro passo de vocês, tá? Aí, atividades. Atividades ali vai ser, ó, lançar notas.
+
+235
+02:35:20,670 --> 02:35:49,940
+O papel vai ser professor e aí pode ser livre, tá? O professor aí, a pessoa que vocês vão relacionar o papel ao professor. Campos, lista de alunos. Essa lista de alunos, eu coloquei ali, ó, como se ele fosse aquele gridzinho nosso, tá? Como eu apresentei agora, se vocês não quiserem criar um grid e quiserem utilizar, criar campos de texto, alguma coisa do tipo, ou se não se sente à vontade ainda, pode substituir todo esse cara aqui por descrição detalhada, tá? Que também vai estar tranquilo.
+
+236
+02:35:49,940 --> 02:36:18,210
+Como eu apresentei, foi a primeira vez, né? Mas, enfim, eu deixei aqui como desafio aí, caso vocês queiram aí se aventurar nessa parte. Então, vai ter lá um gridzinho, né, com as colunas que a gente configurou, ou lista de decisão detalhada, se vocês não se tiram à vontade ainda, e um campo chamado ano corrente, vai ser um campo do tipo data. E aí vocês podem criar ele do tipo customizado, ou criar aquele data início lá, previsto, enfim, aquele que já existe também nativo, tá? Não tem problema não.
+
+237
+02:36:18,210 --> 02:36:44,180
+Na sequência vai ter uma atividade chamada Realizar Triagem, com papel auxiliar gestão, também é livre, tá? A pessoa que você vai relacionar aqui. E aí vai ter os campos. E aí é o seguinte, vão ser os mesmos campos que a gente tem aqui, ó. Justamente foi a etapa final ali que eu ia mostrar pra vocês, né? Uma cópia do que a gente tem na atividade anterior. Basta copiar e colar, né? Pra que esse cara aqui consiga visualizar as informações que o professor preencheu lá na atividade de lançar notas, tá?
+
+238
+02:36:44,180 --> 02:37:07,520
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+239
+02:37:07,520 --> 02:37:35,940
+E depois, para atividade, aprovação de segunda instância, tá? Isso, claro, se tiver aí pelo menos uma reprovação por nota, tá bom? Você fala, pô, mas como que eu vou saber que houve uma reprovação? Você vai estar, quando você estiver preenchendo lá a sua colunia, vai ter um campo status. Nesse campo status, você vai dizer lá, se foi aprovado ou reprovado, tá? E aí eu quero ver como que vocês vão fazer isso no processo, né? Como é que vocês vão indicar aí, como que ele vai fazer esse desvio, né? Vocês vão usar gate, como é que vocês vão fazer, tá? Beleza.
+
+240
+02:37:35,940 --> 02:38:04,590
+Aí, se aprovado em segunda instância, o processo deverá seguir para a atividade e lançar certificado. E aí o papel auxiliar gestão, novamente, com os campos lá, data, realização, professor auxiliar, depois, fim. Caso contrário, ir para a atividade e comunicar pais, ou seja, nesse caso aqui é quando o cara vai para a segunda instância, atividade de aprovação, e aí reprova. Por exemplo, eu tive três alunos aqui que reprovaram por nota, só que assim,
+
+241
+02:38:04,590 --> 02:38:32,660
+Todos eles vão ser reprovados mesmo, porque não tem chance. Porque a ideia aqui é que, mesmo que alguns alunos sejam reprovados por nota, de repente o reitor vai lá e fala, não, os caras são legais, sei lá, tem frequência, estão com alguma dificuldade, alguma matéria, está tranquilo. Então, foi aprovado aí em segunda instância. E eles podem passar ainda nesse cenário, tá? Não se preocupe em relação a esse tipo de situação, tá? É bem hipotético mesmo, não é verídico, tá? Então, só pra gente brincar aqui com algumas questões aí, principalmente com grid.
+
+242
+02:38:32,660 --> 02:39:01,230
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+243
+02:39:01,230 --> 02:39:28,740
+Se for reprovado, o professor deverá ser comunicado quando houver uma reprovação em segunda instância, ou seja, tem um evento lá chamado reprovação, tá? E aí, bom, basicamente esse é o nosso desafio, eu ia colocar aqui pra gente gerar uma pesquisa de satisfação final, mas como é algo novo, né, a gente não exercitou ainda, fica a critério de vocês aí montar ou não a pesquisa de satisfação, tá bom? Não é isso, como a aula tá sendo gravada e tudo mais, vocês podem fazer em segundo momento, eu não vou cobrar isso aqui agora não, porque...
+
+244
+02:39:28,740 --> 02:39:56,540
+Como eu falei, é coisa nova. Se fosse amanhã, né? Amanhã já daria para exercitar alguma coisa em sentido, mas para hoje é isso daí, tá? Eu quero... Se vocês tiverem dúvida em criar o gridzinho lá, a nossa lista de registros, a gente acessa e ajuda aí para fazer a criação, tá bom? Se não, você pode criar uma descrição detalhada aí que também resolve para a gente, tá? Sem galho aí, tá bom? Então, senhores, essa é a nossa atividade agora. Eu vou... Estarei por aqui caso precise de alguma ajuda para auxiliar, para acessar, enfim. E aí é isso, tá?
+
+245
+02:39:56,540 --> 02:40:34,340
+Então, boa sorte aí, não é valendo nota nem nada, tá? Só mais pra exercitar algumas coisas aí e fixar outras que a gente viu ao longo do treinamento, tá bom? Então, valendo aí. E aí, se não entender e quiser tirar alguma dúvida, pode chamar. Então, vou deixar no mudo aqui pra não atrapalhar vocês. Ah, detalhe, por favor, crie naquele meus processos, né, lista de atividades. Esse aqui pode ser, pode ter o nome aí, o nome do processo.
+
+246
+02:40:34,340 --> 02:40:40,210
+Não precisa ser atividade 01, 02, pode ser o próprio nome do processo, lançamento de notas, não tem problema.
+
+247
+03:08:00,400 --> 03:08:11,660
+Senhores, as pessoas que for terminando e quiser apresentar para a gente, pode chamar aí que a gente compartilha a tela para verificar como é que foi feito o processo, tudo bem?
+
+248
+03:20:51,090 --> 03:28:44,270
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+249
+03:29:01,650 --> 03:29:36,880
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+250
+03:29:37,620 --> 03:30:00,000
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+251
+03:30:00,000 --> 03:30:29,490
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+252
+03:30:29,490 --> 03:30:56,540
+Isso, é isso mesmo. Só que o evento é o início e aprovação. Mas tudo bem, não tem problema não. Ele é só uma questão mesmo de sintaxe. Esse daí, por exemplo, vai ser gerado quando o cara aprovar. Ou seja, quando ele aprovar, o reitor recebe uma amostra. É como se ele mesmo recebesse uma... Você aprovou, sei lá, alguma coisa do tipo, quando você está indicando para o reitor ali. No caso, ele seria o tipo de evento início e aprovação.
+
+253
+03:30:56,540 --> 03:31:25,440
+Tá vendo? É, eu fiz isso de novo, eu fiz de novo, né? Segunda vez que eu faço isso. Não, mas é porque confunde mesmo, você vê a aprovação, você vai direto ali, mas não tem problema não, é só uma questão mesmo de detalhe. Eu não consigo escolher, né? Eu não consigo escolher pra mover ele do tipo, né? Não dá, cara, infelizmente ele tem que... Tudo bem, o mais difícil é o modelo de comunicado só, depois que você cria o modelo de comunicado, basta você adicionar um novo registro aí e selecionar o modelo de comunicado, né? Então... Tá, deixa eu te mostrar então como é que ficou. Tá. Tirando isso, né?
+
+254
+03:31:25,440 --> 03:31:59,300
+Então, aqui, ficou para o reitor, lista de atividades, aqui eu coloquei aquele, para só colocar para o Notas. Como só tem um, não teria problema, se você adicionasse mais um aí, por exemplo, já teria problemas, então, legal. É porque aqui, a gente ainda tem vários. Ah, exatamente. Aí eu cliquei em Notas, Propriedade, vi... Espera aí, não. Onde que eu vi o nome da... A sigla, né?
+
+255
+03:31:59,300 --> 03:32:26,930
+É aí mesmo. Tipo de evento, tipo de subprocesso. Tem duas formas de fazer isso, tá? Beleza. A outra forma mais rápida é clicar fora aí do processo, em qualquer parte do processo. Propriedade, clica aí no... Isso aí, ó. Essa é a outra forma mais rápida de acessar a sigla dele. Mas beleza, foi de bola.
+
+256
+03:32:27,020 --> 03:32:56,820
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+257
+03:32:56,820 --> 03:33:26,290
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+258
+03:33:27,630 --> 03:33:56,750
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+259
+03:33:56,750 --> 03:34:25,540
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+260
+03:34:25,540 --> 03:34:55,820
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+261
+03:34:55,820 --> 03:35:25,620
+Entendeu? Tem duas aprovações. Entendi, entendi. Boa pergunta. Nesse caso, você teria que adicionar mais uma, mais um papel ali. Não, se bem que não. Deixa eu pensar aqui. Eu entendi seu cenário. Perfeito. Nesse caso, então, [participante], é aquilo mesmo que você utilizou lá, o evento, tá? Teria que usar esse outro aqui, né? Exatamente. Agora eu entendi o que você quis dizer. Você tá falando, vai receber, poxa, vai sempre pro mesmo cara, né? Assim, uma outra forma de fazer isso daí, só que eu não apresentei pra você, seria por script, tá?
+
+262
+03:35:25,620 --> 03:35:55,500
+Então, por exemplo, quer ver, volta lá naquele cara lá. Mas como a gente não apresentou, a sua solução foi boa. Então, pode clicar aí. Está vendo aquela aba de mensagem? Isso. Então, por exemplo, ao invés de adicionar o destinatário ali naquela primeira opção, eu tiraria esse destinatário. E aí, por script, eu montaria, sei lá, aí sim, por script, eu definiria lá qual seria o responsável. E se deixar em branco, ele não pega o último, não? Não, não. Se deixar em branco, ele não manda para ninguém nesse cenário aí.
+
+263
+03:35:55,500 --> 03:36:21,600
+Não tem último da fila aqui, não tem último, a pessoa que está com o processo, sei lá, alguma coisa assim. Só se você configurasse, mas aí você teria que criar um papel lá, último responsável pela atividade tal, aí ele iria funcionar. Entendi. Mas nesse cenário aí, eu deixaria sem destinatário, e na aba da mensagem... Esse cara aqui não resolve? Esse aqui? Ele vai mandar para o responsável.
+
+264
+03:36:21,600 --> 03:36:45,620
+Não, é um papel que pega o fluxo, não, é só um papel. É um papel que vai pegar o responsável atual, ele não vai pegar o aprovador que você configurou lá na folhinha verde. Entendi. Seria por script ou resolver daquela forma que você ia fazer lá. Por exemplo, só que nesse caso aí ele ia disparar para os dois, né? Aí o que você poderia fazer? Na mensagem ali você poderia ver se a...
+
+265
+03:36:45,620 --> 03:37:14,300
+Quer ver? Clica ali na mensagem, na segunda aba. Esse aqui também não, aprovador também não resolveria. Não, não, não resolveria não. Nesse caso aí teria que ser por script, por exemplo, if atividade.código foi igual a, sei lá. Aprovador. Não, infelizmente não é tão simples assim mesmo não. O que eu faria? Eu iria fazer o seguinte, se acho que atividade.código foi igual ao código da atividade, sei lá, 2, aí eu cancela a mensagem, se não...
+
+266
+03:37:14,300 --> 03:37:37,360
+Eu deixo a mensagem seguir. Mas assim, o script aí, somente para resolver esse problema seu aí que você apontou, seria somente por script mesmo. É que ele não é tão simples aí da gente implementar. A outra forma mais fácil seria fazer aquilo que você fez. De repente, não usaria então esse... Porque assim, no exercício lá, não seria duas aprovações, seria apenas uma aprovação.
+
+267
+03:37:37,360 --> 03:38:06,590
+Só que você enxergou duas, não tem problema. É só uma questão aí de interpretação do texto lá, tá? Por exemplo, como seria resolvido isso daí? Você teria que tirar aquele tipo de evento, então, e utilizar os eventos intermediários por mensagem. Aí sim resolveria seu problema, tá? Que aí, por exemplo, você colocaria ele antes de realizar triagem, né? Colocaria um elemento de mensagem e também um antes ali da aprovação de segunda instância. Pronto, assim você resolveria seu problema aí sem ter que mexer em script.
+
+268
+03:38:06,590 --> 03:38:35,730
+Então, acho que é uma boa solução essa que você encontrou aí, de colocar evento intermediário. Só que aí você teria que apagar aquele evento de aprovação, para ele não fazer aí quando ele for gerar aprovação. Eu poderia também... Entendi. Aqui, essa condição de que a... Aqui eu não sei se funcionou também não a questão da nota. Deixa eu abrir aqui para te mostrar. Ah, você criou o gridzinho? Eu não sei se deu certo não, sinceramente.
+
+269
+03:38:36,430 --> 03:39:12,900
+Tem configurações globais ali, ó. Você tem o botão direito aí, em cima do formulário, tem como acessar isso, clica nele aí. Ali as colunas ali, tá vendo, seu lado direito? Lá onde tem isso, diversos, tá vendo, tá armazenamento, aí depois tem diversos, aí isso, clica na coleção. Aí eu coloquei aqui o nome alfanumérico, nota decimal. Beleza. E status, eu botei...
+
+270
+03:39:12,900 --> 03:39:32,050
+Lógico, beleza, ele vai escolher um verdadeiro, beleza, certinho, é isso mesmo. É, mas aí eu fiquei pensando um pouco, como é que eu vou... Ele vai, é um combo box, ele vai mostrar pra você lá, tipo, um verdadeiro, um checkbox nesse caso, né? É uma caixinha que você vai marcar lá. Você marca lá, ele aparece, ele vem em branco e você, quando você marca, ele fica verdadeiro.
+
+271
+03:39:32,050 --> 03:40:02,930
+Ou seja, aqui eu teria que trocar o descrição por tipo assim, aprovado, marca, se não for aprovado ele não marca. É, nesse caso eu entendi sua lógica, então por exemplo, você pode colocar um campo status mesmo, só que aí ao invés de ser um tipo lógico, quer ver, muda ali o tipo dele, vamos colocar, ele seria ali um alfanumérico, por exemplo, e aí dentro do alfanumérico você mudaria ele para, quer ver, o controle seria um combo box. Combo box, beleza. Aí está vendo ali, fonte de itens para seleção.
+
+272
+03:40:02,930 --> 03:40:34,420
+Você vai mudar ali para listagem de itens, primeira opção. E ali, lista de itens, listagem de itens, você colocaria ali, por exemplo, aprovado, ponto e vírgula, reprovado. Agora sim, ponto e vírgula, reprovado. Beleza. Agora sim, seu status estaria lá tendo as informações que você gostaria de trabalhar. E aí, se eu quiser, que automaticamente o sistema veja que tem algum reprovado.
+
+273
+03:40:34,420 --> 03:41:01,380
+Ah, então, isso, olha só. Aí teria um script legal para fazer isso, tá? É claro que nesse momento aí, seria, pode dar um sim ali, seria tudo visual, né? Então, por exemplo, você está vendo que tem alguém reprovado, quando você fosse avançar, você iria ali pelo gator, ali pelo lado do sim. Para fazer isso de forma automática, aí teria um scriptzinho, né? Você teria que ler a sua tabela lá do, para ver se tem pelo menos algum reprovado.
+
+274
+03:41:01,380 --> 03:41:30,480
+E aí, por script, ele já pegaria automaticamente ali. Fazer com 3, 4 registros é tranquilo visualmente, mas imagina que você tenha lá 30 alunos, seria bem complicado. Aí teria que colocar um script aí pra ele fazer isso. Mas eu ia usar esse gate aqui ou ia usar esse mesmo? É esse mesmo. Quer ver? Deixa eu ver se eu tenho um exemplo aqui. Eu vou compartilhar minha tela com você, só pra você ver um exemplo aqui. Vocês, na verdade, né? Deixa eu só ver aqui se não tá aquele problema de...
+
+275
+03:41:31,500 --> 03:42:01,680
+Vamos ver se eu já consegui aqui. Tem um processo chamado Meus Processos. Como seria isso? Deixa eu ver aqui se eu tenho... Acho que eu tenho esse gateway aqui. Então, por exemplo, ele seria do mesmo tipo que você tem aí, dados ou fórmula, só que ele teria um campinho aqui, do tipo reprovado. Como é que vai funcionar? O que eu fiz aqui? Eu tenho aqui produtos, que na verdade também é um gateway, onde eu preencho algumas informações. E aí, no script dessa atividade aqui, eu vou percorrer...
+
+276
+03:42:01,680 --> 03:42:31,310
+Esse grid, essa tabelinha. Então, verifico lá. Aqui eu estou fazendo o seguinte. Eu vou armazenar nessa linha aqui. É só uma variável essa linha. Pode ser qualquer variável. Pode ser A, B, C, linha, enfim. KKK. Ela é só uma variável mesmo. Para armazenar as linhas do meu grid. Então, por exemplo, ele vai na primeira linha lá. Ele joga nessa variável linha o conteúdo. Aí eu tenho lá, por exemplo, nesse grid produtos. Olha só os campos que eu tenho nele. Deixa eu só fechar esses demais aqui. Vou acessar aqui produtos.
+
+277
+03:42:31,310 --> 03:43:01,230
+Produtos, eu acho que eu tenho duas colunas. Olha lá, tem descrição e status. Então, quando eu jogo nessa variável linha, eu consigo acessar essas colunas. Então, linha, indexado de status igual reprovado, aí o que eu faço? Eu criei um campo auxiliar aqui, do tipo... Esse campo aqui é um tipo lógico. Eu vou pesquisar aqui para você. Ele é um tipo lógico, booleano. Ele retorna um verdadeiro ou falso. Aí o que eu faço? Se eu encontrar pelo menos um reprovado, eu falo que esse cara aqui é verdadeiro.
+
+278
+03:43:01,230 --> 03:43:29,650
+E esse break aqui, o que ele faz? Ele para de ficar iterando, tipo assim, indo em cada linha do meu grid, porque assim, achou um, já para, já não quero que fique percorrendo mais para não perder tempo. Então, como que ele vai funcionar? Aí no meu gator aqui, em vez de eu fazer manual, ou seja, visualmente, vendo aqui essa informação e avançando aqui, eu deixei para que ele fizesse o cálculo por mim. Então, como ficaria? Olha só. Eu vou iniciar aqui uma instância.
+
+279
+03:43:30,510 --> 03:44:03,920
+Só pra gente visualizar esse caso. Vou nova. Ela tá aqui em papel. Vou aqui preencher algumas informações do processo. Isso aqui é aquele papel lá, né? Só fiz algumas alterações aqui pra brincar com os scripts e apresentar pra vocês depois. Que eu queria ir executando, né? Falar, ó, vocês fizeram manual, mas olha como seria por script. Então, por exemplo, vou colocar aqui, sei lá, A, e aqui eu vou colocar aprovado. Vou colocar aqui B, e aqui reprovado.
+
+280
+03:44:03,920 --> 03:44:35,540
+Nesse caso aqui, o que ele vai fazer? Quando eu avançar dessa atividade para atividade de triagem, ele vai ler esse grid aqui e vai ver se tem pelo menos algum reprovado. E aí, meu gate é o seguinte, houve reprovação? Como tem pelo menos um reprovado aqui nesse caso, ele tem que vir já para essa atividade aqui, chamada primeiro nível. Se não, ele vem para cá, nova tarefa. Então, eu vou avançar. Olha só. Opa, vou avançar agora. Ele só tinha atualizador.
+
+281
+03:44:37,140 --> 03:45:00,000
+Agora sim, olha só, ele fez isso de forma automática, porque tem pelo menos um reprovado, ele veio para a atividade que eu queria. E aí no caso de vocês, é claro que não teria script, porque a gente não entrou nesse detalhe durante o treinamento, mas eu ia apresentar de qualquer forma, porque está gravando e acho que vocês podem usar isso em um segundo momento. Como seria no caso de vocês? O gate de vocês seria manual, ou seja, você está vendo o reprovado aqui, quando você fosse...
+
+282
+03:45:00,000 --> 03:45:29,980
+O Gator vai perguntar, houve reprovação? Você responde sim ou não? E aqui no caso eu fiz ele de forma automática, deixei que ele se virasse para fazer essa pesquisa. Então basicamente o que eu fiz foi o seguinte, foi aquele script de algumas linhas, estou percorrendo aqui meu grid produtos, estou verificando se tem alguma linha com status reprovado, se tiver pelo menos uma linha, eu seto aqui verdadeiro com o campo reprovado, é um campo só de controle.
+
+283
+03:45:29,980 --> 03:45:58,910
+E aí eu venho aqui no gate e utilizo aquele campinho lá. Esse gate aqui só pode ter uma linha só. Eu não posso ter aqui, por exemplo, um código extenso de várias linhas. Aqui só posso ter uma linha. Ele tem que retornar um verdadeiro ou falso nesse cenário. Como aquele cara está retornando um verdadeiro, um true, ele cai aqui, ele retorna um verdadeiro e já vai pela setinha lá que eu trabalhei, que eu analisei. No meu caso aqui, primeiro nível. Então houve reprovação, ele veio pelo sim.
+
+284
+03:45:58,910 --> 03:46:23,460
+E aí como é que fica as saídas aqui, tá? Eu clico aqui, ó, valor de comparação true, no caso verdadeiro, né? Se não for, é falso, tá? Essa variável aqui, ela vai retornar, se, por exemplo, não tiver ninguém reprovado, por default ela já é falso. E aí ele vai pelo caminho inverso aqui, que seria nova tarefa, tá? Então, assim, não é muita coisa, né? O script é bem tranquilo.
+
+285
+03:46:23,460 --> 03:46:53,420
+Mas isso aqui não é tão fácil de imaginar nos primeiros dias, nos primeiros momentos. Então, no caso de vocês aí, o que aconteceu? Esse gateway aqui seria um gateway manual, ou seja, seria esse cara aqui, pergunta e resposta, porque vocês não teriam esse script aqui. E aí quando chegasse aqui, você iria dizer, houve reprovação? Como são poucos registros, eu ia falar, opa, reprovado sim. Mas aí imagina que tem, sei lá, igual eu falei, 30, 50, não faria sentido, né? Aí teria essa forma de automatizar o gateway aí, tá?
+
+286
+03:46:53,420 --> 03:47:25,710
+Oi, pode falar, [participante]. Quando você diz que aquela variável é true, ela não mexe lá no banco de dados, não? Ela não vira true, não? Porque não teria que voltar para o status falso depois de passar por isso? Status falso depois... Na verdade, essa variável aqui que eu criei, que é um campinho booleano, ela começa com status false. Ela não é, por exemplo. Pode falar. Depois que ela passa pelo caminho, ela vira true, né? O script vai fazer ela virar...
+
+287
+03:47:25,970 --> 03:47:55,100
+Isso, ela só vai virar true se atender essa minha condição aqui, se o status estiver reprovado. Então, depois que ela passa, ela não deveria voltar para false para nos próximos ela funcionar? Não, não, porque assim, sabe qual que é a minha pegada aqui? Porque assim, ele está percorrendo esse grid de produtos, né? Se ele encontrar pelo menos um que seja reprovado, para mim já está tudo certo. Eu só quero que ele analise pelo menos um, porque se eu deixar ele passando aqui várias vezes,
+
+288
+03:47:55,100 --> 03:48:25,490
+Ele vai passar a primeira vez. O primeiro é aprovado. Beleza. Aí o segundo é reprovado. Ele atualizou para reprovado. Aí o último é aprovado. Aí, ou seja, quando ele passar lá na atividade do Gator, ele vai estar como falso. Por quê? Porque ele está... Perdão, ele não vai estar como falso. Ele vai estar como... Como... Deixa eu ver. Nesse caso aqui, independe. Porque assim, ó... Se ele pegar... Eu posso... Por que eu coloco esse break aqui? Porque eu não quero que ele fique iterando toda a lista. Se tiver três registros, que é o caso, não tem problema.
+
+289
+03:48:25,490 --> 03:48:50,620
+Mas se tiver 50, ele vai percorrer os 50 itens aqui para atualizar essa variável. Então, por isso que eu coloquei esse break aqui. Com relação a esse cara aqui, ele não vai voltar a ser false, porque ele sempre vai pegar o último valor que eu inseri nele. Então, por exemplo... Então, imagina só, aí sai uma variável, né? Aí ele ficou true, beleza, passou. Aí vai fazer um novo teste na base.
+
+290
+03:48:50,620 --> 03:49:20,110
+E vai estar tudo lá aprovado. Entendi, entendi. Se você não voltar para o false, ele vai... Perfeito, perfeito. Ótima colocação, [participante]. Entendi sua dúvida. Na verdade, cada instância, ela tem um valor, tá? Então, por exemplo, essa instância aqui, ó, eu vou criar... Toda vez que eu crio uma instância, o valor daquele campo lá é setado para false, tá? Eu entendi agora seu ponto. Cada instância... Diz que você não voltou com ele. Eu entendi, perfeito. Eu entendi agora seu ponto. Você fala, pô, mas... Então, quer dizer que você criou lá a demanda lá, sei lá...
+
+291
+03:49:20,110 --> 03:49:47,470
+Essa daqui é a demanda. Deixa eu só preencher aqui as informações. Entendi o seu ponto, ótima pergunta. Você preencheu então as informações e agora, por exemplo, ela está como verdadeiro. Mas e se você colocar tudo aprovado? Nesse caso aqui, [participante], cada vez que eu gero uma nova instância, aquele campo lá volta para o valor original dele. Então, cada OS tem um valor de campo. Ele não é uma vez que você seta o valor dela na instância, por exemplo. Essa aqui é a instância.
+
+292
+03:49:47,470 --> 03:50:17,340
+Deixa eu só salvar aqui para ele gerar o número de ordem de serviço, né? Essa aqui é a instância 185. Então, para a instância 185, o valor daquele campo lá aprovado é falso. Então, por exemplo, vou colocar aqui todo mundo aprovado. Todo mundo aprovado. B, aprovado também. Nesse caso, olha o que vai acontecer. Opa, deixa só, ele gravou, né? Opa, perdão. Esqueci de salvar a informação ali. Então, aqui, aprovado. Vou aqui dar um OK.
+
+293
+03:50:17,340 --> 03:50:41,420
+Salvar aqui e vou avançar. Não tem ninguém reprovado. E aí ele foi pelo caminho de baixo. Por quê? Porque aquela variável lá, ela voltou para o valor original dela. Então, cada instância, ele começa zerado. Inclusive, aquela tabelinha ali, essa tabelinha aqui, ela só tem dois registros. Por quê? Porque o número da ordem de serviço mudou. Então, quando você cria uma nova instância, todos aqueles campos lá vêm com o valor original.
+
+294
+03:50:41,420 --> 03:51:08,720
+Cada instância é única, tá? Com os valores de campo. Se não, realmente, imagina que eu inicie aqui a 185 e ela já vem com aqueles itens preenchidos, né? Aí é por isso que, né? Então, cada instância enxerga os seus campos de forma única. Ela não é compartilhada entre os processos, tá bom? Aí, por exemplo, ah, eu queria saber quais são os valores desse campo nas demandas. Aí eu ia lá no banco de dados, né? Essa tabelinha, essa tabelinha aqui, ó.
+
+295
+03:51:08,720 --> 03:51:37,890
+Esse grid aqui tem uma tabela especial, fica na Z alguma coisa. No caso aqui é a Z012 e produtos. Então o que eu vou fazer? Se eu quiser saber quais são os campos que eu tenho nela, por exemplo, from, tal. Vou chamar ela aqui de Z para facilitar a minha vida. Eu vou pegar aqui Z.descrição e Z.status. E aqui sim, olha só, aí sim que ela traz todos os valores de todas as demandas.
+
+296
+03:51:37,890 --> 03:52:19,700
+Deixa eu só fazer aqui uma última jogadinha para a gente finalizar. Farei aqui um joy concorrência, só vou pegar o número da instância lá para você entender melhor. Igual a z ponto de andar na ocorrência. Então aqui eu vou pegar o número da demanda, os números. Olha o ponto número. Agora eu vou fazer um negócio legal aqui que é para finalizar. Vou pegar aqui aquele campo lá que fica na tabela CP. CP ponto de andar na ocorrência. Todo mundo liga a concorrência aqui, está vendo? A ocorrência acaba sendo a...
+
+297
+03:52:19,700 --> 03:52:48,640
+A tabela principal aqui do sistema. Vou pegar aquele campinho lá que era o tal do cp. Acho que era... Como que era o nome daquele campo no processo? Era... Deixa eu pegar aqui que ele tá no script só. Ele tá aqui reprovado. Então eu vou pegar aquele cara lá reprovado e vou trazer ele pra cá. Deixa eu ver se tá tudo certo. Deixa eu ver se eu cometi algum erro aqui. Opa.
+
+298
+03:52:48,640 --> 03:53:17,300
+Então, por exemplo, é claro que quando ele vem em branco aqui, significa que ele é falso, que ele está com valor negativo. Negativo não, perdão, falso. Aqui nesse contexto vazio significa falso. Então, para aquela demanda lá, 184, ele está como verdadeiro. Para 173, ele está como verdadeiro. São alguns testes que eu fiz aqui anteriormente. E aquela demanda lá, 185, foi a que a gente executou agora, ele está como falso. Então, para cada instância...
+
+299
+03:53:17,300 --> 03:53:47,260
+Ele volta com o valor original. E aí, depois daquela hora, você vai mudando durante a execução do processo. Aqui, por exemplo, está trazendo dois registros, porque eu coloquei lá A e A naquela nossa demanda. Acabei nem colocando B. São esses caras aqui. Então, nesse caso aqui, ele está como falso. Eu entendi a sua observação. Eu entendi, porque você, na verdade, não está trocando a variável que você cadastrou. Sim, você pega aquela variável e traz ela para dentro da sua instância ali.
+
+300
+03:53:47,260 --> 03:54:16,960
+Isso. Que aí você gerou um... Ah, não, vou chamar isso aqui de reprovado, mas é a mesma variável lá, Boalian. Exatamente. Cada instância aí... Poderia ser um outro nome aqui, se você quisesse. Poderia, exatamente. Eu criei essa variância, esse cara aí, reprovado, só para controlar essa informação do meu processo, né? Porque como no grid, no gate aqui, eu só consigo colocar um campo, então eu vim aqui e usei ele como uma espécie de um campo auxiliar. E aí, para cada instância, todos esses valores aqui, ó, começam resetados, ou seja, sem valor.
+
+301
+03:54:16,960 --> 03:54:44,050
+E aí, conforme eu vou executando, ele vai adicionando os valores. Tá bom? Então, eu entendi a sua pergunta aquela hora agora. A gente, assim, a questão de modelagem do processo ali, eu vi que você fez a questão, que ficaria diferente só a questão do gate, né? Que não teria o script, mas no geral tá legal. Eu ia conferir do pessoal também, mas a gente já estourou um pouco o tempo aqui, né? Mas eu vi aí que vocês desenvolveram bem no processo aí, né? Conseguiram fazer...
+
+302
+03:54:44,050 --> 03:55:12,740
+A maioria dos exercícios, claro que a gente não conseguiu corrigir todo mundo, mas o importante é conseguir fazer o principal, que é configuração do SLA, configuração dos eventos, configuração das atividades do processo, brincar um pouco com formulários. E aí, como eu falei, como está tudo sendo gravado, eu coloquei coisas a mais que vocês podem utilizar no dia a dia de vocês, que vão facilitar um pouco a vida de vocês. Então, senhores, muito obrigado pela presença de todos. Gostei muito do...
+
+303
+03:55:12,740 --> 03:55:36,670
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+304
+03:55:36,670 --> 03:56:05,700
+[Trecho omitido na versão pública: autenticação, identificador ou referência de acesso.]
+
+305
+03:56:05,700 --> 03:56:35,170
+Então, muito obrigado pela presença de todos aí. Acho que a gente vai se encontrar em futuras, algumas questões de suporte, algumas coisas aí que vocês precisarem, tá bom? Aqui na empresa temos eu, o [participante], inclusive seria o cara que estaria apresentando aí pra vocês, mas ele tá em outro projeto, né? E também tem o [participante], enfim, tem uma galera aí que pode aí ajudar em questões que vocês tiverem dificuldade, alguma coisa com os processos, tá bom? Muito obrigado a todos aí e boas festas aí. Ah, em questão ao certificado,
+
+306
+03:56:35,170 --> 03:57:04,980
+O [participante] lá, já mandei para ele, a turma de vocês também, e ele vai gerar os certificados. Em relação ao ano, vocês têm alguma observação, senhores, se vai gerar para esse ano, ano que vem? Porque a primeira turma comentou que seria melhor gerar com a data de 2021. Vocês têm alguma recomendação? A data do certificado? Acho que é melhor para 2021, tem aqui pelo menos, daqui é para contar para horas do ano que vem.
+
+307
+03:57:04,980 --> 03:57:33,700
+Entendi, entendi. Foi o que o pessoal da primeira turma comentou também, porque parece que esse ano vocês já conseguiram atingir a meta, né, e tudo mais, então seria melhor pro ano que vem. Eu já coloquei essa observação lá pro [participante] lá, e aí eu vou pedir pra ele gerar então pro ano que vem pra facilitar a vida de vocês aí, tá bom? Beleza. Então tá certo, pessoal, muito obrigado aí, desculpa qualquer coisa, a internet hoje deu um susto aqui, ainda bem que só foi no finalzinho ali, né, mas trabalhar de casa é um pouco disso também, às vezes, né?
+
+308
+03:57:33,700 --> 03:58:00,620
+Conta com alguns entrevistas. Muito obrigado por tudo, tá? Desculpa qualquer coisa aí e vamos seguir aí na automação de processo, tá bom? Obrigado, [participante]. Até mais. Valeu, [participante]. Obrigado pela paciência e boas festas. Feliz ano novo pra você aí. Muito obrigado. Pra vocês também. Vocês veem que eu tenho dificuldade de falar tchau, né? Eu fico me alongando até. Eu preciso trabalhar essa parte aí.
+
+309
+03:58:00,620 --> 03:58:06,800
+Valeu, galera. Muito obrigado por tudo, hein? Valeu.

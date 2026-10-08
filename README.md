@@ -1,6 +1,6 @@
 # Estudos de Supravizio
 
-Atualização em 08/10/2026. Este repositório reúne relatórios de aprendizado e progresso, preparados sem XMLs, scripts internos, dados pessoais, transcrições empresariais ou credenciais. Os materiais completos permanecem no computador.
+Atualização em 08/10/2026. Este repositório reúne relatórios de aprendizado e progresso. Os relatórios não incluem XMLs, scripts internos ou credenciais; as transcrições agora têm cópias com omissões sinalizadas. Os materiais completos permanecem no computador.
 
 ## Manual
 
@@ -25,3 +25,7 @@ Nenhum script da empresa foi executado no Supravizio. Houve teste de inicializa�
 - [Progresso do CHM](estudo-chm/PROGRESSO.json): 12 tópicos lidos integralmente e uma consulta pontual em 3.295 páginas extraídas.
 
 Inclui a fórmula de aprovação para o gateway, o comando de avanço automático da tarefa e a distinção entre aprovação pendente e reprovação.
+
+## Transcrições das seis aulas
+
+[Consultar as aulas em TXT e SRT](estudo-materiais/transcricoes/README.md). As cópias publicadas mantêm os tempos, substituem nomes de participantes e sinalizam trechos omitidos sobre autenticação, identificadores e referências de acesso. Transcrições automáticas podem conter erros; os originais completos permanecem locais.

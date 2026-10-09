@@ -1,0 +1,35 @@
+{
+  "publicacao": "2026-10-09",
+  "base_estudo": "2026-10-08",
+  "total_corpos": 1447,
+  "analise_estatica_estruturada": 1447,
+  "leitura_direta_registrada": 983,
+  "sem_leitura_literal_integral": 464,
+  "unidades_funcao_classe_perfis": 319,
+  "bibliotecas_nomes": 69,
+  "bibliotecas_variantes": 109,
+  "observacoes_conferidas_rodada": 32,
+  "parse_aceito": 1440,
+  "parse_falha": 7,
+  "execucoes_no_supravizio": 0,
+  "imports": {
+    "escopo_corpos_parseados": 1440,
+    "declaracoes": 4472,
+    "modulos_distintos": 33,
+    "corpos_com_import": 1385,
+    "AddReference_ocorrencias": 870,
+    "assemblies_distintos": 6
+  },
+  "busca_DGCO": {
+    "corpos": 53,
+    "DCGO": 0
+  },
+  "busca_Excel": {
+    "corpos": 2
+  },
+  "busca_CSV": {
+    "referencias_explicitas": 0,
+    "nao_prova_ausencia_de_rotinas_delimitadas": true
+  },
+  "metodo": "Estático. Parser CPython não confirma compatibilidade IronPython. Conteúdo publicado generalizado; originais empresariais ficam locais."
+}

@@ -1,9 +1,12 @@
 {
-  "data": "2026-10-07",
+  "data": "2026-10-08",
+  "publicacao": "2026-10-09",
   "total": 1447,
-  "corpos_interpretados": 294,
-  "pendentes": 1153,
-  "escopo": "Leitura do corpo executável; comentários e linhas de autenticação omitidos. Não equivale à revisão integral de segurança ou execução.",
+  "corpos_interpretados": 983,
+  "pendentes": 464,
+  "analise_estatica_estruturada": 1447,
+  "escopo": "Leitura direta de corpo executável. Outros 464 têm perfis estruturados revisados, sem registro de leitura literal integral. Não equivale a auditoria integral de segurança ou execução.",
   "execucoes_no_supravizio": 0,
-  "acesso_software": "Usuário informou que ainda não disponibilizou; estudar somente XMLs por enquanto."
+  "acesso_software": "Validação funcional de scripts ainda sem acesso confirmado ao ambiente.",
+  "referencia_atual": "scripts/COBERTURA.json"
 }

@@ -1,6 +1,6 @@
 # Estudos de Supravizio
 
-Atualização em 08/10/2026. Este repositório reúne relatórios de aprendizado e progresso. Os relatórios não incluem XMLs, scripts internos ou credenciais; as transcrições agora têm cópias com omissões sinalizadas. Os materiais completos permanecem no computador.
+Atualização em 09/10/2026. Este repositório reúne relatórios de aprendizado e progresso. Os relatórios não incluem XMLs, scripts internos ou credenciais; as transcrições agora têm cópias com omissões sinalizadas. Os materiais completos permanecem no computador.
 
 ## Manual
 
@@ -10,9 +10,12 @@ Atualização em 08/10/2026. Este repositório reúne relatórios de aprendizado
 
 ## XMLs e scripts
 
-Estudo estrutural de 104 XMLs: 98 exportações distintas e 113 subprocessos. Foram encontrados 1.447 scripts e expressões distintos, todos submetidos à checagem estática automatizada. A leitura interpretativa abrange 294 corpos executáveis, com 1.153 pendentes. Há 24 achados documentados para conferência; isso não representa 24 falhas confirmadas em produção.
+Estudo estrutural de 104 XMLs: 98 exportações distintas e 113 subprocessos. Foram encontrados 1.447 scripts e expressões distintos, todos submetidos à checagem estática automatizada. A leitura direta registrada abrange 983 corpos executáveis; 464 ainda não têm leitura literal integral registrada, embora tenham perfis estruturados revisados. A rodada aprofundada examinou perfis de 319 unidades distintas de função/classe e identificou 69 nomes de bibliotecas em 109 variantes. Foram registradas 32 observações conferidas nesta rodada; não representam falhas comprovadas em produção e podem se sobrepor aos achados históricos.
 
-- [Revisão interpretativa e cenários de teste](estudo-xml/REVISAO-INTERPRETATIVA-SCRIPTS.md).
+- [Conhecimento aprofundado de scripts](estudo-xml/scripts/CONHECIMENTO-SCRIPTS.md).
+- [Imports, DGCO, Excel e CSV](estudo-xml/scripts/EXEMPLOS-DGCO-EXCEL-IMPORTS.md).
+- [Cobertura da revisão aprofundada](estudo-xml/scripts/COBERTURA.json).
+- [Revisão interpretativa histórica e cenários de teste](estudo-xml/REVISAO-INTERPRETATIVA-SCRIPTS.md).
 - [Progresso agregado](estudo-xml/PROGRESSO-REVISAO-INTERPRETATIVA.json).
 
 Nenhum script da empresa foi executado no Supravizio. Houve teste de inicialização do cliente pelo Wine, com erro de referência nula; acesso funcional ao ambiente não foi confirmado. O áudio de seis aulas foi transcrito localmente (aproximadamente 23h31min); imagens foram revistas por amostragem.
